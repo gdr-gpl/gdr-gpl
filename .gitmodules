@@ -1,3 +1,6 @@
 [submodule "themes/hugo-dpsg"]
 	path = themes/hugo-dpsg
 	url = https://github.com/pfadfinder-konstanz/hugo-dpsg
+[submodule "themes/hugo-clarity"]
+	path = themes/hugo-clarity
+	url = https://github.com/chipzoller/hugo-clarity
