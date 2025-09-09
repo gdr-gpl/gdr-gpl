@@ -1,0 +1,8 @@
+{{ $title := .Get "title" }}
+{{ $links := where .Site.Data.links "title" $title }}
+{{ $link := index $links 0 }}
+{{ if $link }}
+  <a href="{{ $link.url }}" target="_blank" rel="noopener">{{ $link.title }}</a>
+{{ else }}
+  <span style="color:red">Lien non trouvé : {{ $title }}</span>
+{{ end }}
