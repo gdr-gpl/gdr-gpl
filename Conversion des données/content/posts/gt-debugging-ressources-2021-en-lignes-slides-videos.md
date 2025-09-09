@@ -1,0 +1,24 @@
+---
+title: "GT-Debugging : ressources 2021 en lignes (slides, vid\xE9os)"
+slug: gt-debugging-ressources-2021-en-lignes-slides-videos
+date: '2021-12-16 18:58:00'
+lastmod: '2024-08-22 19:04:51'
+draft: false
+author: Yves.Ledru
+categories:
+- An2021
+- Debugging
+- EvenementGPL
+tags: []
+summary: null
+---
+
+Bonsoir à tous,
+
+l'année 2021 du GT-Debugging s'est terminée par une présentation "Debugging Scientific Software" de Dorian Leroy, post-doc à Diverse/Inria, et dont les slides et vidéos sont disponibles [ici](https://debugging.inria.fr/meetings.html).
+
+Merci à Dorian pour sa super présentation !
+
+Toutes les ressources du GT-Debugging (slides, vidéos) sont également disponibles sur notre serveur de [fichiers](https://files-debugging.inria.fr/) .
+
+Bonnes fêtes de fin d'année à tous, et à l'année prochaine pour le GT-Debugging 2022!

@@ -1,0 +1,24 @@
+---
+title: "Appel \xE0 d\xE9fis (la suite...)"
+slug: appel-a-defis-la-suite
+date: '2025-06-16 16:13:57'
+lastmod: '2025-07-14 16:02:17'
+draft: false
+author: Yves.Ledru
+categories:
+- An2025
+- "D\xE9fis2025"
+- GPL2025
+tags: []
+summary: null
+---
+
+En ouverture des journées GPL2025, Pascal Poizat et Jean-Michel Bruel ont fait le point sur l'avancement de l'appel à défis 2025. Voir les transparents ci-dessous...
+
+![](https://gdr-gpl.cnrs.fr/wp-content/uploads/2025/06/GPL25_AppelDefis1.jpg)
+
+<https://gdr-gpl.cnrs.fr/wp-content/uploads/2025/06/GdRGPL2025-defis-1.pdf>
+
+Tout au long des journées, les responsables des défis ont travaillé à l'évolution et à la publicité de leurs défis.
+
+![](https://gdr-gpl.cnrs.fr/wp-content/uploads/2025/06/GPL25_Defis3.jpg) ![](https://gdr-gpl.cnrs.fr/wp-content/uploads/2025/06/GPL25_Defis2.jpg)
