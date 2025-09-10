@@ -13,18 +13,7 @@ Consultez la documentation technique ici :
 
 # Déploiement site Hugo sur VM
 
-## Prérequis
-- Git
-- Hugo
-- Nginx
-
-## Commandes d’installation
-
-```bash
-sudo apt update
-sudo apt install -y git nginx
-wget https://github.com/gohugoio/hugo/releases/download/v0.148.0/hugo_extended_0.148.0_Linux-64bit.deb
-sudo dpkg -i hugo_extended_0.148.0_Linux-64bit.deb
+## Scripts
 
 ### `install.sh`
 
@@ -34,8 +23,9 @@ Installe les dépendances :
 - `nginx`
 - `hugo v0.148.0` (version spécifique)
 
-```bash
-./install.sh
+```
+./scripts/install.sh
+```
 
 ### `deploy.sh`
 
@@ -46,5 +36,31 @@ Déploie ou met à jour le site :
 - Configure Nginx si nécessaire
 - Recharge Nginx
 
-```bash
-./deploy.sh
+```
+./scripts/deploy.sh
+```
+<!--
+## Prérequis
+- Git
+- Hugo
+- Nginx
+
+## Commandes d’installation
+
+`
+sudo apt update
+`
+
+`
+sudo apt install -y git nginx
+`
+
+`
+wget https://github.com/gohugoio/hugo/releases/download/v0.148.0/hugo_extended_0.148.0_Linux-64bit.deb
+`
+
+`
+sudo dpkg -i hugo_extended_0.148.0_Linux-64bit.deb
+`
+
+-->
