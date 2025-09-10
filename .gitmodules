@@ -1,0 +1,9 @@
+[submodule "themes/mon-theme/themes/mon-theme"]
+	path = themes/mon-theme/themes/mon-theme
+	url = https://github.com/gdr-gpl/theme.git
+[submodule "themes/mon-theme/theme"]
+	path = themes/mon-theme/theme
+	url = https://github.com/gdr-gpl/theme.git
+[submodule "themes/theme"]
+	path = themes/theme
+	url = https://github.com/gdr-gpl/theme.git
