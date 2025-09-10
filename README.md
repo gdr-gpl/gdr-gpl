@@ -4,13 +4,9 @@
 
 ## Redirections vers documentation
 
-### Pour les utilisateurs  
 Consultez la documentation utilisateur ici :  
 [docs/utilisateur.md](docs/utilisateur.md)
 
----
-
-### Pour les techniciens  
 Consultez la documentation technique ici :  
 [docs/technique.md](docs/technique.md)
 
