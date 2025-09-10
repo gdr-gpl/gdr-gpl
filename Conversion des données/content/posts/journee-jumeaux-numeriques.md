@@ -2,14 +2,24 @@
 title: "Journ\xE9e jumeaux num\xE9riques"
 slug: journee-jumeaux-numeriques
 date: '2024-08-19 15:33:32'
+date_gmt: '2024-08-19 13:33:32'
 lastmod: '2024-08-20 17:00:15'
+lastmod_gmt: '2024-08-20 15:00:15'
+pubDate: Mon, 19 Aug 2024 13:33:32 +0000
 draft: false
 author: Yves.Ledru
+post_id: '83'
+post_parent: '0'
+post_type: post
+menu_order: '0'
+attachment_url: null
+comment_status: closed
+ping_status: open
 categories:
 - An2024
 - EvenementGPL
-tags: []
-summary: null
+tags: null
+summary: ''
 ---
 
 Le jumeau numérique est un artefact logiciel complexe dont le domaine d’application est très large (biologie, sciences de la Terre, urbanisme, productique, médecine, archéologie, etc.). S’appuyant sur de nombreux modèles, collectant de grandes quantités de données parce qu’en communication constante (_selon un rythme de synchronisation adapté_  _à son usage_) avec son écosystème, avec un volet sobriété énergétique plutôt marqué, nous pensons qu’il concerne toute la communauté (IDM, architecture, sécurité, cycle de vie…). 

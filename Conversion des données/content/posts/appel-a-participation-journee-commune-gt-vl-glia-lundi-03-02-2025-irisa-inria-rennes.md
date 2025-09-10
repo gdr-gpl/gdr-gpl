@@ -3,16 +3,26 @@ title: "Appel \xE0 participation -- Journ\xE9e commune GT VL &amp; GLIA - lundi 
   \ - IRISA/INRIA, Rennes"
 slug: appel-a-participation-journee-commune-gt-vl-glia-lundi-03-02-2025-irisa-inria-rennes
 date: '2024-12-04 17:24:59'
+date_gmt: '2024-12-04 15:24:59'
 lastmod: '2024-12-04 23:01:35'
+lastmod_gmt: '2024-12-04 21:01:35'
+pubDate: Wed, 04 Dec 2024 15:24:59 +0000
 draft: false
 author: Yves.Ledru
+post_id: '302'
+post_parent: '0'
+post_type: post
+menu_order: '0'
+attachment_url: null
+comment_status: closed
+ping_status: open
 categories:
 - An2025
 - EvenementGPL
 - GLIA
 - VL
-tags: []
-summary: null
+tags: null
+summary: ''
 ---
 
 Faisant suite aux précédentes sessions et journées des GT GLIA et VL, nous proposons une journée spéciale commune aux deux GTs le lundi 03 février 2025 à Rennes, à l’IRISA et au centre de l’INRIA de l'université de Rennes. Nous aurons l’opportunité d’organiser cette journée en prélude à la conférence VAMOS du 04 au 06 février et en parallèle du workshop MODEVAR le lundi 03 février. Vous êtes évidemment invités à participer à VAMOS si vous le souhaitez.

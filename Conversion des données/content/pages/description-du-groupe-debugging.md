@@ -2,12 +2,22 @@
 title: Description du groupe Debugging
 slug: description-du-groupe-debugging
 date: '2024-08-22 18:53:17'
+date_gmt: '2024-08-22 16:53:17'
 lastmod: '2024-08-23 16:37:43'
+lastmod_gmt: '2024-08-23 14:37:43'
+pubDate: Thu, 22 Aug 2024 16:53:17 +0000
 draft: false
 author: Yves.Ledru
-categories: []
-tags: []
-summary: null
+post_id: '165'
+post_parent: '163'
+post_type: page
+menu_order: '0'
+attachment_url: null
+comment_status: closed
+ping_status: closed
+categories: null
+tags: null
+summary: ''
 ---
 
 ## GT Debugging

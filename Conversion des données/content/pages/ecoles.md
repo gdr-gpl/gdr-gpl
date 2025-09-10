@@ -2,12 +2,22 @@
 title: Ecoles
 slug: ecoles
 date: '2024-06-23 11:30:13'
+date_gmt: '2024-06-23 11:30:13'
 lastmod: '2024-12-08 16:39:31'
+lastmod_gmt: '2024-12-08 14:39:31'
+pubDate: Sun, 23 Jun 2024 11:30:13 +0000
 draft: false
 author: Yves.Ledru
-categories: []
-tags: []
-summary: null
+post_id: '30'
+post_parent: '0'
+post_type: page
+menu_order: '0'
+attachment_url: null
+comment_status: closed
+ping_status: closed
+categories: null
+tags: null
+summary: ''
 ---
 
 Le GDR GPL soutient la formation des jeunes chercheurs. Des écoles jeunes chercheurs bénéficient du soutien du GDR ou de ses groupes de travail.

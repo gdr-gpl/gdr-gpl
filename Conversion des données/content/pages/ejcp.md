@@ -2,12 +2,22 @@
 title: EJCP
 slug: ejcp
 date: '2024-06-23 11:31:10'
+date_gmt: '2024-06-23 11:31:10'
 lastmod: '2024-08-23 16:37:43'
+lastmod_gmt: '2024-08-23 14:37:43'
+pubDate: Sun, 23 Jun 2024 11:31:10 +0000
 draft: false
 author: Yves.Ledru
-categories: []
-tags: []
-summary: null
+post_id: '32'
+post_parent: '30'
+post_type: page
+menu_order: '0'
+attachment_url: null
+comment_status: closed
+ping_status: closed
+categories: null
+tags: null
+summary: ''
 ---
 
 ## **Présentation de l'Ecole des Jeunes Chercheurs en Programmation**

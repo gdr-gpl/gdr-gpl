@@ -2,13 +2,23 @@
 title: "Appel Mobilit\xE9"
 slug: appel-mobilite
 date: '2024-09-13 16:05:21'
+date_gmt: '2024-09-13 14:05:21'
 lastmod: '2025-04-23 17:46:50'
+lastmod_gmt: '2025-04-23 15:46:50'
+pubDate: Fri, 13 Sep 2024 14:05:21 +0000
 draft: false
 author: Akram.Idani
+post_id: '264'
+post_parent: '0'
+post_type: post
+menu_order: '0'
+attachment_url: null
+comment_status: closed
+ping_status: open
 categories:
 - ActionGPL
-tags: []
-summary: null
+tags: null
+summary: ''
 ---
 
 Le GdR Génie de la Programmation et du Logiciel propose régulièrement des bourses de mobilité en vue de coopération entre équipes.

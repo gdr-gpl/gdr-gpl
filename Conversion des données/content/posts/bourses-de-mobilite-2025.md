@@ -2,15 +2,25 @@
 title: "Bourses de Mobilit\xE9 2025"
 slug: bourses-de-mobilite-2025
 date: '2025-04-23 17:32:37'
+date_gmt: '2025-04-23 15:32:37'
 lastmod: '2025-04-23 17:38:15'
+lastmod_gmt: '2025-04-23 15:38:16'
+pubDate: Wed, 23 Apr 2025 15:32:37 +0000
 draft: false
 author: Yves.Ledru
+post_id: '409'
+post_parent: '0'
+post_type: post
+menu_order: '0'
+attachment_url: null
+comment_status: closed
+ping_status: open
 categories:
 - ActionGPL
 - An2025
 - "Mobilit\xE9"
-tags: []
-summary: null
+tags: null
+summary: ''
 ---
 
   

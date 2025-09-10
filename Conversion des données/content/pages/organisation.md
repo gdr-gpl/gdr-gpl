@@ -2,12 +2,22 @@
 title: Organisation
 slug: organisation
 date: '2024-06-23 10:11:32'
+date_gmt: '2024-06-23 10:11:32'
 lastmod: '2025-01-31 22:55:55'
+lastmod_gmt: '2025-01-31 20:55:55'
+pubDate: Sun, 23 Jun 2024 10:11:32 +0000
 draft: false
 author: Yves.Ledru
-categories: []
-tags: []
-summary: null
+post_id: '22'
+post_parent: '12'
+post_type: page
+menu_order: '0'
+attachment_url: null
+comment_status: closed
+ping_status: closed
+categories: null
+tags: null
+summary: ''
 ---
 
 Le GDR GPL est structuré en deux pôles, regroupant chacun plusieurs groupes de travail :

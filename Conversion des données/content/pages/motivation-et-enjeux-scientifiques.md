@@ -2,12 +2,22 @@
 title: Motivation et enjeux scientifiques
 slug: motivation-et-enjeux-scientifiques
 date: '2024-06-23 10:07:58'
+date_gmt: '2024-06-23 10:07:58'
 lastmod: '2025-01-27 14:10:44'
+lastmod_gmt: '2025-01-27 12:10:44'
+pubDate: Sun, 23 Jun 2024 10:07:58 +0000
 draft: false
 author: Yves.Ledru
-categories: []
-tags: []
-summary: null
+post_id: '18'
+post_parent: '12'
+post_type: page
+menu_order: '0'
+attachment_url: null
+comment_status: closed
+ping_status: closed
+categories: null
+tags: null
+summary: ''
 ---
 
 Le GDR Génie de la Programmation et du Logiciel (GPL) a été renouvelé par le CNRS pour une nouvelle période de 5 ans allant de janvier  2021 à décembre 2025. L’objectif du GDR GPL est d’animer  la communauté scientifique  dans le domaine du Génie Logiciel et de la Programmation, et également d’être un outil de prospective scientifique  dans ce domaine par les retours de notre communauté et ses collaborations avec d’autres communautés.

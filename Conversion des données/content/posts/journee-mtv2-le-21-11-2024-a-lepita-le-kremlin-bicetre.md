@@ -2,16 +2,26 @@
 title: "Journ\xE9e MTV2 le 21.11.2024 \xE0 l'EPITA, Le Kremlin-Bic\xEAtre"
 slug: journee-mtv2-le-21-11-2024-a-lepita-le-kremlin-bicetre
 date: '2024-11-05 11:14:01'
+date_gmt: '2024-11-05 09:14:01'
 lastmod: '2024-11-05 11:15:06'
+lastmod_gmt: '2024-11-05 09:15:06'
+pubDate: Tue, 05 Nov 2024 09:14:01 +0000
 draft: false
 author: Yves.Ledru
+post_id: '277'
+post_parent: '0'
+post_type: post
+menu_order: '0'
+attachment_url: null
+comment_status: closed
+ping_status: open
 categories:
 - An2024
 - EvenementGPL
 - MTV2
 - Uncategorized
-tags: []
-summary: null
+tags: null
+summary: ''
 ---
 
 La prochaine journée du groupe de travail MTV2 (Méthodes de test pour la validation et la vérification) du GDR GPL aura lieu le 21 novembre 2024, à l'EPITA sur le campus de Paris – Kremlin-Bicêtre   

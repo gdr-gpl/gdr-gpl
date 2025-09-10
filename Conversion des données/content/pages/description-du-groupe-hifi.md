@@ -2,12 +2,22 @@
 title: Description du groupe HiFi
 slug: description-du-groupe-hifi
 date: '2024-08-22 18:45:39'
+date_gmt: '2024-08-22 16:45:39'
 lastmod: '2024-08-23 16:37:43'
+lastmod_gmt: '2024-08-23 14:37:43'
+pubDate: Thu, 22 Aug 2024 16:45:39 +0000
 draft: false
 author: Yves.Ledru
-categories: []
-tags: []
-summary: null
+post_id: '160'
+post_parent: '156'
+post_type: page
+menu_order: '0'
+attachment_url: null
+comment_status: closed
+ping_status: closed
+categories: null
+tags: null
+summary: ''
 ---
 
 HiFi : Méthodes Formelles et Programmation Haute Fidélité pour Systèmes Critiques Emergents

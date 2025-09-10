@@ -2,12 +2,22 @@
 title: Description du groupe MTV2
 slug: desciption-du-groupe-mtv2
 date: '2024-08-22 12:17:11'
+date_gmt: '2024-08-22 10:17:11'
 lastmod: '2024-08-23 16:37:43'
+lastmod_gmt: '2024-08-23 14:37:43'
+pubDate: Thu, 22 Aug 2024 10:17:11 +0000
 draft: false
 author: Yves.Ledru
-categories: []
-tags: []
-summary: null
+post_id: '115'
+post_parent: '113'
+post_type: page
+menu_order: '0'
+attachment_url: null
+comment_status: closed
+ping_status: closed
+categories: null
+tags: null
+summary: ''
 ---
 
 **Méthodes de test pour la validation et la vérification MTV2**

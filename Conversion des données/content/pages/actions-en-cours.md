@@ -2,12 +2,22 @@
 title: Actions en cours
 slug: actions-en-cours
 date: '2024-09-13 15:56:57'
+date_gmt: '2024-09-13 13:56:57'
 lastmod: '2025-04-23 18:24:50'
+lastmod_gmt: '2025-04-23 16:24:50'
+pubDate: Fri, 13 Sep 2024 13:56:57 +0000
 draft: false
 author: Akram.Idani
-categories: []
-tags: []
-summary: null
+post_id: '257'
+post_parent: '0'
+post_type: page
+menu_order: '0'
+attachment_url: null
+comment_status: closed
+ping_status: closed
+categories: null
+tags: null
+summary: ''
 ---
 
 Plusieurs actions sont actuellement en cours

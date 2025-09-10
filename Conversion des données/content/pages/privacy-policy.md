@@ -2,12 +2,22 @@
 title: Privacy Policy
 slug: privacy-policy
 date: '2024-06-21 12:32:21'
+date_gmt: '2024-06-21 12:32:21'
 lastmod: '2024-08-23 16:37:43'
+lastmod_gmt: '2024-08-23 14:37:43'
+pubDate: Fri, 21 Jun 2024 12:32:21 +0000
 draft: true
 author: gplroot
-categories: []
-tags: []
-summary: null
+post_id: '3'
+post_parent: '0'
+post_type: page
+menu_order: '0'
+attachment_url: null
+comment_status: closed
+ping_status: open
+categories: null
+tags: null
+summary: ''
 ---
 
 ## Who we are

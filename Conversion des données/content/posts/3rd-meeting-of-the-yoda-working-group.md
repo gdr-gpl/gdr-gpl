@@ -2,15 +2,25 @@
 title: 3rd meeting of the Yoda working group
 slug: 3rd-meeting-of-the-yoda-working-group
 date: '2021-11-23 19:56:00'
+date_gmt: '2021-11-23 17:56:00'
 lastmod: '2024-09-08 19:58:36'
+lastmod_gmt: '2024-09-08 17:58:36'
+pubDate: Tue, 23 Nov 2021 17:56:00 +0000
 draft: false
 author: Yves.Ledru
+post_id: '230'
+post_parent: '0'
+post_type: post
+menu_order: '0'
+attachment_url: null
+comment_status: closed
+ping_status: open
 categories:
 - An2021
 - EvenementGPL
 - YODA
-tags: []
-summary: null
+tags: null
+summary: ''
 ---
 
 The 3rd meeting of the Yoda working group was held remotely on

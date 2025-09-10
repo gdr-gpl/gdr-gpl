@@ -2,12 +2,22 @@
 title: "Prix de th\xE8se GPL"
 slug: prix-de-these-gpl
 date: '2025-01-31 23:59:49'
+date_gmt: '2025-01-31 21:59:49'
 lastmod: '2025-02-01 00:58:03'
+lastmod_gmt: '2025-01-31 22:58:03'
+pubDate: Fri, 31 Jan 2025 21:59:49 +0000
 draft: false
 author: Yves.Ledru
-categories: []
-tags: []
-summary: null
+post_id: '376'
+post_parent: '257'
+post_type: page
+menu_order: '0'
+attachment_url: null
+comment_status: closed
+ping_status: closed
+categories: null
+tags: null
+summary: ''
 ---
 
 Créé en 2013 pour récompenser chaque année une excellente thèse préparée au sein du GDR GPL, le **Prix de thèse du GDR GPL** a pour objectif de promouvoir les travaux du GDR GPL auprès de la communauté informatique.

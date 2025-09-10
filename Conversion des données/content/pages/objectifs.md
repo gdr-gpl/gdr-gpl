@@ -2,12 +2,22 @@
 title: Objectifs
 slug: objectifs
 date: '2024-06-23 10:09:47'
+date_gmt: '2024-06-23 10:09:47'
 lastmod: '2024-08-23 16:37:42'
+lastmod_gmt: '2024-08-23 14:37:42'
+pubDate: Sun, 23 Jun 2024 10:09:47 +0000
 draft: false
 author: Yves.Ledru
-categories: []
-tags: []
-summary: null
+post_id: '20'
+post_parent: '12'
+post_type: page
+menu_order: '0'
+attachment_url: null
+comment_status: closed
+ping_status: closed
+categories: null
+tags: null
+summary: ''
 ---
 
 La proposition de renouvellement du GDR Génie de la Programmation et du Logiciel (GPL) vise des objectifs

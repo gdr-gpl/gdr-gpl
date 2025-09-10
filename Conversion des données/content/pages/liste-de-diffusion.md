@@ -2,12 +2,22 @@
 title: Liste de diffusion
 slug: liste-de-diffusion
 date: '2024-12-19 00:26:08'
+date_gmt: '2024-12-18 22:26:08'
 lastmod: '2024-12-19 00:26:08'
+lastmod_gmt: '2024-12-18 22:26:08'
+pubDate: Wed, 18 Dec 2024 22:26:08 +0000
 draft: false
 author: Yves.Ledru
-categories: []
-tags: []
-summary: null
+post_id: '343'
+post_parent: '12'
+post_type: page
+menu_order: '0'
+attachment_url: null
+comment_status: closed
+ping_status: closed
+categories: null
+tags: null
+summary: ''
 ---
 
 ## Une liste de diffusion a été créée : gdr.gpl@imag.fr

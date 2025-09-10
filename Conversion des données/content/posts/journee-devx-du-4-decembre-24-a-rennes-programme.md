@@ -2,15 +2,25 @@
 title: "Journ\xE9e DevX du 4 d\xE9cembre 24 \xE0 Rennes : Programme"
 slug: journee-devx-du-4-decembre-24-a-rennes-programme
 date: '2024-11-21 14:34:57'
+date_gmt: '2024-11-21 12:34:57'
 lastmod: '2024-11-21 14:34:57'
+lastmod_gmt: '2024-11-21 12:34:57'
+pubDate: Thu, 21 Nov 2024 12:34:57 +0000
 draft: false
 author: Yves.Ledru
+post_id: '286'
+post_parent: '0'
+post_type: post
+menu_order: '0'
+attachment_url: null
+comment_status: closed
+ping_status: open
 categories:
 - An2025
 - Debugging
 - EvenementGPL
-tags: []
-summary: null
+tags: null
+summary: ''
 ---
 
 La matinée sera réservée aux présentations (merci pour les propositions !) sur un format de 10 minutes pour présenter et 5 minutes de questions.  

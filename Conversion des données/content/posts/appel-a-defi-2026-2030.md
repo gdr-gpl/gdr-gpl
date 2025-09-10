@@ -2,14 +2,24 @@
 title: "Appel \xE0 d\xE9fis 2026-2030"
 slug: appel-a-defi-2026-2030
 date: '2024-12-05 19:10:56'
+date_gmt: '2024-12-05 17:10:56'
 lastmod: '2024-12-05 19:17:41'
+lastmod_gmt: '2024-12-05 17:17:41'
+pubDate: Thu, 05 Dec 2024 17:10:56 +0000
 draft: false
 author: Yves.Ledru
+post_id: '307'
+post_parent: '0'
+post_type: post
+menu_order: '0'
+attachment_url: null
+comment_status: closed
+ping_status: open
 categories:
 - ActionGPL
 - An2024
-tags: []
-summary: null
+tags: null
+summary: ''
 ---
 
 Dans le cadre des appels à défis 2026-2030, un certain nombre d’entre vous ont initié la liste 

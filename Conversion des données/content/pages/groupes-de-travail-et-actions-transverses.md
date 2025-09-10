@@ -2,12 +2,22 @@
 title: Groupes de Travail et Actions Transverses
 slug: groupes-de-travail-et-actions-transverses
 date: '2024-06-23 11:20:58'
+date_gmt: '2024-06-23 11:20:58'
 lastmod: '2024-09-08 20:29:33'
+lastmod_gmt: '2024-09-08 18:29:33'
+pubDate: Sun, 23 Jun 2024 11:20:58 +0000
 draft: false
 author: Yves.Ledru
-categories: []
-tags: []
-summary: null
+post_id: '27'
+post_parent: '0'
+post_type: page
+menu_order: '0'
+attachment_url: null
+comment_status: closed
+ping_status: closed
+categories: null
+tags: null
+summary: ''
 ---
 
 Les communautés scientifiques du GDR GPL sont organisées en groupes de travail et actions transverses. Les groupes de travail sont internes au GDR GPL, alors que les actions transverses réunissent une communauté associée à plusieurs GDR.

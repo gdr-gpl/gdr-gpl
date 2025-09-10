@@ -2,15 +2,25 @@
 title: "Programme de la Journ\xE9e GT Logiciel Eco-Responsable \xE0 Montpellier"
 slug: programme-de-la-journee-gt-logiciel-eco-responsable-a-montpellier
 date: '2024-11-06 21:52:10'
+date_gmt: '2024-11-06 19:52:10'
 lastmod: '2024-12-12 12:08:02'
+lastmod_gmt: '2024-12-12 10:08:02'
+pubDate: Wed, 06 Nov 2024 19:52:10 +0000
 draft: false
 author: Yves.Ledru
+post_id: '279'
+post_parent: '0'
+post_type: post
+menu_order: '0'
+attachment_url: null
+comment_status: closed
+ping_status: open
 categories:
 - An2024
 - Eco-Resp
 - EvenementGPL
-tags: []
-summary: null
+tags: null
+summary: ''
 ---
 
 Un rappel pour notre journée d'étude le 26 novembre 2024 à Montpellier au LIRMM.

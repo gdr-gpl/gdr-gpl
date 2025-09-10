@@ -2,12 +2,22 @@
 title: Sample Page
 slug: sample-page
 date: '2024-06-21 12:32:21'
+date_gmt: '2024-06-21 12:32:21'
 lastmod: '2024-06-21 12:32:21'
+lastmod_gmt: '2024-06-21 12:32:21'
+pubDate: Fri, 21 Jun 2024 12:32:21 +0000
 draft: false
 author: gplroot
-categories: []
-tags: []
-summary: null
+post_id: '2'
+post_parent: '0'
+post_type: page
+menu_order: '0'
+attachment_url: null
+comment_status: closed
+ping_status: open
+categories: null
+tags: null
+summary: ''
 ---
 
 This is an example page. It's different from a blog post because it will stay in one place and will show up in your site navigation (in most themes). Most people start with an About page that introduces them to potential site visitors. It might say something like this:

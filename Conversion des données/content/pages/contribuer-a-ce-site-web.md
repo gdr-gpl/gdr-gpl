@@ -2,12 +2,22 @@
 title: "Contribuer \xE0 ce site web"
 slug: contribuer-a-ce-site-web
 date: '2025-01-27 14:36:10'
+date_gmt: '2025-01-27 12:36:10'
 lastmod: '2025-01-27 14:36:10'
+lastmod_gmt: '2025-01-27 12:36:10'
+pubDate: Mon, 27 Jan 2025 12:36:10 +0000
 draft: false
 author: Yves.Ledru
-categories: []
-tags: []
-summary: null
+post_id: '366'
+post_parent: '0'
+post_type: page
+menu_order: '0'
+attachment_url: null
+comment_status: closed
+ping_status: closed
+categories: null
+tags: null
+summary: ''
 ---
 
 Cette page est destinée à tous les contributeurs du site GDR GPL. Les contributeurs du site sont des membres du GDR GPL. Ce statut leur est accordé à leur demande par l'administrateur du site.

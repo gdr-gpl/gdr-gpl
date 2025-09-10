@@ -2,15 +2,25 @@
 title: "Journ\xE9e MTV2 le 16.03.2023 au LMF, Univ.Paris-Saclay"
 slug: journee-mtv2-le-16-03-2023-au-lmf-univ-paris-saclay
 date: '2023-01-23 15:16:32'
+date_gmt: '2023-01-23 13:16:32'
 lastmod: '2024-08-22 15:20:23'
+lastmod_gmt: '2024-08-22 13:20:23'
+pubDate: Mon, 23 Jan 2023 13:16:32 +0000
 draft: false
 author: Yves.Ledru
+post_id: '132'
+post_parent: '0'
+post_type: post
+menu_order: '0'
+attachment_url: null
+comment_status: closed
+ping_status: open
 categories:
 - An2023
 - EvenementGPL
 - MTV2
-tags: []
-summary: null
+tags: null
+summary: ''
 ---
 
 La prochaine journée du groupe de travail MTV2 (Méthodes de test pour la validation et la vérification) aura lieu

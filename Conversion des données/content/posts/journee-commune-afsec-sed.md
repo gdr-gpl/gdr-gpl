@@ -2,16 +2,26 @@
 title: "Journ\xE9e commune AFSEC-SED"
 slug: journee-commune-afsec-sed
 date: '2023-03-29 16:18:00'
+date_gmt: '2023-03-29 14:18:00'
 lastmod: '2024-08-22 16:21:17'
+lastmod_gmt: '2024-08-22 14:21:17'
+pubDate: Wed, 29 Mar 2023 14:18:00 +0000
 draft: false
 author: Yves.Ledru
+post_id: '152'
+post_parent: '0'
+post_type: post
+menu_order: '0'
+attachment_url: null
+comment_status: closed
+ping_status: open
 categories:
 - AFSEC
 - An2023
 - EvenementGPL
 - Uncategorized
-tags: []
-summary: null
+tags: null
+summary: ''
 ---
 
 Mardi 11 avril de 9h30 à 16h à l'ENSAM de Paris se tiendra une journée commune au GT AFSEC et au CT SED du GDR MACS.

@@ -2,12 +2,22 @@
 title: "Conditions G\xE9n\xE9rales d'Utilisation et Mentions L\xE9gales"
 slug: conditions-generales-dutilisation
 date: '2025-04-03 15:15:33'
+date_gmt: '2025-04-03 13:15:33'
 lastmod: '2025-04-03 15:16:47'
+lastmod_gmt: '2025-04-03 13:16:47'
+pubDate: Thu, 03 Apr 2025 13:15:33 +0000
 draft: false
 author: Yves.Ledru
-categories: []
-tags: []
-summary: null
+post_id: '404'
+post_parent: '0'
+post_type: page
+menu_order: '0'
+attachment_url: null
+comment_status: closed
+ping_status: closed
+categories: null
+tags: null
+summary: ''
 ---
 
 # 

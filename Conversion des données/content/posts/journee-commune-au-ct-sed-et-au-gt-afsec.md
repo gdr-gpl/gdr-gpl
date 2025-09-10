@@ -2,15 +2,25 @@
 title: "Journ\xE9e commune au CT SED et au GT AFSEC."
 slug: journee-commune-au-ct-sed-et-au-gt-afsec
 date: '2025-01-15 18:51:40'
+date_gmt: '2025-01-15 16:51:40'
 lastmod: '2025-01-15 18:51:40'
+lastmod_gmt: '2025-01-15 16:51:40'
+pubDate: Wed, 15 Jan 2025 16:51:40 +0000
 draft: false
 author: Yves.Ledru
+post_id: '357'
+post_parent: '0'
+post_type: post
+menu_order: '0'
+attachment_url: null
+comment_status: closed
+ping_status: open
 categories:
 - AFSEC
 - An2025
 - EvenementGPL
-tags: []
-summary: null
+tags: null
+summary: ''
 ---
 
   

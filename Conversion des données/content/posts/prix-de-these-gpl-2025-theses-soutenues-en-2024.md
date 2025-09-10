@@ -2,15 +2,25 @@
 title: "Prix de th\xE8se GPL 2025 (Th\xE8ses soutenues en 2024)"
 slug: prix-de-these-gpl-2025-theses-soutenues-en-2024
 date: '2025-02-01 00:30:56'
+date_gmt: '2025-01-31 22:30:56'
 lastmod: '2025-02-01 00:30:56'
+lastmod_gmt: '2025-01-31 22:30:56'
+pubDate: Fri, 31 Jan 2025 22:30:56 +0000
 draft: false
 author: Yves.Ledru
+post_id: '382'
+post_parent: '0'
+post_type: post
+menu_order: '0'
+attachment_url: null
+comment_status: closed
+ping_status: open
 categories:
 - ActionGPL
 - An2025
 - PrixTheseGPL
-tags: []
-summary: null
+tags: null
+summary: ''
 ---
 
 <https://gdrgpl-prixthese2025.hotcrp.com>
