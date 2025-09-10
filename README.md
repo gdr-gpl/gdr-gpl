@@ -2,7 +2,7 @@
 [Site actuel](https://gdr-gpl.cnrs.fr/) <br>
 [Site du CNRS](https://mygdr.hosted.lip6.fr/accueilGDR/7/10)
 
-## 🔀 Redirections vers documentation
+## Redirections vers documentation
 
 ### Pour les utilisateurs  
 Consultez la documentation utilisateur ici :  
