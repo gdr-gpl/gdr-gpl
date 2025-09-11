@@ -1,6 +1,9 @@
 +++
 title = "Accueil"
 date = "2025-09-05"
+draft = false
+type = "page"
+menus = 'hero'
 +++
 
 Bienvenue sur le site !
