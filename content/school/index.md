@@ -2,7 +2,7 @@
 date = "2025-09-08T09:41:56Z"
 draft = false
 type = "page"
-menus = 'main'
+menus = 'hero'
 title = 'Ecoles'
 +++
 
