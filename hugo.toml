@@ -1,6 +1,4 @@
 baseURL = "/"
-relativeURLs = true
-canonifyURLs = true
-languageCode = 'en-us'
+languageCode = 'fr-fr'
 title = 'GdR GPL'
 theme = "mon-theme"
