@@ -6,9 +6,6 @@ menus = 'hero'
 title = 'Actions en cours'
 +++
 
-
-# Actions en cours
-
 Plusieurs actions sont actuellement en cours
 
     Appel à mobilité

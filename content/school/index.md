@@ -6,8 +6,6 @@ menus = 'hero'
 title = 'Ecoles'
 +++
 
-# Ecoles
-
 Le GDR GPL soutient la formation des jeunes chercheurs. Des écoles jeunes chercheurs bénéficient du soutien du GDR ou de ses groupes de travail.
 
 L’Ecole des Jeunes Chercheurs en Programmation est intégrée au GDR GPL. Son directeur est l’un des membres du bureau et l’école bénéficie d’un soutien financier significatif de la part du GDR GPL.
