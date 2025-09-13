@@ -1,4 +1,6 @@
-baseURL = 'http://localhost:1313/'
+baseURL = "/"
+relativeURLs = true
+canonifyURLs = true
 languageCode = 'en-us'
 title = 'GdR GPL'
 theme = "mon-theme"
