@@ -3,3 +3,8 @@ languageCode = 'fr-fr'
 title = 'GdR GPL'
 theme = "mon-theme"
 canonifyURLs = true
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
