@@ -3,6 +3,9 @@ title: "Conf\xE9rence invit\xE9e de Fr\xE9d\xE9ric Loulergue"
 type: news
 pubDate: Tue, 24 Jun 2025 13:31:22 +0000
 draft: false
+categories:
+- An2025
+- GPL2025
 ---
 
 La deuxième conférence invitée de ces journées GPL2025 était donnée par Frédéric Loulergue (Professeur à l'Université d'Orléans).

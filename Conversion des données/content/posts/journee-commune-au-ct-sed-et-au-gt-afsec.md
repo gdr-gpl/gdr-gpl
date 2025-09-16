@@ -3,6 +3,10 @@ title: "Journ\xE9e commune au CT SED et au GT AFSEC."
 type: news
 pubDate: Wed, 15 Jan 2025 16:51:40 +0000
 draft: false
+categories:
+- AFSEC
+- An2025
+- EvenementGPL
 ---
 
   

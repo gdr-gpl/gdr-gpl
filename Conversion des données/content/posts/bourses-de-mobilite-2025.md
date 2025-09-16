@@ -3,6 +3,10 @@ title: "Bourses de Mobilit\xE9 2025"
 type: news
 pubDate: Wed, 23 Apr 2025 15:32:37 +0000
 draft: false
+categories:
+- ActionGPL
+- An2025
+- "Mobilit\xE9"
 ---
 
   

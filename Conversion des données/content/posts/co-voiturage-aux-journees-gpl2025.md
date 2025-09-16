@@ -3,6 +3,10 @@ title: "Co-voiturage aux journ\xE9es GPL2025"
 type: news
 pubDate: Thu, 22 May 2025 12:14:58 +0000
 draft: false
+categories:
+- An2025
+- GPL2025
+- Journees Nationales
 ---
 
 Nous sommes sûrement toutes et tous en train de préparer nos missions pour les [journées GdR GPL du 16 au 19 juin](https://gdrgpl2025.sciencesconf.org/) (pensez à vous [inscrire](https://gdrgpl2025.sciencesconf.org/page/informations_inscription)).

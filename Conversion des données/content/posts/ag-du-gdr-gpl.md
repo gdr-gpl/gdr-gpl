@@ -3,6 +3,10 @@ title: AG du GDR GPL
 type: news
 pubDate: Mon, 14 Jul 2025 12:53:07 +0000
 draft: false
+categories:
+- An2025
+- GPL2025
+- GPL2026
 ---
 
 Mireille Blay et Catherine Dubois, directrices du GDR, ont fait le point sur les actions réalisées par le GDR GPL, ...

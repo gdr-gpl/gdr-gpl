@@ -3,6 +3,10 @@ title: "Appel \xE0 d\xE9fis (la suite...)"
 type: news
 pubDate: Mon, 16 Jun 2025 14:13:57 +0000
 draft: false
+categories:
+- An2025
+- "D\xE9fis2025"
+- GPL2025
 ---
 
 En ouverture des journées GPL2025, Pascal Poizat et Jean-Michel Bruel ont fait le point sur l'avancement de l'appel à défis 2025. Voir les transparents ci-dessous...

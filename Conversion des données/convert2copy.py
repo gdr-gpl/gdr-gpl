@@ -111,7 +111,7 @@ def find_items(xPaths):
 for item in root.findall("./channel/item"):
     # Filtrage par type de contenu - ne traiter que les types supportés
     ptype = tx(item.find("wp:post_type", ns))
-    if ptype not in ["page", "post"]: #"", , "attachment", "nav_menu_item"
+    if ptype not in ["post"]: #""page", ", , "attachment", "nav_menu_item"
         print(f"⚠️ Ignored item of type '{ptype}'")
         continue
     
@@ -180,7 +180,8 @@ for item in root.findall("./channel/item"):
         "title": title,
         "type": post_type,                       # Type de contenu (post, page, etc.)
         "pubDate": pubDate or None,
-        "draft": (status != "publish"),         # Article en brouillon si pas publié
+        "draft": (status != "publish"), 
+        "categories": cats or None,
         # "summary": tx(excerpt) if excerpt is not None else None,  # Résumé de l'article
     }
 
@@ -201,6 +202,6 @@ for item in root.findall("./channel/item"):
 # os.makedirs("content/terms", exist_ok=True)
 
 # Appel de la fonction pour traiter les catégories et termes
-find_items([".//wp:category", ".//wp:term"])
+# find_items([".//wp:category", ".//wp:term"])
 
 print("✅ Conversion en Markdown terminée.")

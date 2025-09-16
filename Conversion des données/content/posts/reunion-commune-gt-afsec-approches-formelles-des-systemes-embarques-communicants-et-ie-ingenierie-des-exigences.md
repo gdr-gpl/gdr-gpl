@@ -4,6 +4,11 @@ title: "R\xE9union commune GT AFSEC (Approches Formelles des Syst\xE8mes Embarqu
 type: news
 pubDate: Wed, 02 Feb 2022 16:23:00 +0000
 draft: false
+categories:
+- AFSEC
+- An2022
+- EvenementGPL
+- IE
 ---
 
 La prochaine journée de notre groupe de travail aura lieu le **mercredi 6 avril 2022 à Nantes.**

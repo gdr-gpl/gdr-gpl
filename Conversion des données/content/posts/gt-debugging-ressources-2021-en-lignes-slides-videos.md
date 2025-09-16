@@ -3,6 +3,10 @@ title: "GT-Debugging : ressources 2021 en lignes (slides, vid\xE9os)"
 type: news
 pubDate: Thu, 16 Dec 2021 16:58:00 +0000
 draft: false
+categories:
+- An2021
+- Debugging
+- EvenementGPL
 ---
 
 Bonsoir à tous,

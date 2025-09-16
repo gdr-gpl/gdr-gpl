@@ -3,6 +3,9 @@ title: "Conf\xE9rence invit\xE9e de Franck Barbier"
 type: news
 pubDate: Tue, 17 Jun 2025 10:57:03 +0000
 draft: false
+categories:
+- An2025
+- GPL2025
 ---
 
 La deuxième journée a commencé par la conférence invitée de Franck Barbier, Professeur à l'Université de Pau. 

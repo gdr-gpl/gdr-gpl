@@ -3,6 +3,9 @@ title: Prix du meilleur poster
 type: news
 pubDate: Mon, 14 Jul 2025 13:36:33 +0000
 draft: false
+categories:
+- An2025
+- GPL2025
 ---
 
 Les journées 2025 ont accordé beaucoup d'attention aux posters. Thomas Degueule était l'organisateur de la présentation des posters et du vote par les participants aux journées. 

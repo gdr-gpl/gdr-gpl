@@ -3,6 +3,8 @@ title: "Appel Mobilit\xE9"
 type: news
 pubDate: Fri, 13 Sep 2024 14:05:21 +0000
 draft: false
+categories:
+- ActionGPL
 ---
 
 Le GdR Génie de la Programmation et du Logiciel propose régulièrement des bourses de mobilité en vue de coopération entre équipes.

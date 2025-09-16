@@ -3,6 +3,11 @@ title: "Journ\xE9es communes LVP+MTV2 les 16-17 nov. 2023 \xE0 Palaiseau"
 type: news
 pubDate: Sat, 30 Sep 2023 12:36:39 +0000
 draft: false
+categories:
+- An2023
+- EvenementGPL
+- LVP
+- MTV2
 ---
 
 Les prochaines journées communes des groupes de travail LVP et MTV2 auront lieu

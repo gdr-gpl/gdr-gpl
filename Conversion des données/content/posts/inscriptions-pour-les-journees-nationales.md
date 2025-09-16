@@ -3,6 +3,10 @@ title: "Inscriptions pour les journ\xE9es nationales"
 type: news
 pubDate: Mon, 19 May 2025 09:23:35 +0000
 draft: false
+categories:
+- An2025
+- GPL2025
+- Journees Nationales
 ---
 
   

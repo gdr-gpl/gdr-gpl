@@ -3,6 +3,9 @@ title: Nouvelles du CNRS
 type: news
 pubDate: Mon, 14 Jul 2025 12:20:24 +0000
 draft: false
+categories:
+- An2025
+- GPL2025
 ---
 
 Nous avons accueilli Anne Siegel, Directrice Scientifique Adjointe au CNRS Sciences Informatiques, en charge du suivi des GDRs.

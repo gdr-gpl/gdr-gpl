@@ -3,6 +3,10 @@ title: "Journ\xE9e DevX du 4 d\xE9cembre 24 \xE0 Rennes : Programme"
 type: news
 pubDate: Thu, 21 Nov 2024 12:34:57 +0000
 draft: false
+categories:
+- An2025
+- Debugging
+- EvenementGPL
 ---
 
 La matinée sera réservée aux présentations (merci pour les propositions !) sur un format de 10 minutes pour présenter et 5 minutes de questions.  

@@ -3,6 +3,9 @@ title: "Journ\xE9e jumeaux num\xE9riques"
 type: news
 pubDate: Mon, 19 Aug 2024 13:33:32 +0000
 draft: false
+categories:
+- An2024
+- EvenementGPL
 ---
 
 Le jumeau numérique est un artefact logiciel complexe dont le domaine d’application est très large (biologie, sciences de la Terre, urbanisme, productique, médecine, archéologie, etc.). S’appuyant sur de nombreux modèles, collectant de grandes quantités de données parce qu’en communication constante (_selon un rythme de synchronisation adapté_  _à son usage_) avec son écosystème, avec un volet sobriété énergétique plutôt marqué, nous pensons qu’il concerne toute la communauté (IDM, architecture, sécurité, cycle de vie…). 

@@ -3,6 +3,11 @@ title: "Atelier de pr\xE9paration aux concours"
 type: news
 pubDate: Thu, 19 Jun 2025 10:20:53 +0000
 draft: false
+categories:
+- ActionGPL
+- An2025
+- GPL2025
+- Uncategorized
 ---
 
 Paul Temple et Catherine Dubois ont organisé un atelier à l'attention des jeunes chercheurs pour les aider à préparer les concours.
