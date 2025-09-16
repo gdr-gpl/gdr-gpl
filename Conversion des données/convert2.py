@@ -88,9 +88,9 @@ def find_items(xPaths):
             # Détermination du dossier de sortie selon le type d'élément
             match xPath:
                 case ".//wp:category":
-                    outdir = "content/categories"
+                    outdir = "content/toutesInfos/categories"
                 case ".//wp:term":
-                    outdir = "content/terms"
+                    outdir = "content/toutesInfos/terms"
                 case _:
                     continue
                 
@@ -220,11 +220,11 @@ for item in root.findall("./channel/item"):
 
             
 # === TRAITEMENT DES CATÉGORIES ET TERMES WORDPRESS ===
-# Création des dossiers pour les taxonomies WordPress            
-# os.makedirs("content/categories", exist_ok=True)
-# os.makedirs("content/terms", exist_ok=True)
+# Création des dossiers pour les taxonomies WordPress
+os.makedirs("content/toutesInfos/categories", exist_ok=True)
+os.makedirs("content/toutesInfos/terms", exist_ok=True)
 
 # # Appel de la fonction pour traiter les catégories et termes
-# find_items([".//wp:category", ".//wp:term"])
+find_items([".//wp:category", ".//wp:term"])
 
 print("✅ Conversion en Markdown terminée.")
