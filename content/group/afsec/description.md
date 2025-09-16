@@ -2,7 +2,7 @@
 title = "afsec"
 date = "2025-09-08T09:41:56Z"
 draft = false
-type = "page"
+type = "null"
 +++
 
 ## Présentation
