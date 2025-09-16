@@ -151,6 +151,8 @@ for item in root.findall("./channel/item"):
 
     # Extrait de l'article (résumé)
     excerpt = item.find("excerpt:encoded", ns)
+    
+    status = tx(item.find("wp:status", ns))     
 
     # Front matter Hugo (commentaire obsolète - voir ci-dessous)
     front_matter = "---\n"
