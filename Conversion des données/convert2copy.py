@@ -22,6 +22,9 @@ ns = {
     "excerpt": "http://wordpress.org/export/1.2/excerpt/", # Extraits d'articles
 }
 
+os.makedirs("content/posts", exist_ok=True)
+os.makedirs("content/pages", exist_ok=True)
+os.makedirs("content/categ", exist_ok=True)
 
 # Configuration du convertisseur HTML vers Markdown
 h = html2text.HTML2Text()
@@ -79,9 +82,9 @@ def find_items(xPaths):
                 "taxonomy": taxonomy or None,
             }
             if parent is None:
-                directoryPath = "content/"+ name
+                directoryPath = "content/categ/"+ name
             else:
-                directoryPath = "content/"+ parent +"/"+ name
+                directoryPath = "content/categ/"+ parent +"/"+ name
                 
             print(directoryPath)
             os.makedirs(directoryPath, exist_ok=True)
@@ -108,11 +111,10 @@ def find_items(xPaths):
 for item in root.findall("./channel/item"):
     # Filtrage par type de contenu - ne traiter que les types supportés
     ptype = tx(item.find("wp:post_type", ns))
-    if ptype not in ["page"]: #"post", , "attachment", "nav_menu_item"
+    if ptype not in ["page", "post"]: #"", , "attachment", "nav_menu_item"
         print(f"⚠️ Ignored item of type '{ptype}'")
         continue
     
-    menu = None
         # === EXTRACTION DES MÉTADONNÉES DE BASE ===
     title = tx(item.find("title"))           # Titre de l'article/page
     
@@ -162,7 +164,7 @@ for item in root.findall("./channel/item"):
             outdir = "content/posts"
             post_type = "news"
         case "page":
-            outdir = "content/categories/"  
+            outdir = "content/pages/"  
             menu = "hero"
         case "attachment":
             outdir = "content/attachment"      # Fichiers joints
@@ -179,18 +181,17 @@ for item in root.findall("./channel/item"):
         "type": post_type,                       # Type de contenu (post, page, etc.)
         "pubDate": pubDate or None,
         "draft": (status != "publish"),         # Article en brouillon si pas publié
-        "menu" : menu
         # "summary": tx(excerpt) if excerpt is not None else None,  # Résumé de l'article
     }
 
             
     # # Création du fichier Markdown avec front matter YAML + contenu
-    # filename = os.path.join(outdir, f"{slug}.md")
-    # with open(filename, "w", encoding="utf-8") as f:
-    #     f.write("---\n")                           # Début du front matter YAML
-    #     f.write(yaml.dump(fm, sort_keys=False))    # Métadonnées en YAML
-    #     f.write("---\n\n")                         # Fin du front matter
-    #     f.write(content_md)                        # Contenu en Markdown
+    filename = os.path.join(outdir, f"{slug}.md")
+    with open(filename, "w", encoding="utf-8") as f:
+        f.write("---\n")                           # Début du front matter YAML
+        f.write(yaml.dump(fm, sort_keys=False))    # Métadonnées en YAML
+        f.write("---\n\n")                         # Fin du front matter
+        f.write(content_md)                        # Contenu en Markdown
     
 
             

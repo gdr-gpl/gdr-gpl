@@ -1,0 +1,36 @@
+---
+title: Bienvenue sur le site du GDR GPL
+slug: bienvenue-sur-le-site-du-gdr-gpl
+date: '2024-06-23 09:46:44'
+date_gmt: '2024-06-23 09:46:44'
+lastmod: '2025-02-14 19:10:54'
+lastmod_gmt: '2025-02-14 17:10:54'
+pubDate: Sun, 23 Jun 2024 09:46:44 +0000
+draft: false
+author: Yves.Ledru
+post_id: '12'
+post_parent: '0'
+post_type: page
+menu_order: '0'
+attachment_url: null
+comment_status: closed
+ping_status: closed
+categories: null
+tags: null
+summary: ''
+---
+
+_Le GDR GPL (Groupement de Recherche Génie de la Programmation et du Logiciel) est une unité du[CNRS Sciences informatiques](http://www.cnrs.fr/ins2i/) qui regroupe la communauté scientifique française intéressée par le Génie Logiciel et la Programmation._
+
+![](https://lig-gdr-gpl.imag.fr/wp-content/uploads/2024/06/LOGO_CNRS_BLEU.png)
+
+Vous trouverez sur ce site les dernières actualités relatives au GDR GPL :
+
+  * [Journées nationales](?page_id=36)[ ](http://gdr-gpl.cnrs.fr/Actions/Defis2025)
+  * [Annonce de conférences, ateliers et journées de travail](?page_id=89)
+
+
+
+Dans le menu, vous trouverez des liens qui vous présentent le GDR GPL, son [organisation](https://gdr-gpl.cnrs.fr/?page_id=22), ses [principaux groupes de travail](https://gdr-gpl.cnrs.fr/?page_id=27), ainsi que des archives sur les journées nationales passées.
+
+## [Dernières actualités](https://lig-gdr-gpl.imag.fr/?page_id=100)

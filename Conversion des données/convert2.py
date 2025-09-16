@@ -24,10 +24,10 @@ ns = {
 
 # Création de la structure de dossiers pour Hugo
 # Hugo organise le contenu dans différents types de dossiers
-os.makedirs("content/posts", exist_ok=True)        # Articles de blog
-os.makedirs("content/pages", exist_ok=True)        # Pages statiques
-os.makedirs("content/attachment", exist_ok=True)   # Fichiers attachés (images, documents)
-os.makedirs("content/nav_menu_item", exist_ok=True) # Éléments de menu de navigation
+os.makedirs("content/toutesInfos/posts", exist_ok=True)        # Articles de blog
+os.makedirs("content/toutesInfos/pages", exist_ok=True)        # Pages statiques
+os.makedirs("content/toutesInfos/attachment", exist_ok=True)   # Fichiers attachés (images, documents)
+os.makedirs("content/toutesInfos/nav_menu_item", exist_ok=True) # Éléments de menu de navigation
 
 # Configuration du convertisseur HTML vers Markdown
 h = html2text.HTML2Text()
@@ -199,13 +199,13 @@ for item in root.findall("./channel/item"):
     # Détermination du dossier de sortie selon le type de contenu
     match ptype:
         case "post":
-            outdir = "content/posts"           # Articles de blog
+            outdir = "content/toutesInfos/posts"           # Articles de blog
         case "page":
-            outdir = "content/pages"           # Pages statiques
+            outdir = "content/toutesInfos/pages"           # Pages statiques
         case "attachment":
-            outdir = "content/attachment"      # Fichiers joints
+            outdir = "content/toutesInfos/attachment"      # Fichiers joints
         case "nav_menu_item":
-            outdir = "content/nav_menu_item"   # Éléments de menu
+            outdir = "content/toutesInfos/nav_menu_item"   # Éléments de menu
         case _:
             continue  # Ignorer les autres types
             
@@ -221,10 +221,10 @@ for item in root.findall("./channel/item"):
             
 # === TRAITEMENT DES CATÉGORIES ET TERMES WORDPRESS ===
 # Création des dossiers pour les taxonomies WordPress            
-os.makedirs("content/categories", exist_ok=True)
-os.makedirs("content/terms", exist_ok=True)
+# os.makedirs("content/categories", exist_ok=True)
+# os.makedirs("content/terms", exist_ok=True)
 
-# Appel de la fonction pour traiter les catégories et termes
-find_items([".//wp:category", ".//wp:term"])
+# # Appel de la fonction pour traiter les catégories et termes
+# find_items([".//wp:category", ".//wp:term"])
 
 print("✅ Conversion en Markdown terminée.")
