@@ -2,6 +2,7 @@
 title: Groupes de Travail et Actions Transverses
 type: page
 date: Sun, 23 Jun 2024 11:20:58 +0000
+menu: 'hero'
 draft: false
 ---
 

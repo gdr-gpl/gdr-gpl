@@ -2,6 +2,7 @@
 title: Bienvenue sur le site du GDR GPL
 type: page
 date: Sun, 23 Jun 2024 09:46:44 +0000
+menu: 'hero'
 draft: false
 ---
 
