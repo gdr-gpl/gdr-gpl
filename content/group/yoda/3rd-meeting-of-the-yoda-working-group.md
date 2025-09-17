@@ -1,7 +1,7 @@
 ---
 title: 3rd meeting of the Yoda working group
 type: news
-pubDate: Tue, 23 Nov 2021 17:56:00 +0000
+date: Tue, 23 Nov 2021 17:56:00 +0000
 draft: false
 categories:
 - An2021

@@ -1,7 +1,7 @@
 ---
 title: "Journ\xE9e MDENet France Workshop 2023"
 type: news
-pubDate: Fri, 15 Dec 2023 09:56:00 +0000
+date: Fri, 15 Dec 2023 09:56:00 +0000
 draft: false
 categories:
 - An2023

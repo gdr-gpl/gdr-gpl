@@ -1,7 +1,7 @@
 ---
 title: "Co-voiturage aux journ\xE9es GPL2025"
 type: news
-pubDate: Thu, 22 May 2025 12:14:58 +0000
+date: Thu, 22 May 2025 12:14:58 +0000
 draft: false
 categories:
 - An2025

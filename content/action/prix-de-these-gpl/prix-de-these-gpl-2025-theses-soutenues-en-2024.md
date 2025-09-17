@@ -1,7 +1,7 @@
 ---
 title: "Prix de th\xE8se GPL 2025 (Th\xE8ses soutenues en 2024)"
 type: news
-pubDate: Fri, 31 Jan 2025 22:30:56 +0000
+date: Fri, 31 Jan 2025 22:30:56 +0000
 draft: false
 categories:
 - ActionGPL

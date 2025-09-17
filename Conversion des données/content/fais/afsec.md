@@ -1,7 +1,7 @@
 ---
 title: AFSEC
 type: page
-pubDate: Thu, 22 Aug 2024 09:35:32 +0000
+date: Thu, 22 Aug 2024 09:35:32 +0000
 draft: false
 ---
 

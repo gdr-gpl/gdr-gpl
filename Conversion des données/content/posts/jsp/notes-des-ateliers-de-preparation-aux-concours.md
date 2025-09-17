@@ -1,7 +1,7 @@
 ---
 title: "Notes des ateliers de pr\xE9paration aux concours"
 type: news
-pubDate: Mon, 04 Nov 2024 17:29:41 +0000
+date: Mon, 04 Nov 2024 17:29:41 +0000
 draft: false
 categories:
 - An2024

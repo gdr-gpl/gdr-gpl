@@ -1,7 +1,7 @@
 ---
 title: 'MLIR: The Good, the Bad and the Ugly'
 type: news
-pubDate: Fri, 25 Aug 2023 13:42:19 +0000
+date: Fri, 25 Aug 2023 13:42:19 +0000
 draft: false
 categories:
 - An2023

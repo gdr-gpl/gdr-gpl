@@ -1,7 +1,7 @@
 ---
 title: Description du groupe CLAP
 type: page
-pubDate: Thu, 22 Aug 2024 13:51:02 +0000
+date: Thu, 22 Aug 2024 13:51:02 +0000
 draft: false
 ---
 

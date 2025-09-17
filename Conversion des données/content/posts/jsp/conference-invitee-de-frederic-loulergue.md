@@ -1,7 +1,7 @@
 ---
 title: "Conf\xE9rence invit\xE9e de Fr\xE9d\xE9ric Loulergue"
 type: news
-pubDate: Tue, 24 Jun 2025 13:31:22 +0000
+date: Tue, 24 Jun 2025 13:31:22 +0000
 draft: false
 categories:
 - An2025

@@ -1,7 +1,7 @@
 ---
 title: "Appel \xE0 d\xE9fis (la suite...)"
 type: news
-pubDate: Mon, 16 Jun 2025 14:13:57 +0000
+date: Mon, 16 Jun 2025 14:13:57 +0000
 draft: false
 categories:
 - An2025

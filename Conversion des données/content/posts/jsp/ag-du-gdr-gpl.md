@@ -1,7 +1,7 @@
 ---
 title: AG du GDR GPL
 type: news
-pubDate: Mon, 14 Jul 2025 12:53:07 +0000
+date: Mon, 14 Jul 2025 12:53:07 +0000
 draft: false
 categories:
 - An2025

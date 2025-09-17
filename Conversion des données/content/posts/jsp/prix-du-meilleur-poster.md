@@ -1,7 +1,7 @@
 ---
 title: Prix du meilleur poster
 type: news
-pubDate: Mon, 14 Jul 2025 13:36:33 +0000
+date: Mon, 14 Jul 2025 13:36:33 +0000
 draft: false
 categories:
 - An2025

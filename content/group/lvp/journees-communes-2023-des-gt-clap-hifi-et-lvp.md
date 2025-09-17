@@ -1,7 +1,7 @@
 ---
 title: "Journ\xE9es communes 2023 des GT CLAP, HiFi et LVP"
 type: news
-pubDate: Mon, 09 Jan 2023 13:43:04 +0000
+date: Mon, 09 Jan 2023 13:43:04 +0000
 draft: false
 categories:
 - An2023

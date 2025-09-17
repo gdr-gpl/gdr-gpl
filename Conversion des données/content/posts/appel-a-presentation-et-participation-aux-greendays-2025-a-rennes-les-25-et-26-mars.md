@@ -2,7 +2,7 @@
 title: "Appel \xE0 pr\xE9sentation et participation aux GreenDays 2025 \xE0 Rennes\
   \ les 25 et 26 mars"
 type: news
-pubDate: Mon, 27 Jan 2025 10:43:11 +0000
+date: Mon, 27 Jan 2025 10:43:11 +0000
 draft: false
 categories:
 - An2025

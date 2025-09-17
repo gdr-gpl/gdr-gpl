@@ -1,7 +1,7 @@
 ---
 title: "Conditions G\xE9n\xE9rales d'Utilisation et Mentions L\xE9gales"
 type: page
-pubDate: Thu, 03 Apr 2025 13:15:33 +0000
+date: Thu, 03 Apr 2025 13:15:33 +0000
 draft: false
 ---
 

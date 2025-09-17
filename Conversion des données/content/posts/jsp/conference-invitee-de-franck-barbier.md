@@ -1,7 +1,7 @@
 ---
 title: "Conf\xE9rence invit\xE9e de Franck Barbier"
 type: news
-pubDate: Tue, 17 Jun 2025 10:57:03 +0000
+date: Tue, 17 Jun 2025 10:57:03 +0000
 draft: false
 categories:
 - An2025

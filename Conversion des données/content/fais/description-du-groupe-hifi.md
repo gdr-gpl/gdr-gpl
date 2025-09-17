@@ -1,7 +1,7 @@
 ---
 title: Description du groupe HiFi
 type: page
-pubDate: Thu, 22 Aug 2024 16:45:39 +0000
+date: Thu, 22 Aug 2024 16:45:39 +0000
 draft: false
 ---
 

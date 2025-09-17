@@ -1,7 +1,7 @@
 ---
 title: Nouvelles du CNRS
 type: news
-pubDate: Mon, 14 Jul 2025 12:20:24 +0000
+date: Mon, 14 Jul 2025 12:20:24 +0000
 draft: false
 categories:
 - An2025

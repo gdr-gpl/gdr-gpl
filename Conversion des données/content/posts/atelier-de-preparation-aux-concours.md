@@ -1,7 +1,7 @@
 ---
 title: "Atelier de pr\xE9paration aux concours"
 type: news
-pubDate: Thu, 19 Jun 2025 10:20:53 +0000
+date: Thu, 19 Jun 2025 10:20:53 +0000
 draft: false
 categories:
 - ActionGPL

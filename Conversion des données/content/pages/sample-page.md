@@ -1,7 +1,7 @@
 ---
 title: Sample Page
 type: page
-pubDate: Fri, 21 Jun 2024 12:32:21 +0000
+date: Fri, 21 Jun 2024 12:32:21 +0000
 draft: false
 ---
 

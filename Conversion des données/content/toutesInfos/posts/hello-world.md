@@ -5,7 +5,7 @@ date: '2024-06-21 12:32:21'
 date_gmt: '2024-06-21 12:32:21'
 lastmod: '2024-06-21 12:32:21'
 lastmod_gmt: '2024-06-21 12:32:21'
-pubDate: Fri, 21 Jun 2024 12:32:21 +0000
+date: Fri, 21 Jun 2024 12:32:21 +0000
 draft: false
 author: gplroot
 post_id: '1'

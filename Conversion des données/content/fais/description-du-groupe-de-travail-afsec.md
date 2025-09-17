@@ -1,7 +1,7 @@
 ---
 title: Description du groupe de travail  AFSEC
 type: page
-pubDate: Wed, 30 Jul 2025 13:16:38 +0000
+date: Wed, 30 Jul 2025 13:16:38 +0000
 draft: false
 ---
 

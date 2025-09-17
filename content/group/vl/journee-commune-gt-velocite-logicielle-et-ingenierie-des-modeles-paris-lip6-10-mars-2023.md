@@ -2,7 +2,7 @@
 title: "Journ\xE9e commune GT V\xE9locit\xE9 Logicielle et Ing\xE9nierie des Mod\xE8\
   les - Paris (LIP6) - 10 Mars 2023"
 type: news
-pubDate: Sat, 07 Jan 2023 08:00:00 +0000
+date: Sat, 07 Jan 2023 08:00:00 +0000
 draft: false
 categories:
 - An2023

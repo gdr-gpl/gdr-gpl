@@ -1,7 +1,7 @@
 ---
 title: "Conf\xE9rence invit\xE9e de Federica Sarro"
 type: news
-pubDate: Mon, 14 Jul 2025 13:17:37 +0000
+date: Mon, 14 Jul 2025 13:17:37 +0000
 draft: false
 categories:
 - An2025

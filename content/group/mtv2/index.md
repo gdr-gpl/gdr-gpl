@@ -1,7 +1,7 @@
 ---
 title: MTV2
 type: page
-pubDate: Thu, 22 Aug 2024 10:15:45 +0000
+date: Thu, 22 Aug 2024 10:15:45 +0000
 draft: false
 ---
 

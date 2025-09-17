@@ -1,7 +1,7 @@
 ---
 title: "Ouverture des journ\xE9es nationales 2025"
 type: news
-pubDate: Mon, 16 Jun 2025 14:07:05 +0000
+date: Mon, 16 Jun 2025 14:07:05 +0000
 draft: false
 categories:
 - An2025

@@ -5,7 +5,7 @@ date: '2025-06-19 12:33:09'
 date_gmt: '2025-06-19 10:33:09'
 lastmod: '2025-06-19 12:33:09'
 lastmod_gmt: '2025-06-19 10:33:09'
-pubDate: Thu, 19 Jun 2025 10:33:09 +0000
+date: Thu, 19 Jun 2025 10:33:09 +0000
 draft: true
 author: Yves.Ledru
 post_id: '462'

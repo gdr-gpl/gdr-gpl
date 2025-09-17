@@ -1,7 +1,7 @@
 ---
 title: "Journ\xE9es Nationales GPL 2025"
 type: news
-pubDate: Wed, 26 Feb 2025 09:41:27 +0000
+date: Wed, 26 Feb 2025 09:41:27 +0000
 draft: false
 categories:
 - An2025

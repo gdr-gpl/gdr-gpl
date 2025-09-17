@@ -1,7 +1,7 @@
 ---
 title: "Actes des journ\xE9es GPL 2025"
 type: news
-pubDate: Fri, 01 Aug 2025 09:36:44 +0000
+date: Fri, 01 Aug 2025 09:36:44 +0000
 draft: false
 categories:
 - An2025

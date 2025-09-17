@@ -1,7 +1,7 @@
 ---
 title: Ecoles
 type: page
-pubDate: Sun, 23 Jun 2024 11:30:13 +0000
+date: Sun, 23 Jun 2024 11:30:13 +0000
 draft: false
 ---
 

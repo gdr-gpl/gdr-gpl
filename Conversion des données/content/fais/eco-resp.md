@@ -1,7 +1,7 @@
 ---
 title: Eco-Resp
 type: page
-pubDate: Sun, 08 Sep 2024 18:18:51 +0000
+date: Sun, 08 Sep 2024 18:18:51 +0000
 draft: false
 ---
 

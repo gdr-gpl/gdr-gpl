@@ -1,7 +1,7 @@
 ---
 title: YODA
 type: page
-pubDate: Sun, 08 Sep 2024 16:46:26 +0000
+date: Sun, 08 Sep 2024 16:46:26 +0000
 draft: false
 ---
 

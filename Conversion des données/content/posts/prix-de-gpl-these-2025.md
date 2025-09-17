@@ -1,7 +1,7 @@
 ---
 title: "Prix de GPL Th\xE8se 2025"
 type: news
-pubDate: Thu, 19 Jun 2025 10:06:57 +0000
+date: Thu, 19 Jun 2025 10:06:57 +0000
 draft: false
 categories:
 - An2025

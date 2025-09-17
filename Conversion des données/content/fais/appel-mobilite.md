@@ -1,7 +1,7 @@
 ---
 title: "Appel Mobilit\xE9"
 type: page
-pubDate: Wed, 23 Apr 2025 16:20:20 +0000
+date: Wed, 23 Apr 2025 16:20:20 +0000
 draft: false
 ---
 

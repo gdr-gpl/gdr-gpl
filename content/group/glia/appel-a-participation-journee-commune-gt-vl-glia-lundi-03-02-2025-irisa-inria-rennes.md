@@ -2,7 +2,7 @@
 title: "Appel \xE0 participation -- Journ\xE9e commune GT VL &amp; GLIA - lundi 03/02/2025\
   \ - IRISA/INRIA, Rennes"
 type: news
-pubDate: Wed, 04 Dec 2024 15:24:59 +0000
+date: Wed, 04 Dec 2024 15:24:59 +0000
 draft: false
 categories:
 - An2025

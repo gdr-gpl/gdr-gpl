@@ -1,7 +1,7 @@
 ---
 title: IE
 type: page
-pubDate: Sun, 08 Sep 2024 16:22:42 +0000
+date: Sun, 08 Sep 2024 16:22:42 +0000
 draft: false
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: Bienvenue sur le site du GDR GPL
 type: page
-pubDate: Sun, 23 Jun 2024 09:46:44 +0000
+date: Sun, 23 Jun 2024 09:46:44 +0000
 draft: false
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: EJCP
 type: page
-pubDate: Sun, 23 Jun 2024 11:31:10 +0000
+date: Sun, 23 Jun 2024 11:31:10 +0000
 draft: false
 ---
 

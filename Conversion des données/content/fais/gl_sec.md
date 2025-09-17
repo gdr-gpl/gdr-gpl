@@ -1,7 +1,7 @@
 ---
 title: GL_Sec
 type: page
-pubDate: Sat, 07 Sep 2024 07:45:34 +0000
+date: Sat, 07 Sep 2024 07:45:34 +0000
 draft: false
 ---
 

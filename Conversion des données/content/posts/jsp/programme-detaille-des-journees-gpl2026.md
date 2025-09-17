@@ -1,7 +1,7 @@
 ---
 title: "Programme d\xE9taill\xE9 des journ\xE9es GPL2026"
 type: news
-pubDate: Mon, 14 Jul 2025 20:26:08 +0000
+date: Mon, 14 Jul 2025 20:26:08 +0000
 draft: false
 categories:
 - An2025

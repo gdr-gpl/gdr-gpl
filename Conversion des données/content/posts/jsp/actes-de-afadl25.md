@@ -1,7 +1,7 @@
 ---
 title: Actes de AFADL'25
 type: news
-pubDate: Fri, 13 Jun 2025 21:01:39 +0000
+date: Fri, 13 Jun 2025 21:01:39 +0000
 draft: false
 categories:
 - An2025

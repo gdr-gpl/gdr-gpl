@@ -1,7 +1,7 @@
 ---
 title: "Journ\xE9e jumeaux num\xE9riques"
 type: news
-pubDate: Mon, 19 Aug 2024 13:33:32 +0000
+date: Mon, 19 Aug 2024 13:33:32 +0000
 draft: false
 categories:
 - An2024

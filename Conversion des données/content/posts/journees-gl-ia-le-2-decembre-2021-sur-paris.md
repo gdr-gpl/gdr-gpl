@@ -1,7 +1,7 @@
 ---
 title: "Journ\xE9es GL &amp; IA le 2 d\xE9cembre 2021 sur Paris"
 type: news
-pubDate: Wed, 03 Nov 2021 18:57:00 +0000
+date: Wed, 03 Nov 2021 18:57:00 +0000
 draft: false
 categories:
 - An2021

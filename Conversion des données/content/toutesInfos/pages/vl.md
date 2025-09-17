@@ -5,7 +5,7 @@ date: '2024-09-08 20:09:51'
 date_gmt: '2024-09-08 18:09:51'
 lastmod: '2024-12-08 16:02:22'
 lastmod_gmt: '2024-12-08 14:02:22'
-pubDate: Sun, 08 Sep 2024 18:09:51 +0000
+date: Sun, 08 Sep 2024 18:09:51 +0000
 draft: false
 author: Yves.Ledru
 post_id: '235'

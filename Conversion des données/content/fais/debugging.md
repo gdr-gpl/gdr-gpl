@@ -1,7 +1,7 @@
 ---
 title: Debugging
 type: page
-pubDate: Thu, 22 Aug 2024 16:51:40 +0000
+date: Thu, 22 Aug 2024 16:51:40 +0000
 draft: false
 ---
 

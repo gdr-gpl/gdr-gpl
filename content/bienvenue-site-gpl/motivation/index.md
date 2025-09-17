@@ -1,7 +1,7 @@
 ---
 title: Motivation et enjeux scientifiques
 type: page
-pubDate: Sun, 23 Jun 2024 10:07:58 +0000
+date: Sun, 23 Jun 2024 10:07:58 +0000
 draft: false
 ---
 

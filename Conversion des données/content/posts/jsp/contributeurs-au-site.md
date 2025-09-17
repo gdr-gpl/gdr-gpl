@@ -1,7 +1,7 @@
 ---
 title: Contributeurs du site
 type: news
-pubDate: Thu, 09 Jan 2025 15:37:52 +0000
+date: Thu, 09 Jan 2025 15:37:52 +0000
 draft: false
 categories:
 - Uncategorized

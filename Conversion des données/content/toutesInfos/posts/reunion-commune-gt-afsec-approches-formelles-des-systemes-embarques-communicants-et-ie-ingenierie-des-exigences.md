@@ -6,7 +6,7 @@ date: '2022-02-02 18:23:00'
 date_gmt: '2022-02-02 16:23:00'
 lastmod: '2024-09-08 18:26:41'
 lastmod_gmt: '2024-09-08 16:26:41'
-pubDate: Wed, 02 Feb 2022 16:23:00 +0000
+date: Wed, 02 Feb 2022 16:23:00 +0000
 draft: false
 author: Yves.Ledru
 post_id: '215'

@@ -1,7 +1,7 @@
 ---
 title: "Journ\xE9es Nationales"
 type: page
-pubDate: Sun, 23 Jun 2024 11:37:59 +0000
+date: Sun, 23 Jun 2024 11:37:59 +0000
 draft: false
 ---
 

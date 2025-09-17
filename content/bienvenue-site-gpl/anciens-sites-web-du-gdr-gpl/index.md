@@ -1,7 +1,7 @@
 ---
 title: Anciens sites web du GDR-GPL
 type: page
-pubDate: Thu, 21 Nov 2024 13:39:27 +0000
+date: Thu, 21 Nov 2024 13:39:27 +0000
 draft: false
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: Hackathon sur le projet R&amp;D ecoCode (3e edition)
 type: news
-pubDate: Wed, 12 Jun 2024 18:22:00 +0000
+date: Wed, 12 Jun 2024 18:22:00 +0000
 draft: false
 categories:
 - An2024

@@ -1,7 +1,7 @@
 ---
 title: "Journ\xE9e commune AFSEC-SED"
 type: news
-pubDate: Wed, 29 Mar 2023 14:18:00 +0000
+date: Wed, 29 Mar 2023 14:18:00 +0000
 draft: false
 categories:
 - AFSEC

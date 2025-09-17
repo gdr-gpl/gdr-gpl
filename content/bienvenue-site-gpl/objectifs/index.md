@@ -1,7 +1,7 @@
 ---
 title: Objectifs
 type: page
-pubDate: Sun, 23 Jun 2024 10:09:47 +0000
+date: Sun, 23 Jun 2024 10:09:47 +0000
 draft: false
 ---
 
