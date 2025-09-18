@@ -1,7 +1,7 @@
 ---
 title: "Journ\xE9e LVP 2024"
 type: news
-date: Wed, 14 Aug 2024 22:00:59 +0000
+date: "2024-08-14T22:00:59Z"
 draft: false
 categories:
 - An2024

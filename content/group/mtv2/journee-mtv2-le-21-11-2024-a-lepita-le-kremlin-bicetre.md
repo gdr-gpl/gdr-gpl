@@ -1,7 +1,7 @@
 ---
 title: "Journ\xE9e MTV2 le 21.11.2024 \xE0 l'EPITA, Le Kremlin-Bic\xEAtre"
 type: news
-date: Tue, 05 Nov 2024 09:14:01 +0000
+date: "2024-11-05T09:14:01Z"
 draft: false
 categories:
 - An2024

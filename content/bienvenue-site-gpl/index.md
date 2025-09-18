@@ -1,7 +1,7 @@
 ---
 title: Bienvenue sur le site du GDR GPL
 type: page
-date: Sun, 23 Jun 2024 09:46:44 +0000
+date: "2024-06-23T09:46:44Z"
 menu: 'hero'
 draft: false
 ---

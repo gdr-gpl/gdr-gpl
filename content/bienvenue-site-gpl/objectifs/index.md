@@ -1,7 +1,7 @@
 ---
 title: Objectifs
 type: page
-date: Sun, 23 Jun 2024 10:09:47 +0000
+date: "2024-06-23T10:09:47Z"
 draft: false
 ---
 

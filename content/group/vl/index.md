@@ -1,7 +1,7 @@
 ---
 title: VL
 type: page
-date: Sun, 08 Sep 2024 18:09:51 +0000
+date: "2024-09-08T18:09:51Z"
 draft: false
 ---
 

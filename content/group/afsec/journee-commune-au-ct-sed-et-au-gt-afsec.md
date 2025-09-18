@@ -1,7 +1,7 @@
 ---
 title: "Journ\xE9e commune au CT SED et au GT AFSEC."
 type: news
-date: Wed, 15 Jan 2025 16:51:40 +0000
+date: "2025-01-15T16:51:40Z"
 draft: false
 categories:
 - AFSEC

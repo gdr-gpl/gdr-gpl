@@ -1,7 +1,7 @@
 ---
 title: Debugging
 type: page
-date: Thu, 22 Aug 2024 16:51:40 +0000
+date: "2024-08-22T16:51:40Z"
 draft: false
 ---
 

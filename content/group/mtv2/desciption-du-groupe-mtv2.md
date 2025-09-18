@@ -1,7 +1,7 @@
 ---
 title: Description du groupe MTV2
 type: page
-date: Thu, 22 Aug 2024 10:17:11 +0000
+date: "2024-08-22T10:17:11Z"
 draft: false
 ---
 

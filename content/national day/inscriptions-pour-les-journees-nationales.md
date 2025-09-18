@@ -1,7 +1,7 @@
 ---
 title: "Inscriptions pour les journ\xE9es nationales"
 type: news
-date: Mon, 19 May 2025 09:23:35 +0000
+date: "2025-05-19T09:23:35Z"
 draft: false
 categories:
 - An2025

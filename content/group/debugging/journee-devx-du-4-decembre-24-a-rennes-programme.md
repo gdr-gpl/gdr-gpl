@@ -1,7 +1,7 @@
 ---
 title: "Journ\xE9e DevX du 4 d\xE9cembre 24 \xE0 Rennes : Programme"
 type: news
-date: Thu, 21 Nov 2024 12:34:57 +0000
+date: "2024-11-21T12:34:57Z"
 draft: false
 categories:
 - An2025

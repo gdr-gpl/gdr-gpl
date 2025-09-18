@@ -1,7 +1,7 @@
 ---
 title: "Prix de th\xE8se GPL2024"
 type: news
-date: Mon, 24 Jun 2024 08:29:13 +0000
+date: "2024-06-24T08:29:13Z"
 draft: false
 categories:
 - PrixTheseGPL

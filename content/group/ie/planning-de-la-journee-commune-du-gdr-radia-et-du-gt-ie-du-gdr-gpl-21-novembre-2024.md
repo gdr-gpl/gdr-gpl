@@ -2,7 +2,7 @@
 title: "Planning de la Journ\xE9e commune du GDR RADIA et du GT IE du GDR GPL \u2013\
   \ 21 Novembre 2024"
 type: news
-date: Sat, 09 Nov 2024 20:27:54 +0000
+date: "2024-11-09T20:27:54Z"
 draft: false
 categories:
 - An2024

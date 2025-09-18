@@ -1,7 +1,7 @@
 ---
 title: Prospective 2024-2030 du GDR GPL
 type: news
-date: Sun, 23 Jun 2024 12:32:20 +0000
+date: "2024-06-23T12:32:20Z"
 draft: false
 categories:
 - ActionGPL

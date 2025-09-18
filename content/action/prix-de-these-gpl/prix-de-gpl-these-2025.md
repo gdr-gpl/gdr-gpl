@@ -1,7 +1,7 @@
 ---
 title: "Prix de GPL Th\xE8se 2025"
 type: news
-date: Thu, 19 Jun 2025 10:06:57 +0000
+date: "2025-06-19T10:06:57Z"
 draft: false
 categories:
 - An2025

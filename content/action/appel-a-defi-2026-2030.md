@@ -1,7 +1,7 @@
 ---
 title: "Appel \xE0 d\xE9fis 2026-2030"
 type: news
-date: Thu, 05 Dec 2024 17:10:56 +0000
+date: "2024-12-05T17:10:56Z"
 draft: false
 categories:
 - ActionGPL

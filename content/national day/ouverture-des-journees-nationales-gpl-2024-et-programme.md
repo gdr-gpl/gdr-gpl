@@ -1,7 +1,7 @@
 ---
 title: "Ouverture des Journ\xE9es Nationales GPL 2024 et programme"
 type: news
-date: Mon, 03 Jun 2024 08:22:24 +0000
+date: "2024-06-03T08:22:24Z"
 draft: false
 categories:
 - An2024

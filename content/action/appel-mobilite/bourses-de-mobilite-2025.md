@@ -1,7 +1,7 @@
 ---
 title: "Bourses de Mobilit\xE9 2025"
 type: news
-date: Wed, 23 Apr 2025 15:32:37 +0000
+date: "2025-04-23T15:32:37Z"
 draft: false
 categories:
 - ActionGPL

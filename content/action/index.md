@@ -1,7 +1,7 @@
 ---
 title: Actions en cours
 type: page
-date: Fri, 13 Sep 2024 13:56:57 +0000
+date: "2024-09-13T13:56:57Z"
 menu: 'hero'
 draft: false
 ---

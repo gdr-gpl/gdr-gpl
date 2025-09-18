@@ -1,7 +1,7 @@
 ---
 title: HiFi
 type: page
-date: Thu, 22 Aug 2024 16:40:05 +0000
+date: "2024-08-22T16:40:05Z"
 draft: false
 ---
 

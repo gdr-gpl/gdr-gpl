@@ -1,7 +1,7 @@
 ---
 title: Description du groupe Debugging
 type: page
-date: Thu, 22 Aug 2024 16:53:17 +0000
+date: "2024-08-22T16:53:17Z"
 draft: false
 ---
 

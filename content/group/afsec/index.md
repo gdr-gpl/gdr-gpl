@@ -1,7 +1,7 @@
 ---
 title: AFSEC
 type: page
-date: Thu, 22 Aug 2024 09:35:32 +0000
+date: "2024-08-22T09:35:32Z"
 draft: false
 ---
 

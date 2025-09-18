@@ -1,7 +1,7 @@
 ---
 title: IE
 type: page
-date: Sun, 08 Sep 2024 16:22:42 +0000
+date: "2024-09-08T16:22:42Z"
 draft: false
 ---
 

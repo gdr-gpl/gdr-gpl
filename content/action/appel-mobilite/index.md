@@ -1,7 +1,7 @@
 ---
 title: "Appel Mobilit\xE9"
 type: page
-date: Wed, 23 Apr 2025 16:20:20 +0000
+date: "2025-04-23T16:20:20Z"
 draft: false
 ---
 

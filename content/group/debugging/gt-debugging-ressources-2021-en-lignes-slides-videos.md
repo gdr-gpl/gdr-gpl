@@ -1,7 +1,7 @@
 ---
 title: "GT-Debugging : ressources 2021 en lignes (slides, vid\xE9os)"
 type: news
-date: Thu, 16 Dec 2021 16:58:00 +0000
+date: "2021-12-16T16:58:00Z"
 draft: false
 categories:
 - An2021

@@ -1,7 +1,7 @@
 ---
 title: Description du groupe GLIA
 type: page
-date: Thu, 22 Aug 2024 17:12:32 +0000
+date: "2024-08-22T17:12:32Z"
 draft: false
 ---
 

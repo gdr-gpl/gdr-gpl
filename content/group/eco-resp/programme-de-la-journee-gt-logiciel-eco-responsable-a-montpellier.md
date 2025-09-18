@@ -1,7 +1,7 @@
 ---
 title: "Programme de la Journ\xE9e GT Logiciel Eco-Responsable \xE0 Montpellier"
 type: news
-date: Wed, 06 Nov 2024 19:52:10 +0000
+date: "2024-11-06T19:52:10Z"
 draft: false
 categories:
 - An2024

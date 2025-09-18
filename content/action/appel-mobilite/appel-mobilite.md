@@ -1,7 +1,7 @@
 ---
 title: "Appel Mobilit\xE9"
 type: news
-date: Fri, 13 Sep 2024 14:05:21 +0000
+date: "2024-09-13T14:05:21Z"
 draft: false
 categories:
 - ActionGPL

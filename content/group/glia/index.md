@@ -1,7 +1,7 @@
 ---
 title: GLIA
 type: page
-date: Thu, 22 Aug 2024 17:10:06 +0000
+date: "2024-08-22T17:10:06Z"
 draft: false
 ---
 

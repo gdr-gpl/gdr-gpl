@@ -1,7 +1,7 @@
 ---
 title: LVP
 type: page
-date: Thu, 22 Aug 2024 13:27:49 +0000
+date: "2024-08-22T13:27:49Z"
 draft: false
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: "Journ\xE9es communes LVP+MTV2 les 16-17 nov. 2023 \xE0 Palaiseau"
 type: news
-date: Sat, 30 Sep 2023 12:36:39 +0000
+date: "2023-09-30T12:36:39Z"
 draft: false
 categories:
 - An2023

@@ -1,7 +1,7 @@
 ---
 title: Liste de diffusion
 type: page
-date: Wed, 18 Dec 2024 22:26:08 +0000
+date: "2024-12-18T22:26:08Z"
 draft: false
 ---
 

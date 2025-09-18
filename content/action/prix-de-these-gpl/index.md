@@ -1,7 +1,7 @@
 ---
 title: "Prix de th\xE8se GPL"
 type: page
-date: Fri, 31 Jan 2025 21:59:49 +0000
+date: "2025-01-31T21:59:49Z"
 draft: false
 ---
 

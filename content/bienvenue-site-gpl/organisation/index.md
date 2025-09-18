@@ -1,7 +1,7 @@
 ---
 title: Organisation
 type: page
-date: Sun, 23 Jun 2024 10:11:32 +0000
+date: "2024-06-23T10:11:32Z"
 draft: false
 ---
 

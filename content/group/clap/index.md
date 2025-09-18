@@ -1,7 +1,7 @@
 ---
 title: CLAP
 type: page
-date: Thu, 22 Aug 2024 13:37:00 +0000
+date: "2024-08-22T13:37:00Z"
 draft: false
 ---
 

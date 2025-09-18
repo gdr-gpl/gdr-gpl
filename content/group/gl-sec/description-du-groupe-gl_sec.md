@@ -1,7 +1,7 @@
 ---
 title: Description du groupe GL_Sec
 type: page
-date: Sat, 07 Sep 2024 07:48:24 +0000
+date: "2024-09-07T07:48:24Z"
 draft: false
 ---
 

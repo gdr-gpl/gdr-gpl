@@ -1,7 +1,7 @@
 ---
 title: MTV2
 type: page
-date: Thu, 22 Aug 2024 10:15:45 +0000
+date: "2024-08-22T10:15:45Z"
 draft: false
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: "Journ\xE9e MTV2 le 16.03.2023 au LMF, Univ.Paris-Saclay"
 type: news
-date: Mon, 23 Jan 2023 13:16:32 +0000
+date: "2023-01-23T13:16:32Z"
 draft: false
 categories:
 - An2023

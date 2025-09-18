@@ -1,7 +1,7 @@
 ---
 title: Groupes de Travail et Actions Transverses
 type: page
-date: Sun, 23 Jun 2024 11:20:58 +0000
+date: "2024-06-23T11:20:58Z"
 menu: 'hero'
 draft: false
 ---

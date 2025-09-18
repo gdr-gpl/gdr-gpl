@@ -1,7 +1,7 @@
 ---
 title: "Contribuer \xE0 ce site web"
 type: page
-date: Mon, 27 Jan 2025 12:36:10 +0000
+date: "2025-01-27T12:36:10Z"
 draft: false
 ---
 

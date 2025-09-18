@@ -1,7 +1,7 @@
 ---
 title: GL_Sec
 type: page
-date: Sat, 07 Sep 2024 07:45:34 +0000
+date: "2024-09-07T07:45:34Z"
 draft: false
 ---
 
