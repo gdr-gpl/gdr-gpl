@@ -1,4 +1,10 @@
-baseURL = 'https://localhost:1313/'
-languageCode = 'en-us'
-title = 'My New Hugo Site'
+baseURL = "/"
+languageCode = 'fr-fr'
+title = 'GdR GPL'
 theme = "mon-theme"
+canonifyURLs = true
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
