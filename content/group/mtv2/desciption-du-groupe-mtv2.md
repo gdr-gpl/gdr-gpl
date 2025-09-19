@@ -1,6 +1,6 @@
 ---
 title: Description du groupe MTV2
-type: page
+type: news
 date: "2024-08-22T10:17:11Z"
 draft: false
 ---

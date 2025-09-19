@@ -1,6 +1,6 @@
 ---
 title: Description du groupe Debugging
-type: page
+type: news
 date: "2024-08-22T16:53:17Z"
 draft: false
 ---

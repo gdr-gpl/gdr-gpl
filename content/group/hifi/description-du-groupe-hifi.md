@@ -1,6 +1,6 @@
 ---
 title: Description du groupe HiFi
-type: page
+type: news
 date: "2024-08-22T16:45:39Z"
 draft: false
 ---

@@ -1,6 +1,6 @@
 ---
 title: Description du groupe CLAP
-type: page
+type: news
 date: "2024-08-22T13:51:02Z"
 draft: false
 ---

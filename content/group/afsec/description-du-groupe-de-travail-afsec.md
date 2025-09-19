@@ -1,6 +1,6 @@
 ---
 title: Description du groupe de travail  AFSEC
-type: page
+type: news
 date: "2025-07-30T13:16:38Z"
 draft: false
 ---

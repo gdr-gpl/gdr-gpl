@@ -1,6 +1,6 @@
 ---
 title: Description du groupe GLIA
-type: page
+type: news
 date: "2024-08-22T17:12:32Z"
 draft: false
 ---
