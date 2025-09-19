@@ -8,7 +8,7 @@ draft: false
 
 _Le GDR GPL (Groupement de Recherche Génie de la Programmation et du Logiciel) est une unité du[CNRS Sciences informatiques](http://www.cnrs.fr/ins2i/) qui regroupe la communauté scientifique française intéressée par le Génie Logiciel et la Programmation._
 
-![](https://lig-gdr-gpl.imag.fr/wp-content/uploads/2024/06/LOGO_CNRS_BLEU.png)
+<img src="/images/logo-cnrs.png" alt="Logo CNRS" width="150" />
 
 Vous trouverez sur ce site les dernières actualités relatives au GDR GPL :
 
