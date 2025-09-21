@@ -2,7 +2,10 @@
 title: "Journ\xE9es Nationales"
 type: page
 date: "2024-06-23T11:37:59Z"
-menu: 'hero'
+menu: 
+  hero:
+    weight: 2
+    name: "Journ\xE9es Nationales"
 draft: false
 ---
 

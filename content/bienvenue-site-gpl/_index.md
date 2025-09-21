@@ -2,7 +2,10 @@
 title: Bienvenue sur le site du GDR GPL
 type: page
 date: "2024-06-23T09:46:44Z"
-menu: 'hero'
+menu: 
+  hero:
+    weight: 0
+    name: "Bienvenue sur le site du GDR GPL"
 draft: false
 ---
 

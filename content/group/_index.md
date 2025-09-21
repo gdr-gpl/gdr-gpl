@@ -2,7 +2,10 @@
 title: Groupes de Travail et Actions Transverses
 type: page
 date: "2024-06-23T11:20:58Z"
-menu: 'hero'
+menu: 
+  hero:
+    weight: 1
+    name: "Groupe"
 draft: false
 ---
 
