@@ -5,6 +5,7 @@ date: "2024-09-13T14:05:21Z"
 draft: false
 categories:
 - ActionGPL
+archives: ["2024-09"]
 ---
 
 Le GdR Génie de la Programmation et du Logiciel propose régulièrement des bourses de mobilité en vue de coopération entre équipes.

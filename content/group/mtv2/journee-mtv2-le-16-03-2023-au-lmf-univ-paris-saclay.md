@@ -7,6 +7,7 @@ categories:
 - An2023
 - EvenementGPL
 - MTV2
+archives: ["2023-01"]
 ---
 
 La prochaine journée du groupe de travail MTV2 (Méthodes de test pour la validation et la vérification) aura lieu

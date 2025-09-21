@@ -7,6 +7,7 @@ categories:
 - An2024
 - Eco-Resp
 - EvenementGPL
+archives: ["2024-11"]
 ---
 
 Un rappel pour notre journée d'étude le 26 novembre 2024 à Montpellier au LIRMM.

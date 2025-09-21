@@ -7,6 +7,7 @@ categories:
 - An2025
 - GPL2025
 - PrixTheseGPL
+archives: ["2025-06"]
 ---
 
 Un jury présidé par Sandrine Blazy et Pascal Poizat a attribué le prix de thèse GPL 2025 à Mickaël Laurent pour sa thèse intitulée _"Inférence de types polymorphes pour des langages dynamiques : reconstruction de types pour des systèmes combinant polymorphisme paramétrique, surcharge et sous-typage"_

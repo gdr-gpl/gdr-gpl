@@ -8,6 +8,7 @@ categories:
 - An2024
 - IE
 - Soutien GPL
+archives: ["2024-11"]
 ---
 
 Le GDR RADIA et le groupe de travail Ingénierie des Exigences (IE) du GDR GPL s’associent pour proposer une journée d’étude commune le 21 novembre 2024 au LIP6 à Paris.

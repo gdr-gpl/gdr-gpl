@@ -3,6 +3,7 @@ title: Description du groupe HiFi
 type: news
 date: "2024-08-22T16:45:39Z"
 draft: false
+archives: ["2024-08"]
 ---
 
 HiFi : Méthodes Formelles et Programmation Haute Fidélité pour Systèmes Critiques Emergents

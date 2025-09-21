@@ -8,6 +8,7 @@ categories:
 - An2025
 - GPL2025
 - Uncategorized
+archives: ["2025-06"]
 ---
 
 Paul Temple et Catherine Dubois ont organisé un atelier à l'attention des jeunes chercheurs pour les aider à préparer les concours.

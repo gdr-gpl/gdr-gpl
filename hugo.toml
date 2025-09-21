@@ -4,7 +4,12 @@ title = 'GdR GPL'
 theme = "mon-theme"
 canonifyURLs = true
 
+[taxonomies]
+  archive = "archives"
+
 [markup]
   [markup.goldmark]
     [markup.goldmark.renderer]
       unsafe = true
+
+

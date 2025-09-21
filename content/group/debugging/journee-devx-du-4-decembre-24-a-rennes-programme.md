@@ -7,6 +7,7 @@ categories:
 - An2025
 - Debugging
 - EvenementGPL
+archives: ["2024-11"]
 ---
 
 La matinée sera réservée aux présentations (merci pour les propositions !) sur un format de 10 minutes pour présenter et 5 minutes de questions.  

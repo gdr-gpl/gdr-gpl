@@ -8,6 +8,7 @@ categories:
 - EvenementGPL
 - LVP
 - MTV2
+archives: ["2023-09"]
 ---
 
 Les prochaines journées communes des groupes de travail LVP et MTV2 auront lieu
