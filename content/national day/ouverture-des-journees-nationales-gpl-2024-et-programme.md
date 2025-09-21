@@ -7,6 +7,7 @@ categories:
 - An2024
 - EvenementGPL
 - Journees Nationales
+archives: ["2024-06"]
 ---
 
 Les journées nationales GPL 2024 ont été ouvertes ce lundi 3 juin 2024 par Nicolas Magaud, et son équipe d'organisateurs locaux, ainsi que les co-directrices du GDR : Mireille Blay et Catherine Dubois.

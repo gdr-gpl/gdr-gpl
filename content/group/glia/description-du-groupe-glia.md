@@ -3,6 +3,7 @@ title: Description du groupe GLIA
 type: news
 date: "2024-08-22T17:12:32Z"
 draft: false
+archives: ["2024-08"]
 ---
 
 GLIA : Génie Logiciel et Intelligence Artificielle

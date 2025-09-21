@@ -8,6 +8,7 @@ categories:
 - An2023
 - EvenementGPL
 - Uncategorized
+archives: ["2023-03"]
 ---
 
 Mardi 11 avril de 9h30 à 16h à l'ENSAM de Paris se tiendra une journée commune au GT AFSEC et au CT SED du GDR MACS.

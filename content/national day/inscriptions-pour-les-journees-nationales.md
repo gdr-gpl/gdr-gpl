@@ -7,6 +7,7 @@ categories:
 - An2025
 - GPL2025
 - Journees Nationales
+archives: ["2025-05"]
 ---
 
   

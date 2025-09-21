@@ -5,6 +5,7 @@ date: "2024-06-24T08:29:13Z"
 draft: false
 categories:
 - PrixTheseGPL
+archives: ["2024-06"]
 ---
 
 Le jury du prix de thèse du GDR GPL, présidé par Pascal Poizat, a attribué un prix de thèse et deux accessits.

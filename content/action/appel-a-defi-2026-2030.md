@@ -6,6 +6,7 @@ draft: false
 categories:
 - ActionGPL
 - An2024
+archives: ["2024-12"]
 ---
 
 Dans le cadre des appels à défis 2026-2030, un certain nombre d’entre vous ont initié la liste 

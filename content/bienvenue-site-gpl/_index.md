@@ -22,4 +22,4 @@ Vous trouverez sur ce site les dernières actualités relatives au GDR GPL :
 
 Dans le menu, vous trouverez des liens qui vous présentent le GDR GPL, son [organisation](https://gdr-gpl.cnrs.fr/?page_id=22), ses [principaux groupes de travail](https://gdr-gpl.cnrs.fr/?page_id=27), ainsi que des archives sur les journées nationales passées.
 
-## [Dernières actualités](https://lig-gdr-gpl.imag.fr/?page_id=100)
+# Dernières actualités
