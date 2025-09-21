@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>MTV2 on GdR GPL</title><link>https://gdr-gpl.github.io/gdr-gpl/group/mtv2/</link><description>Recent content in MTV2 on GdR GPL</description><generator>Hugo</generator><language>fr-fr</language><lastBuildDate>Tue, 05 Nov 2024 09:14:01 +0000</lastBuildDate><atom:link href="https://gdr-gpl.github.io/gdr-gpl/group/mtv2/index.xml" rel="self" type="application/rss+xml"/><item><title>Journée MTV2 le 21.11.2024 à l'EPITA, Le Kremlin-Bicêtre</title><link>https://gdr-gpl.github.io/gdr-gpl/group/mtv2/journee-mtv2-le-21-11-2024-a-lepita-le-kremlin-bicetre/</link><pubDate>Tue, 05 Nov 2024 09:14:01 +0000</pubDate><guid>https://gdr-gpl.github.io/gdr-gpl/group/mtv2/journee-mtv2-le-21-11-2024-a-lepita-le-kremlin-bicetre/</guid><description>&lt;p&gt;La prochaine journée du groupe de travail MTV2 (Méthodes de test pour la validation et la vérification) du GDR GPL aura lieu le 21 novembre 2024, à l&amp;rsquo;EPITA sur le campus de Paris – Kremlin-Bicêtre&lt;br&gt;
+adresse : 14-16 Rue Voltaire, 94270 Le Kremlin-Bicêtre&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Nous avons le plaisir de vous annoncer l&amp;rsquo;exposé invité qui sera donné lors de cette journée :&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Jan Midtgaard (Tarides)&lt;/strong&gt;&lt;br&gt;
+&lt;strong&gt;&amp;ldquo;Property-Based Testing of OCaml 5&amp;rdquo;&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;qui nous présentera les travaux sur QuickCheck et le test de code OCaml multi-cores.&lt;/p&gt;</description></item><item><title>Description du groupe MTV2</title><link>https://gdr-gpl.github.io/gdr-gpl/group/mtv2/desciption-du-groupe-mtv2/</link><pubDate>Thu, 22 Aug 2024 10:17:11 +0000</pubDate><guid>https://gdr-gpl.github.io/gdr-gpl/group/mtv2/desciption-du-groupe-mtv2/</guid><description>&lt;p&gt;&lt;strong&gt;Méthodes de test pour la validation et la vérification MTV2&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Site web :&lt;/strong&gt;&lt;a href="https://sites.google.com/view/gdr-gpl-mtv2"&gt;https://sites.google.com/view/gdr-gpl-mtv2&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id="responsables"&gt;&lt;strong&gt;Responsables&lt;/strong&gt;&lt;/h2&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Antoine ROLLET,&lt;br&gt;
+LaBRI,&lt;br&gt;
+antoine.rollet (at) labri (dot) fr&lt;/p&gt;
+&lt;p&gt;Natalia KUSHIK,&lt;br&gt;
+TSP,&lt;br&gt;
+natalia.kushik (at) telecom-sudparis (dot) eu&lt;/p&gt;
+&lt;p&gt;Nikolai KOSMATOV&lt;br&gt;
+CEA List &amp;amp; Thalès&lt;br&gt;
+nikolaikosmatov (at) gmail (dot) com&lt;/p&gt;
+&lt;p&gt;Pascale LE GALL&lt;br&gt;
+CentraleSupélec&lt;br&gt;
+pascale.legall (at) centralesupelec (dot) fr&lt;/p&gt;&lt;/blockquote&gt;
+&lt;h2 id="description"&gt;&lt;strong&gt;Description&lt;/strong&gt;&lt;/h2&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Le groupe MTV2 s&amp;rsquo;intéresse à la validation et la vérification des logiciels par des techniques de test. Les partenaires impliqués couvrent un large spectre de techniques de test et domaines d&amp;rsquo;application. L&amp;rsquo;expertise du groupe permet d&amp;rsquo;aborder des méthodes de test fonctionnel (test « boîte-noire »,) et de test structurel (test « boîte-blanche »). Les techniques de test « boîte-grise » (e.g. les techniques de génération massive de test, ou le &lt;em&gt;fuzzing&lt;/em&gt;) deviennent aussi de plus en plus populaires, et sont aussi abordées par des membres du groupe. Au niveau de la couverture de fautes, le test mutationnel offre une bonne stratégie pour évaluer la qualité d’une suite de tests.&lt;/p&gt;</description></item><item><title>Journées communes LVP+MTV2 les 16-17 nov. 2023 à Palaiseau</title><link>https://gdr-gpl.github.io/gdr-gpl/group/mtv2/journees-communes-lvpmtv2-les-16-17-nov-2023-a-palaiseau/</link><pubDate>Sat, 30 Sep 2023 12:36:39 +0000</pubDate><guid>https://gdr-gpl.github.io/gdr-gpl/group/mtv2/journees-communes-lvpmtv2-les-16-17-nov-2023-a-palaiseau/</guid><description>&lt;p&gt;Les prochaines journées communes des groupes de travail LVP et MTV2 auront lieu&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;les 16-17 novembre 2023
+
+au CEA List, adresse : 2 Boulevard Thomas Gobert, 91120 Palaiseau.
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;Le programme et les informations pratiques seront communiqués sur&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://groupes.renater.fr/wiki/lvp/public/2311journeeslvp_mtv2"&gt;https://groupes.renater.fr/wiki/lvp/public/2311journeeslvp_mtv2&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Grâce au soutien du GDR GPL, du CEA List et de la Graduate School &amp;ldquo;Informatique et Sciences du Numérique&amp;rdquo; de l&amp;rsquo;Université Paris-Saclay, la participation aux journées est gratuite, les déjeuners et pauses café sont offerts. Les journées commenceront par le déjeuner le 16 novembre et se termineront après le déjeuner le 17 novembre.&lt;/p&gt;</description></item><item><title>Journée MTV2 le 16.03.2023 au LMF, Univ.Paris-Saclay</title><link>https://gdr-gpl.github.io/gdr-gpl/group/mtv2/journee-mtv2-le-16-03-2023-au-lmf-univ-paris-saclay/</link><pubDate>Mon, 23 Jan 2023 13:16:32 +0000</pubDate><guid>https://gdr-gpl.github.io/gdr-gpl/group/mtv2/journee-mtv2-le-16-03-2023-au-lmf-univ-paris-saclay/</guid><description>&lt;p&gt;La prochaine journée du groupe de travail MTV2 (Méthodes de test pour la validation et la vérification) aura lieu&lt;/p&gt;
+&lt;p&gt;le jeudi 16 mars 2023&lt;br&gt;
+au laboratoire LMF de l&amp;rsquo;Université Paris-Saclay.&lt;/p&gt;
+&lt;p&gt;Elle sera organisée sur place par Burkhart Wolff, Frédéric Voisin et Fatiha Zaidi.&lt;/p&gt;
+&lt;p&gt;Si vous êtes intéressés, merci de vous inscrire sur le lien suivant :&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://framadate.org/jlYKjeU4hCCxXiwo"&gt;https://framadate.org/jlYKjeU4hCCxXiwo&lt;/a&gt;&lt;br&gt;
+de préférence, avant le 10 février 2023.&lt;/p&gt;
+&lt;p&gt;en indiquant vos nom et affiliation, si vous participez, si vous prenez le déjeuner&lt;br&gt;
+et, le cas échéant, si vous souhaitez proposer un exposé (si oui,&lt;br&gt;
+merci d&amp;rsquo;envoyer également le titre et le résumé aux organisateurs par mél).&lt;/p&gt;</description></item></channel></rss>
