@@ -7,6 +7,7 @@ categories:
 - An2021
 - EvenementGPL
 - YODA
+archives: ["2021-11"]
 ---
 
 The 3rd meeting of the Yoda working group was held remotely on

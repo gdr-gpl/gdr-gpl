@@ -9,6 +9,7 @@ categories:
 - EvenementGPL
 - IDM
 - VL
+archives: ["2023-01"]
 ---
 
 Le vendredi 10 mars 2023~~à Paris, au LIP6~~ , aura lieu une journée commune aux groupes de travail Vélocité Logicielle et Ingénierie des Modèles.

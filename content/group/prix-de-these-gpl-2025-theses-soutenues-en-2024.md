@@ -7,6 +7,7 @@ categories:
 - ActionGPL
 - An2025
 - PrixTheseGPL
+archives: ["2025-01"]
 ---
 
 <https://gdrgpl-prixthese2025.hotcrp.com>

@@ -9,6 +9,7 @@ categories:
 - EvenementGPL
 - GLIA
 - VL
+archives: ["2024-12"]
 ---
 
 Faisant suite aux précédentes sessions et journées des GT GLIA et VL, nous proposons une journée spéciale commune aux deux GTs le lundi 03 février 2025 à Rennes, à l’IRISA et au centre de l’INRIA de l'université de Rennes. Nous aurons l’opportunité d’organiser cette journée en prélude à la conférence VAMOS du 04 au 06 février et en parallèle du workshop MODEVAR le lundi 03 février. Vous êtes évidemment invités à participer à VAMOS si vous le souhaitez.

@@ -3,6 +3,7 @@ title: Description du groupe GL_Sec
 type: news
 date: "2024-09-07T07:48:24Z"
 draft: false
+archives: ["2024-09"]
 ---
 
 GT GL_Sec :  La sécurité dans le développement logiciel

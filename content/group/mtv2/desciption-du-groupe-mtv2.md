@@ -3,6 +3,7 @@ title: Description du groupe MTV2
 type: news
 date: "2024-08-22T10:17:11Z"
 draft: false
+archives: ["2024-08"]
 ---
 
 **Méthodes de test pour la validation et la vérification MTV2**

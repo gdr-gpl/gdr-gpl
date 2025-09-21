@@ -7,6 +7,7 @@ categories:
 - An2023
 - CLAP
 - EvenementGPL
+archives: ["2023-08"]
 ---
 
 En collaboration avec le GdR SOC2, le groupe CLAP organise une journée sur MLIR intitulée "MLIR: The Good, the Bad and the Ugly".

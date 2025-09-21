@@ -7,6 +7,7 @@ categories:
 - An2025
 - GPL2025
 - Journees Nationales
+archives: ["2025-05"]
 ---
 
 Nous sommes sûrement toutes et tous en train de préparer nos missions pour les [journées GdR GPL du 16 au 19 juin](https://gdrgpl2025.sciencesconf.org/) (pensez à vous [inscrire](https://gdrgpl2025.sciencesconf.org/page/informations_inscription)).

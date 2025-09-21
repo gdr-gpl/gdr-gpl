@@ -6,6 +6,7 @@ draft: false
 categories:
 - An2025
 - GPL2025
+archives: ["2025-02"]
 ---
 
 Les prochaines journées nationales du GDR GPL auront lieu à Pau du 16 au 19 juin 2025. Réservez ces dates dès maintenant dans vos agendas!

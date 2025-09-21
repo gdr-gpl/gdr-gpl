@@ -9,6 +9,7 @@ categories:
 - An2022
 - EvenementGPL
 - IE
+archives: ["2022-02"]
 ---
 
 La prochaine journée de notre groupe de travail aura lieu le **mercredi 6 avril 2022 à Nantes.**
