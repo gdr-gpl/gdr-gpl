@@ -1,5 +1,6 @@
 import os
 import re
+from urllib import request
 
 
 # ================================ #
@@ -7,7 +8,7 @@ import re
 # ================================ #
 def FindAllMarkdown(dossierPath):
     """
-    Parcourt le dossier donné de manière recursive pour trouver tous les fichiers markdown
+    Permet de parcourir le dossier donné de manière recursive pour trouver tous les fichiers markdown
 
     Args :
         dossier/ :  le chemin du dossier à parcourir
@@ -32,7 +33,7 @@ def FindAllMarkdown(dossierPath):
 # ============================== #
 def GetLinks(fichierPath):
     """
-    Trouve tous les liens présents dans un fichier markdown
+    Permet de trouver tous les liens présents dans un fichier markdown
 
     Args :
         fichierPath : le path du fichier à analyser
@@ -72,3 +73,45 @@ def GetLinks(fichierPath):
         print(f"Error : problème de lecture dans {fichierPath} : {error}")
 
     return liens
+
+# ========================================= #
+# ==== Vérification des liens internes ==== #
+# ========================================= #
+def InternalVerification(lien):
+    """
+    Permet de vérifier si un lien vers un fichier interne existe bien
+
+    Args :
+        lien : le chemin relatif à vérifier
+
+    Returns :
+        bool : True si le fichier existe sinon False
+    """
+
+    return os.path.exists(lien)
+
+# ========================================= #
+# ==== Vérification des liens externes ==== #
+# ========================================= #
+def ExternalVerification(url):
+    """
+    Permet de vérifier si un lien externe est accessible
+    Dans ce contexte la un lien est un URL
+
+    Args :
+        url : l'URL à tester
+
+    Returns :
+        bool : True si l'URL répond sinon False
+    """
+    try:
+        # Requête HEAD pour éconimiser du temps et du bandwidth
+        response = request.head(url, timeout=5, allow_redirects=True)
+        if response.status_code < 400: # c'est OK
+            return True
+
+        # Requête GET
+        response = request.get(url, timeout=5, allow_redirects=True)
+        return response.status_code < 400
+    except:
+        return False
