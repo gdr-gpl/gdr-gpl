@@ -2,7 +2,10 @@
 title: Ecoles
 type: page
 date: "2024-06-23T11:30:13Z"
-menu: 'hero'
+menu: 
+  hero:
+    weight: 3
+    name: "Ecoles"
 draft: false
 ---
 

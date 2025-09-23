@@ -2,7 +2,10 @@
 title: Actions en cours
 type: page
 date: "2024-09-13T13:56:57Z"
-menu: 'hero'
+menu: 
+  hero:
+    weight: 5
+    name: "Actions en cours"
 draft: false
 ---
 
