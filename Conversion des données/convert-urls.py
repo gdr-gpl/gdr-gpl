@@ -38,7 +38,7 @@ def convert_date_format(old_date_string):
 
 def main():
     # Obtenir tous les fichiers .md dans le dossier content et ses sous-dossiers
-    content_path = "content/posts"
+    content_path = "content"
     if not os.path.exists(content_path):
         print(f"Erreur: Le dossier '{content_path}' n'existe pas")
         return
@@ -47,6 +47,12 @@ def main():
     md_files = glob.glob(os.path.join(content_path, "**", "*.md"), recursive=True)
     
     url_file = "attachment_urls.txt"
+    
+    if not os.path.exists(url_file):
+        print(f"Erreur: Le fichier '{url_file}' n'existe pas")
+        return
+    with open(url_file, 'r', encoding='utf-8') as f:
+        url_content = f.read()
     
     total_files = 0
     converted_files = 0
@@ -67,12 +73,25 @@ def main():
                 content = f.read()
             
             original_content = content
+
+            if(file_path.startswith("content/attachments") or file_path.startswith("content/toutesInfos")):
+                continue
             
-            # Vérifier si le fichier contient des dates à convertir
+            # Vérifier si le fichier contient des urls à convertir
             if re.search(url_pattern, content):
-                total_files += 1
+                
                 print(f"Traitement du fichier: {file_path}")
-                print(re.search(url_pattern, content).group(0))
+                url = re.search(url_pattern, content).group(0)
+                print(url)
+                total_files += len(re.findall(url_pattern, content))
+                
+                # for index in range(len(urls)):
+                #     url = re.search(url_pattern, content).group(0)
+                #     print(f"URL trouvée: {url}")
+                    # if re.search(url, url_content):
+                    #     converted_files += 1
+                    #     print(f"URL déjà présente: {url}")
+                # print(re.search(url_pattern, content).group(0))
                 
             #     # Fonction de remplacement pour les dates
             #     def replace_date(match):
