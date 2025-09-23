@@ -19,7 +19,7 @@ def FindAllMarkdown(dossierPath):
     markdowns = []
 
     # On parcourt tous les directory et fichiers enfants
-    for racine, fichiers in os.walk(dossierPath):
+    for racine, dirs, fichiers in os.walk(dossierPath):
         for fichier in fichiers:
 
             # Si le fichier se termine par un .md alors on l'ajoute à la liste
@@ -105,13 +105,30 @@ def ExternalVerification(url):
         bool : True si l'URL répond sinon False
     """
     try:
-        # Requête HEAD pour éconimiser du temps et du bandwidth
-        response = request.head(url, timeout=5, allow_redirects=True)
-        if response.status_code < 400: # c'est OK
-            return True
+        # On essaye d'abord une requête HEAD pour économe du temps et du bandwidth
+        req = request.Request(url, method="HEAD")
+        with request.urlopen(req, timeout=5) as response:
+            if response.status < 400:
+                return True
+    except Exception:
+        try:
+            # Sinon requête GET
+            with request.urlopen(url, timeout=5) as response:
+                return response.status < 400
+        except Exception:
+            return False
+    return False
+    
+if __name__ == "__main__":
 
-        # Requête GET
-        response = request.get(url, timeout=5, allow_redirects=True)
-        return response.status_code < 400
-    except:
-        return False
+    allMd = FindAllMarkdown(".")
+
+    # on recupere tous les liens de tous les fichiers markdown
+    for md in allMd:
+        for url, _ in GetLinks(md):
+
+            # Affiche 1 si le lien fonctionne sinon 0
+            if url.startswith("http"):
+                print(f"{1 if ExternalVerification(url) else 0} {url}")
+            else:
+                print(f"{1 if InternalVerification(url) else 0} {url}")
