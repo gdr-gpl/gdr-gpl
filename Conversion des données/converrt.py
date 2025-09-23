@@ -179,4 +179,4 @@ with open("media.csv", "w", encoding="utf-8", newline="") as f:
 print("OK.")
 print("Markdown : content/posts/ et content/pages/")
 print("Liste des médias : media_urls.txt (et détails dans media.csv)")
-print('Téléchargement :  wget -i media_urls.txt -P static/uploads/')
+print('Téléchargement :  wget -i attachment_urls.txt -P static/uploads/')
