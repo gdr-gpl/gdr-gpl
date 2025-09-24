@@ -36,6 +36,19 @@ def convert_date_format(old_date_string):
     
     return old_date_string
 
+def convertUrlToRelative(url):
+    """
+    Convertit une URL absolue en URL relative si elle est trouvée dans le contenu des URLs.
+    """
+    mediaName = url.split('/')[-1]
+    folderName = mediaName.split('.')[-1]
+    alt = mediaName.split('.')[0]
+    # Créer le dossier s'il n'existe pas
+    os.makedirs(f"static/images/{folderName}", exist_ok=True)
+    relativeUrl = f"static/images/{folderName}/{mediaName}"
+    imgTag = f'<img src="{relativeUrl}" alt="{alt}"/>'
+    return imgTag
+
 def main():
     # Obtenir tous les fichiers .md dans le dossier content et ses sous-dossiers
     content_path = "content"
@@ -54,7 +67,7 @@ def main():
     with open(url_file, 'r', encoding='utf-8') as f:
         url_content = f.read()
     
-    total_files = 0
+    total_urls = 0
     converted_files = 0
     
     # Pattern pour détecter les URLs
@@ -78,20 +91,23 @@ def main():
                 continue
             
             # Vérifier si le fichier contient des urls à convertir
-            if re.search(url_pattern, content):
+            if re.search(url_pattern, content): 
                 
                 print(f"Traitement du fichier: {file_path}")
-                url = re.search(url_pattern, content).group(0)
-                print(url)
-                total_files += len(re.findall(url_pattern, content))
+                # Trouver et convertir toutes les URLs dans le contenu
+                for url in re.finditer(url_pattern, content):
+                    url = url.group(0)
+                    relativeUrl = convertUrlToRelative(url)
+                    content = re.sub(url, relativeUrl, content)
+                    total_urls += 1
+                    
+                # Écrire le contenu modifié dans le fichier si des changements ont été faits
+                if content != original_content:
+                    with open(file_path, 'w', encoding='utf-8') as f:
+                        f.write(content)
+                    converted_files += 1
+                    print(f"Converti: {file_path}")
                 
-                # for index in range(len(urls)):
-                #     url = re.search(url_pattern, content).group(0)
-                #     print(f"URL trouvée: {url}")
-                    # if re.search(url, url_content):
-                    #     converted_files += 1
-                    #     print(f"URL déjà présente: {url}")
-                # print(re.search(url_pattern, content).group(0))
                 
             #     # Fonction de remplacement pour les dates
             #     def replace_date(match):
@@ -102,7 +118,6 @@ def main():
             #     # Remplacer toutes les occurrences de dates dans ce fichier
             #     content = re.sub(date_pattern, replace_date, content)
                 
-            #     # Écrire le contenu modifié dans le fichier si des changements ont été faits
             #     if content != original_content:
             #         with open(file_path, 'w', encoding='utf-8') as f:
             #             f.write(content)
@@ -119,7 +134,7 @@ def main():
             print(f"Erreur lors du traitement de {file_path}: {e}")
     
     print("Conversion terminée!")
-    print(f"Fichiers traités: {converted_files} sur {total_files} fichiers avec des dates à convertir")
+    print(f"Urls traités: {total_urls} sur {converted_files} fichiers avec des urls converties.")
 
 if __name__ == "__main__":
     main()
