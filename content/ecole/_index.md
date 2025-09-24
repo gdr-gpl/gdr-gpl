@@ -20,5 +20,6 @@ D'autres écoles bénéficient ponctuellement d'une aide du GDR GPL, à l'initia
   * L'école [ETR](http://etr2015.irisa.fr/), Ecole d'Ete Temps Réel, soutenue par la groupe AFSEC,  qui s'est déroulée à Rennes du 24 au 28 août 2015 et se déroulera du 28 août au 1er septembre 2017 à Paris.
   * L'école [MDD4DRES](http://www.mdd4dres.org/), soutenue par l'action IDM, qui s'est déroulée à Aber Wrach, en Bretagne du 1er au 5 septembre 2014.
   * L'école [TAROT](http://gdr-gpl-2008-2012.imag.fr/index74db.html?option=com_jevents&task=icalevent.detail&evid=1&Itemid=13&year=2012&month=07&day=02), soutenue par le groupe MTV2, qui s'est déroulée du 2 au 6 juillet 2012.
+  * L'école de l'IUT de Blagnac qui a permis de mettre à jour ce magnifique site pour une meilleure utilisation de nos chercheurs.
 
 
