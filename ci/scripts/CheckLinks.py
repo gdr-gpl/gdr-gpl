@@ -119,10 +119,12 @@ def ExternalVerification(url):
             return False
     return False
     
-if __name__ == "__main__":
+def run():
 
     # On récupère tous les fichiers markdown
     allMd = FindAllMarkdown(".")
+
+    erreurs = False;
 
     # On récupère tous les liens
     allLiens = []
@@ -137,8 +139,19 @@ if __name__ == "__main__":
     for url, _ in allLiens:
         nbLiensTraites += 1
 
-        # Affiche 1 si le lien fonctionne sinon 0
         if url.startswith("http"):
-            print(f"{1 if ExternalVerification(url) else 0} {url} [{nbLiensTraites}/{nbLiensTotal}]")
+            ok = ExternalVerification(url)
         else:
-            print(f"{1 if InternalVerification(url) else 0} {url} [{nbLiensTraites}/{nbLiensTotal}]")
+            ok = InternalVerification(url)
+
+        if not ok:
+            erreurs = True 
+
+        print(f"{1 if ok else 0} {url} [{nbLiensTraites}/{nbLiensTotal}]")
+
+    return erreurs
+
+
+
+if __name__ == "__main__":
+    run()
