@@ -5,7 +5,7 @@ from pathlib import Path
 
 def main():
     # Obtenir tous les fichiers .md dans le dossier content et ses sous-dossiers
-    content_path = "content"
+    content_path = "../content"
     if not os.path.exists(content_path):
         print(f"Erreur: Le dossier '{content_path}' n'existe pas")
         return
