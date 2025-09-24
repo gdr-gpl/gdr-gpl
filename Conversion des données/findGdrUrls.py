@@ -16,7 +16,7 @@ def main():
     total_urls = 0
     # Regex pour capturer les URLs vers des pages web (pas les PDFs ou autres fichiers)
     # Capture les liens http/https vers gdr-gpl.cnrs.fr qui ne se terminent pas par des extensions de fichiers
-    url_pattern = r'https?://gdr-gpl\.cnrs\.fr(?!.*\.(pdf|doc|docx|xls|xlsx|ppt|pptx|zip|tar|gz|jpg|jpeg|png|gif|svg|mp4|avi|mov))'
+    url_pattern = r'https?://lig-gdr-gpl(?!.*\.(pdf|doc|docx|xls|xlsx|ppt|pptx|zip|tar|gz|jpg|jpeg|png|gif|svg|mp4|avi|mov))'
     
     for file_path in md_files:
         with open(file_path, 'r', encoding='utf-8') as f:

@@ -7,7 +7,7 @@ draft: false
 
 **GLIA : Génie Logiciel et Intelligence Artificielle**
 
-  * [Description du groupe GLIA : disponible ici](https://gdr-gpl.cnrs.fr/?page_id=177)
+  * [Description du groupe GLIA : disponible ici](/group/glia/)
   * **Actualités du groupe GLIA**
 
 

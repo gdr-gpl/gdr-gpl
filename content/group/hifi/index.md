@@ -7,7 +7,7 @@ draft: false
 
 **HiFi : Méthodes Formelles et Programmation Haute Fidélité pour Systèmes Critiques Émergents**
 
-  * [Description du groupe HiFi : disponible ici](https://gdr-gpl.cnrs.fr/?page_id=160)
+  * [Description du groupe HiFi : disponible ici](/group/hifi/)
   * **Actualités du groupe HiFi**
 
 
