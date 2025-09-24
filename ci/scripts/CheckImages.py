@@ -69,6 +69,25 @@ def GetImages(fichierPath):
 
     return images
 
+# ===================================== #
+# ==== Vérification de l'existence ==== #
+# ===================================== #
+def ImageExists(imagePath):
+    """
+    Permet de vérifier si une image existe bien
+
+    Args :
+        imagePath : le chemin de l'image à vérifier
+
+    Returns :
+        bool : True si l'image existe sinon False
+    """
+    # On ignore les liens externes
+    if imagePath.startswith("http"):
+        return True
+        
+    return os.path.exists(imagePath)
+
 # ================================ #
 # ==== Vérification de taille ==== #
 # ================================ #
