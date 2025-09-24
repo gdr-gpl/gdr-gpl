@@ -12,12 +12,10 @@ def FindAllMarkdown(dossierPath):
 
     Args :
         dossier/ :  le chemin du dossier à parcourir
-
     Returns :
         list : la liste des chemins complets des fichiers Markdown trouvés
     """
     markdowns = []
-
     # On parcourt tous les directory et fichiers enfants
     for racine, dirs, fichiers in os.walk(dossierPath):
         for fichier in fichiers:
