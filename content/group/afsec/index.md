@@ -7,6 +7,6 @@ draft: false
 
 AFSEC : Approches Formelles des Systèmes Embarqués Communicants
 
-[Description du GT AFSEC : disponible ici](https://gdr-gpl.cnrs.fr/?page_id=511)
+[Description du GT AFSEC : disponible ici]({{< link title="GDR GPL url">}}group/afsec/)
 
 **Actualités du GT AFSEC**
