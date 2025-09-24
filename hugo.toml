@@ -1,3 +1,15 @@
-baseURL = 'https://example.org/'
-languageCode = 'en-us'
-title = 'My New Hugo Site'
+baseURL = "/"
+languageCode = 'fr-fr'
+title = 'GdR GPL'
+theme = "mon-theme"
+canonifyURLs = true
+
+[taxonomies]
+  archive = "archives"
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
+
+
