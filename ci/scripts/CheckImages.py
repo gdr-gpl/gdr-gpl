@@ -112,3 +112,80 @@ def CheckImageSize(imagePath):
         pass
     
     return 0, False
+
+# =============================== #
+# ==== Conversion des images ==== #
+# =============================== #
+def ConvertToWebP(imagePath, deleteOldFile=False):
+    """
+    Permet de convertir une image au format WebP et supprimer l'ancien fichier si demandé
+
+    Args :
+        imagePath : le chemin de l'image à convertir
+        deleteOldFile : bool qui supprime l'ancien fichier si True
+
+    Returns :
+        str : le chemin de l'image convertie
+    """
+    try:
+        if not os.path.exists(imagePath):
+            return None
+
+        with Image.open(imagePath) as img:
+            webpPath = os.path.splitext(imagePath)[0] + '.webp'
+            img.save(webpPath, 'WebP', quality=CONVERSION_QUALITY, optimize=True)
+
+        if deleteOldFile and os.path.exists(webpPath):
+            try:
+                os.remove(imagePath)
+            except Exception as error:
+                print(f"Error : problème de suppression avec {imagePath} : {error}")
+
+        return webpPath
+
+    except Exception as error:
+        print(f"Error : probl-me de conversion avec {imagePath} : {error}")
+        return None
+    
+
+if __name__ == "__main__":
+    
+    # On récupère tous les fichiers markdown
+    allMd = FindAllMarkdown(".")
+
+    # On récupère toutes les images
+    allImages = []
+    for md in allMd:
+        allImages.extend(GetImages(md))
+
+    nbImagesTotal = len(allImages)
+    nbImagesTraitees = 0
+
+    # On vérifie chaque image et convertit si trop lourde
+    for imagePath in allImages:
+        nbImagesTraitees += 1
+
+        # Vérifie si l'image existe
+        if ImageExists(imagePath):
+            tailleMb, isHeavy = CheckImageSize(imagePath)
+
+            # Si l'image trop lourde + pas un lien externe
+            if isHeavy and not imagePath.startswith("http"):
+                webpPath = ConvertToWebP(imagePath, True)
+
+                if webpPath:
+
+                    # Conversion réussie
+                    print(f"[{nbImagesTraitees}/{nbImagesTotal}] CONVERTED : '{imagePath}' ({tailleMb:.2f} MB) -> '{webpPath}'")
+                else:
+
+                    # Conversion error
+                    print(f"[{nbImagesTraitees}/{nbImagesTotal}] ERROR CONVERSION : '{imagePath}' ({tailleMb:.2f} MB)")
+            else:
+
+                # Taille OK
+                print(f"[{nbImagesTraitees}/{nbImagesTotal}] OK : '{imagePath}' ({tailleMb:.2f} MB) - OK")
+        else:
+
+            # Non trouvée
+            print(f"[{nbImagesTraitees}/{nbImagesTotal}] NOT FOUND : '{imagePath}'")
