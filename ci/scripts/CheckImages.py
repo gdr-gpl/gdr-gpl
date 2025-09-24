@@ -37,7 +37,7 @@ def FindAllMarkdown(dossierPath):
 # ======================== #
 def GetImages(fichierPath):
     """
-    Permet de trouver toutes les images référencées dans un fichier markdown
+    Permet de trouver toutes les images dans un ifhcier markdown
 
     Args :
         fichierPath : le path du fichier à analyser
@@ -68,3 +68,28 @@ def GetImages(fichierPath):
         print(f"Error : problème de lecture dans {fichierPath} : {error}")
 
     return images
+
+# ================================ #
+# ==== Vérification de taille ==== #
+# ================================ #
+def CheckImageSize(imagePath):
+    """
+    Permet de vérifier si une image est trop lourde
+
+    Args :
+        imagePath : le chemin de l'image à vérifier
+
+    Returns :
+        tuple : (taille_en_MB, est_trop_lourde)
+    """
+    try:
+        if os.path.exists(imagePath):
+
+            # On récupère la taille en bytes et on convertit en Mb
+            SizeBytes = os.path.getsize(imagePath)
+            SizeMb = SizeBytes / (1024 * 1024)
+            return SizeMb, SizeMb > MAX_SIZE_MB
+    except Exception:
+        pass
+    
+    return 0, False
