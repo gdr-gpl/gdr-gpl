@@ -39,7 +39,7 @@ def getDate(dossierPath):
             erreur_trouvee = True
 
     if erreurs:
-        print("-------- Erreurs détectées  --------- ")
+        print(" Erreurs détectées ")
         for erreur in erreurs:
             print(erreur)
     else:
