@@ -7,6 +7,6 @@ draft: false
 
 AFSEC : Approches Formelles des Systèmes Embarqués Communicants
 
-[Description du GT AFSEC : disponible ici](/group/afsec/)
+[Description du GT AFSEC : disponible ici](/group/afsec/description-du-groupe-de-travail-afsec/)
 
 **Actualités du GT AFSEC**
