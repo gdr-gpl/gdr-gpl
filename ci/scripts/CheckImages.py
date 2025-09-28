@@ -1,6 +1,8 @@
 import os
 from PIL import Image
 
+# Title : Fichier permettant de vérifier la taille des images dans le dossier static
+
 # ========================== #
 # ==== Global variables ==== #
 # ========================== #
