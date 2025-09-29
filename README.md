@@ -1,3 +1,22 @@
+<div align="center">
+  <table border="0" cellpadding="20" cellspacing="0">
+    <tr>
+      <td align="center">
+        <img src="./static/images/logo-cnrs.png" alt="CNRS" height="80"  />
+      </td>
+      <td align="center" style="font-size: 24px; font-weight: bold; color: #2c3e50;">
+        GDR GPL<br>
+        <span style="font-size: 16px; color: #7f8c8d;">Site Web Moderne et Collaboratif</span>
+      </td>
+      <td align="center">
+        <img src="./static/images/logo-iut.png" alt="IUT Blagnac" height="80"/>
+      </td>
+    </tr>
+  </table>
+  
+  <hr style="width: 50%; margin: 20px auto; border: 2px solid #3498db;">
+</div>
+
 # GDR GPL - Site Web
 
 ![Version](https://img.shields.io/github/v/release/gdr-gpl/gdr-gpl)
