@@ -2,6 +2,7 @@ import os
 import re
 from urllib import request
 
+# Title : Fichier permettant de vérifier les liens dans les fichiers markdown
 
 # ================================ #
 # ==== Recherche des fichiers ==== #
@@ -17,7 +18,6 @@ def FindAllMarkdown(dossierPath):
         list : la liste des chemins complets des fichiers Markdown trouvés
     """
     markdowns = []
-
 
 
     # On parcourt tous les directory et fichiers enfants
