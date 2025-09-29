@@ -13,7 +13,7 @@ _Le GDR GPL (Groupement de Recherche Génie de la Programmation et du Logiciel) 
 
 <img src="/images/logo-cnrs.png" alt="Logo CNRS" width="150" />
 
-J'ai changé cette ligne
+J'ai changé cette ligne, pour le test
 
 - [Journées nationales](?page_id=36)[ ](http://gdr-gpl.cnrs.fr/Actions/Defis2025)
 - [Annonce de conférences, ateliers et journées de travail](?page_id=89)
