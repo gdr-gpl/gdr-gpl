@@ -13,3 +13,5 @@ canonifyURLs = true
       unsafe = true
 
 
+[outputs]
+  home = ["HTML", "RSS", "JSON"]

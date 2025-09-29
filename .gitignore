@@ -9,3 +9,4 @@ hugo.darwin
 node_modules
 dist
 tmp
+.config-dev.toml
