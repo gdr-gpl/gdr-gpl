@@ -57,7 +57,6 @@ Responsable enseignant de l'équipe : [Jean-Michel Bruel](jean-michel.bruel@irit
 
 ### Technologies utilisées
 - **Hugo** v0.148.0 - Générateur de sites statiques
-- **Nginx** - Serveur web
 - **GitHub Actions** - CI/CD
 - **Markdown** - Format de contenu
 
