@@ -22,7 +22,7 @@ La sélection du prix sera faite par un jury d'universitaires et de chercheurs(c
 La remise oﬃcielle du prix aura lieu lors des prochaines journées nationales du GDR GPL qui se dérouleront en juin 2025.  
 À cette occasion, le ou la lauréat(e) se verra remettre un prix.
 
-Les thèmes scientifiques du GDR GPL sont présentés dans les motivations et enjeux du GDR (<https://gdr-gpl.cnrs.fr/?page_id=18>) et développés dans le cadre des groupes de travail qui le composent (<https://gdr-gpl.cnrs.fr/?page_id=27>). Plus généralement il s’agit des enjeux associés aux sciences du logiciel.
+Les thèmes scientifiques du GDR GPL sont présentés dans les [motivations et enjeux du GDR](/bienvenue-site-gpl/motivation/) et développés dans le cadre des [groupes de travail](/group/)qui le composent. Plus généralement il s’agit des enjeux associés aux sciences du logiciel.
 
 Les critères pris en compte par le jury pour sélectionner le ou la lauréat(e) sont notamment l'originalité, l'importance et l'impact des résultats obtenus, ce qui inclut le ou les éventuels logiciels, preuves ou jeux de données développés pour la thèse, et la qualité de la rédaction.
 

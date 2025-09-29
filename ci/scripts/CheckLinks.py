@@ -12,10 +12,14 @@ def FindAllMarkdown(dossierPath):
 
     Args :
         dossier/ :  le chemin du dossier à parcourir
+
     Returns :
         list : la liste des chemins complets des fichiers Markdown trouvés
     """
     markdowns = []
+
+
+
     # On parcourt tous les directory et fichiers enfants
     for racine, dirs, fichiers in os.walk(dossierPath):
         for fichier in fichiers:
@@ -117,10 +121,13 @@ def ExternalVerification(url):
             return False
     return False
     
+
 def run():
+
 
     # On récupère tous les fichiers markdown
     allMd = FindAllMarkdown(".")
+
 
     erreurs = False;
 
@@ -136,6 +143,13 @@ def run():
     # On vérifie chaque lien
     for url, _ in allLiens:
         nbLiensTraites += 1
+
+
+        # Affiche 1 si le lien fonctionne sinon 0
+        if url.startswith("http"):
+            print(f"{1 if ExternalVerification(url) else 0} {url} [{nbLiensTraites}/{nbLiensTotal}]")
+        else:
+            print(f"{1 if InternalVerification(url) else 0} {url} [{nbLiensTraites}/{nbLiensTotal}]")
 
         if url.startswith("http"):
             ok = ExternalVerification(url)
@@ -153,3 +167,4 @@ def run():
 
 if __name__ == "__main__":
     run()
+

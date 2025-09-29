@@ -18,51 +18,17 @@ Les articles récents relatifs au prix de thèse sont les suivants :
 
 Année| Lauréat| Thèse  
 ---|---|---  
-**2023**|  Xavier DENIS (prix)  
- | [Deductive Verification of Rust Programs.](https://theses.hal.science/tel-04517581)  
-Université Paris Saclay / LMF  
-sous la direction de Claude Marché  
- | Sylvain GUERIN (accessit)  
- | [FML : un langage de fédération de modèles pour l'interopérabilité sémantique de sources d'information hétérogènes.](https://theses.hal.science/tel-04555528v1)  
-ENSTA Bretagne / Lab-STICC  
-sous la direction d'Antoine Beugnard et Joël Champeau  
- | Youcef REMIL (accessit)| [A Data Mining Perspective on Explainable AIOps with Applications to Software Maintenance.](https://theses.hal.science/tel-04391281v1)  
-Université de Lyon / INSA Lyon  
-sous la direction de Jean-François Boulicaut  
-**2022**|  Paulo Emilio DE VILHENA  
-(prix)| [Preuves de programmes avec effect handlers.](https://www.theses.fr/s230574)  
-Université Paris Cité / INRIA  
-sous la direction de François Pottier  
- | Faezeh KHORRAM  
-(accessit)| [A testing framework for executable domain-specific languages.](https://www.theses.fr/2022IMTA0332)  
-IMT Atlantique / LS2N  
-sous la direction de Gerson Sunyé  
-**2021**|  Antoine PIETRI  
-(prix)| _[Organizing the graph of public software development for large-scale mining.](https://www.theses.fr/2021UNIP7183)_  
-Université Paris Cité / INRIA  
-sous la direction de Stefano Zacchiroli  
- | Victor LANVIN  
-(accessit)  
- | _[A semantic foundation for gradual set-theoretic types.](https://www.theses.fr/2021UNIP7159)_  
-Université Paris Cité / IRIF  
-sous la direction de Giuseppe Castagna.  
-  | Frédéric RECOULES  
-(accessit)  
- | [_Vérification automatique de code bas-niveau : C, assembleur et binaire._](https://www.theses.fr/2021GRALM079)  
-Université Grenoble Alpes / VERIMAG  
-sous la direction de Marie-Laure Potet, Sébastien Bardin et Richard Bonichon  
-**2020**|  Benjamin FARINIER  
-(prix)| [Procédures de décision pour l'analyse de vulnérabilités.](https://theses.fr/2020GRALM013)  
-Université Grenoble-Alpes / VERIMAG  
-sous la direction de Marie-Laure Potet et Sébastien Bardin  
- | Valentin BESNARD  
-(accessit)| [EMI - Une approche pour unifier l'analyse et l'exécution embarquée à l'aide d'un interpréteur de modèles pilotable : application aux modèles UML des systèmes embarqués.](https://www.theses.fr/2020ENTA0007)  
-ENSTA Bretagne / Lab-STICC  
-sous la direction de Philippe Dhaussy, Matthias Brun et Ciprian Teodorov.  
- | Lelio BRUN  
-(accessit)| [Sémantique mécanisée et compilation vérifiée pour un langage synchrone à flots de données avec réinitialisation.](https://www.theses.fr/2020UPSLE003)  
-Université Paris Sciences et Lettres / DIENS  
-sous la direction de Marc Pouzet et Timothy Bourke.  
+**2023**|  Xavier DENIS (prix)  | [Deductive Verification of Rust Programs.](https://theses.hal.science/tel-04517581)  Université Paris Saclay / LMF sous la direction de Claude Marché <hr>
+| | Sylvain GUERIN (accessit) | [FML : un langage de fédération de modèles pour l'interopérabilité sémantique de sources d'information hétérogènes.](https://theses.hal.science/tel-04555528v1) ENSTA Bretagne / Lab-STICC sous la direction d'Antoine Beugnard et Joël Champeau <hr> 
+| | Youcef REMIL (accessit)| [A Data Mining Perspective on Explainable AIOps with Applications to Software Maintenance.](https://theses.hal.science/tel-04391281v1) Université de Lyon / INSA Lyon sous la direction de Jean-François Boulicaut  <hr>
+**2022**|  Paulo Emilio DE VILHENA  (prix)| [Preuves de programmes avec effect handlers.](https://www.theses.fr/s230574) Université Paris Cité / INRIA sous la direction de François Pottier <hr> 
+| | Faezeh KHORRAM (accessit)| [A testing framework for executable domain-specific languages.](https://www.theses.fr/2022IMTA0332) IMT Atlantique / LS2N sous la direction de Gerson Sunyé  <hr>
+**2021**|  Antoine PIETRI (prix) | _[Organizing the graph of public software development for large-scale mining.](https://www.theses.fr/2021UNIP7183)_ Université Paris Cité / INRIA sous la direction de Stefano Zacchiroli  <hr>
+| | Victor LANVIN (accessit)  | _[A semantic foundation for gradual set-theoretic types.](https://www.theses.fr/2021UNIP7159)_ Université Paris Cité / IRIF sous la direction de Giuseppe Castagna.  <hr>
+|  | Frédéric RECOULES  (accessit)  | [_Vérification automatique de code bas-niveau : C, assembleur et binaire._](https://www.theses.fr/2021GRALM079) Université Grenoble Alpes / VERIMAG sous la direction de Marie-Laure Potet, Sébastien Bardin et Richard Bonichon  <hr>
+**2020**| Benjamin FARINIER (prix) | [Procédures de décision pour l'analyse de vulnérabilités.](https://theses.fr/2020GRALM013) Université Grenoble-Alpes / VERIMAG sous la direction de Marie-Laure Potet et Sébastien Bardin <hr>
+| | Valentin BESNARD (accessit) | [EMI - Une approche pour unifier l'analyse et l'exécution embarquée à l'aide d'un interpréteur de modèles pilotable : application aux modèles UML des systèmes embarqués.](https://www.theses.fr/2020ENTA0007) ENSTA Bretagne / Lab-STICC sous la direction de Philippe Dhaussy, Matthias Brun et Ciprian Teodorov <hr>
+| | Lelio BRUN (accessit) | [Sémantique mécanisée et compilation vérifiée pour un langage synchrone à flots de données avec réinitialisation.](https://www.theses.fr/2020UPSLE003) Université Paris Sciences et Lettres / DIENS sous la direction de Marc Pouzet et Timothy Bourke <hr>  
   
 **Liste des années antérieures**
 
