@@ -1,10 +1,12 @@
 import sys
 
 from scripts import CheckLinks
+from scripts import CheckEmptyFiles
 
 def main():
     tests = [
         ("Vérification des liens", CheckLinks.run),
+        ("Vérification des fichiers vides", CheckEmptyFiles.run),
     ]
 
     erreurs = 0
@@ -12,9 +14,9 @@ def main():
     print("Lancement de la suite de tests\n")
     for nom, test in tests:
         print(f"=== {nom} ===")
-        ok = test()
+        error = test()
         print()
-        if not ok:
+        if error:
             erreurs += 1
 
     print("Résumé :")
