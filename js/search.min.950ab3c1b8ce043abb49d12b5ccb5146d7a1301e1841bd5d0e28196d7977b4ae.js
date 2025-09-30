@@ -8,12 +8,25 @@ const JSON_INDEX_URL=`${window.BASE_URL}index.json`,QUERY_URL_PARAM="query",MAX_
           ${i.map(e=>`<a href="${e.url}" >${e.name}</a>`).join(", ")}
        </p>`:""}
       </article>
-  `},getMainContent=()=>document.querySelector("main .content")||document.querySelector("main"),renderHits=e=>{const t=getMainContent();if(!t)return;const n=getQuery(),s=e.slice(0,MAX_HITS_SHOWN).map(createHitHtml).join(`
-`);t.innerHTML=`<p style="
-    color: #666;
-    font-size: 10px;
-    font-weight: 500;
-    letter-spacing: 0.1em;
-    line-height: 2.6em;
-    text-transform: uppercase;
-">Search Results for: ${n} </p> ${s}`||"<p>Aucun résultat</p>"},handleSearchEvent=()=>{const e=getQuery();if(!e||e.length<1){document.querySelector("#search_results_container").innerHTML="";return}const t=fuse.search(e);setUrlParam(e),renderHits(t)},fetchJsonIndex=()=>{fetch(JSON_INDEX_URL).then(e=>e.json()).then(e=>{initFuse(e);const t=document.querySelector("#s"),n=document.querySelector("#searchform");n&&n.addEventListener("submit",e=>{e.preventDefault(),handleSearchEvent()}),t.addEventListener("keydown",e=>{e.key==="Escape"&&(t.value="",document.querySelector("#search_results_container").innerHTML="")}),doSearchIfUrlParamExists()}).catch(e=>{console.error(`Failed to fetch JSON index: ${e.message}`)})};document.addEventListener("DOMContentLoaded",fetchJsonIndex)
+  `},getMainContent=()=>document.querySelector("main .content")||document.querySelector("main"),renderHits=e=>{const t=getMainContent();if(!t)return;const s=getQuery(),n=e.slice(0,MAX_HITS_SHOWN).map(createHitHtml).join(`
+`);n&&n.trim()!==""?t.innerHTML=`
+      <p style="
+        color: #666;
+        font-size: 10px;
+        font-weight: 500;
+        letter-spacing: 0.1em;
+        line-height: 2.6em;
+        text-transform: uppercase;
+      ">
+        Search Results for: ${s}
+      </p>
+      ${n}
+    `:t.innerHTML=`<p style="
+        color: #666;
+        font-size: 10px;
+        font-weight: 500;
+        letter-spacing: 0.1em;
+        line-height: 2.6em;
+        text-transform: uppercase;
+      ">
+      class="no-results">Aucun résultat trouvé pour " ${s} ".</p>`},handleSearchEvent=()=>{const e=getQuery();if(!e||e.length<1){document.querySelector("#search_results_container").innerHTML="";return}const t=fuse.search(e);setUrlParam(e),renderHits(t)},fetchJsonIndex=()=>{fetch(JSON_INDEX_URL).then(e=>e.json()).then(e=>{initFuse(e);const t=document.querySelector("#s"),n=document.querySelector("#searchform");n&&n.addEventListener("submit",e=>{e.preventDefault(),handleSearchEvent()}),t.addEventListener("keydown",e=>{e.key==="Escape"&&(t.value="",document.querySelector("#search_results_container").innerHTML="")}),doSearchIfUrlParamExists()}).catch(e=>{console.error(`Failed to fetch JSON index: ${e.message}`)})};document.addEventListener("DOMContentLoaded",fetchJsonIndex)
