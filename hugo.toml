@@ -16,4 +16,4 @@ canonifyURLs = true
   home = ["HTML", "RSS", "JSON"]
 
 [params]
-  basePath = "gdr-gpl"
+  basePath = "gdr-sdl"
