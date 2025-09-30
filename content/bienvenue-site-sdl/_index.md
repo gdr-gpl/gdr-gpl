@@ -9,10 +9,11 @@ menu:
 draft: false
 ---
 
-<meta http-equiv="refresh" content="0; url=/">
+<meta http-equiv="refresh" content="0; url=/gdr-sdl/">
 <script>
-window.location.href = '/';
+window.location.href = '/gdr-sdl/';
 </script>
 <noscript>
-<p> Si vous n'êtes pas redirigé automatiquement, <a href="/">cliquez ici</a>.</p>
+<p> Si vous n'êtes pas redirigé automatiquement, <a href="/gdr-sdl/">cliquez ici</a>.</p>
 </noscript>
+s
