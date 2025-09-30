@@ -1,6 +1,6 @@
 baseURL = "/"
 languageCode = 'fr-fr'
-title = 'GdR GPL'
+title = 'GdR SDL'
 theme = "mon-theme"
 canonifyURLs = true
 

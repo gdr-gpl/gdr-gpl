@@ -1,13 +1,13 @@
 ---
-title: Bienvenue sur le site du GDR GPL
+title: Bienvenue sur le site du GDR SDL
 type: news
 date: "2024-06-23T09:46:44Z"
 draft: false
 ---
 
-# Bienvenue sur le site du GDR GPL
+# Bienvenue sur le site du GDR SDL
 
-_Le GDR GPL (Groupement de Recherche Génie de la Programmation et du Logiciel) est une unité du[CNRS Sciences informatiques](http://www.cnrs.fr/ins2i/) qui regroupe la communauté scientifique française intéressée par le Génie Logiciel et la Programmation._
+_Le GDR GPL (Groupement de Recherche Sciences du Logiciel) est une unité du [CNRS Sciences informatiques](http://www.cnrs.fr/ins2i/) qui regroupe la communauté scientifique française intéressée par le Génie Logiciel et la Programmation._
 
 <img src="/images/logo-cnrs.png" alt="Logo CNRS" width="150" />
 
