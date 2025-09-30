@@ -1,6 +1,6 @@
 ---
 title: Anciens sites web du GDR-GPL
-slug: anciens-sites-web-du-gdr-gpl
+slug: anciens-sites-web-du-gdr-sdl
 date: '2024-11-21 15:39:27'
 date_gmt: '2024-11-21 13:39:27'
 lastmod: '2024-11-21 15:46:17'
