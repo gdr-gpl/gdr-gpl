@@ -142,21 +142,6 @@ La qualité est néanmoins assurée par :
 - Validation manuelle
 - Code review sur les PR
 
-
-## Scripts
-
-### `install.sh`
-
-Installe les dépendances :
-
-- `git`
-- `nginx`
-- `hugo v0.148.0` (cette version spécifiquement)
-
-```bash
-./scripts/install.sh
-```
-
 ## Contact
 
 Pour toute question concernant le projet :
