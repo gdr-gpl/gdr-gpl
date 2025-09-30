@@ -34,7 +34,7 @@ Le programme et les informations pratiques seront communiqués sur
 
 <https://groupes.renater.fr/wiki/lvp/public/2311journeeslvp_mtv2>
 
-Grâce au soutien du GDR GPL, du CEA List et de la Graduate School "Informatique et Sciences du Numérique" de l'Université Paris-Saclay, la participation aux journées est gratuite, les déjeuners et pauses café sont offerts. Les journées commenceront par le déjeuner le 16 novembre et se termineront après le déjeuner le 17 novembre.
+Grâce au soutien du GDR SDL, du CEA List et de la Graduate School "Informatique et Sciences du Numérique" de l'Université Paris-Saclay, la participation aux journées est gratuite, les déjeuners et pauses café sont offerts. Les journées commenceront par le déjeuner le 16 novembre et se termineront après le déjeuner le 17 novembre.
 
 Pour des raisons d'organisation et d'autorisation d'accès sur le site, l'inscription est obligatoire. 
 

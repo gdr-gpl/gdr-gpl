@@ -1,5 +1,5 @@
 ---
-title: "Programme_Journ\xE9es Nationales du GDR GPL 2025 - Sciencesconf"
+title: "Programme_Journ\xE9es Nationales du GDR SDL 2025 - Sciencesconf"
 slug: programme_journees-nationales-du-gdr-gpl-2025-sciencesconf
 date: '2025-07-14 22:25:21'
 date_gmt: '2025-07-14 20:25:21'

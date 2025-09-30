@@ -1,5 +1,5 @@
 ---
-title: "Actes des journ\xE9es GPL 2025"
+title: "Actes des journ\xE9es SDL 2025"
 slug: actes-des-journees-gpl-2025
 date: '2025-08-01 11:36:44'
 date_gmt: '2025-08-01 09:36:44'
@@ -17,7 +17,7 @@ comment_status: closed
 ping_status: open
 categories:
 - An2025
-- GPL2025
+- SDL2025
 tags: null
 summary: ''
 ---

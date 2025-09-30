@@ -10,15 +10,15 @@ categories:
 ---
 
   
-Le GDR Génie de la Programmation et du Logiciel propose quelques bourses de mobilité en vue de coopération entre équipes en 2025  
+Le GDR Sciences du Logiciel propose quelques bourses de mobilité en vue de coopération entre équipes en 2025  
   
 Ces bourses d’un montant maximum de 1000€ sont destinées à couvrir des frais de déplacement et de logement d’un doctorant, d’un chercheur ou enseignant-chercheur pour un séjour de courte durée (typiquement, une semaine) dans une autre équipe, géographiquement distante (située dans un autre département). Le séjour doit avoir lieu avant octobre 2025.  
   
 Ce séjour doit favoriser un projet de collaboration entre les deux équipes, ou de mobilité future du chercheur concerné (CRCT, délégation ou détachement, mutation ou recrutement).  
   
-La personne candidate doit être membre d’une des équipes du GDR GPL, c'est-à-dire que l’équipe doit participer à un des groupes de travail du GDR GPL. Le laboratoire du candidat ou le laboratoire d’accueil doit participer au GDR GPL.  
+La personne candidate doit être membre d’une des équipes du GDR SDL, c'est-à-dire que l’équipe doit participer à un des groupes de travail du GDR SDL. Le laboratoire du candidat ou le laboratoire d’accueil doit participer au GDR SDL.  
   
-A l’issue de sa mobilité, le candidat enverra un bref rapport (environ une page) sur l’action réalisée. Ce rapport pourra être publié sur le site web du GDR GPL.  
+A l’issue de sa mobilité, le candidat enverra un bref rapport (environ une page) sur l’action réalisée. Ce rapport pourra être publié sur le site web du GDR SDL.  
   
 Le montant de la bourse sera viré soit au laboratoire du candidat ou au laboratoire d’accueil si l’un des deux est une unité CNRS. Si aucun des 2 laboratoires n’est une unité CNRS, nous essayerons de trouver une solution.  
   
@@ -27,7 +27,7 @@ Le montant de la bourse sera viré soit au laboratoire du candidat ou au laborat
   
 Le dossier de candidature comprend  
   
-\- une fiche « Demande de bourse de mobilité GPL » signée par le candidat et son directeur de laboratoire, fiche dont le modèle se trouve à l'adresse ci-dessous  
+\- une fiche « Demande de bourse de mobilité SDL » signée par le candidat et son directeur de laboratoire, fiche dont le modèle se trouve à l'adresse ci-dessous  
   
 <https://gdrgpl.myxwiki.org/xwiki/bin/download/Main/DocumentsCompterendus%20de%20r%C3%A9unions/WebHome/MobiliteGPL-mode%CC%80le.doc>  
   
@@ -41,7 +41,7 @@ Le dossier de candidature doit se présenter en UN SEUL fichier au format pdf.
   
 Le dossier doit être envoyé à Mireille Blay-Fornarino et Catherine Dubois par courrier électronique. Envoyez un lien de téléchargement si besoin avec le message de candidature.  
   
-Les candidatures seront examinées par le bureau du GDR GPL, assisté le cas échéant par les responsables des groupes de travail et les membres du comité scientifique. Si besoin, la préférence sera donnée aux nouvelles collaborations.  
+Les candidatures seront examinées par le bureau du GDR SDL, assisté le cas échéant par les responsables des groupes de travail et les membres du comité scientifique. Si besoin, la préférence sera donnée aux nouvelles collaborations.  
   
   
 **Calendrier :**  

@@ -1,5 +1,5 @@
 ---
-title: "Ouverture des Journ\xE9es Nationales GPL 2024 et programme"
+title: "Ouverture des Journ\xE9es Nationales SDL 2024 et programme"
 slug: ouverture-des-journees-nationales-gpl-2024-et-programme
 date: '2024-06-03 08:22:24'
 date_gmt: '2024-06-03 08:22:24'
@@ -20,11 +20,11 @@ categories:
 - EvenementGPL
 - Journees Nationales
 tags:
-- GPL2024
+- SDL2024
 summary: ''
 ---
 
-Les journées nationales GPL 2024 ont été ouvertes ce lundi 3 juin 2024 par Nicolas Magaud, et son équipe d'organisateurs locaux, ainsi que les co-directrices du GDR : Mireille Blay et Catherine Dubois.
+Les journées nationales SDL 2024 ont été ouvertes ce lundi 3 juin 2024 par Nicolas Magaud, et son équipe d'organisateurs locaux, ainsi que les co-directrices du GDR : Mireille Blay et Catherine Dubois.
 
 Le programme est disponible sur le site des journées nationales : <https://gdrgpl2024.sciencesconf.org/>
 

@@ -5,7 +5,7 @@ date: Sun, 23 Jun 2024 10:11:32 +0000
 draft: false
 ---
 
-Le GDR GPL est structuré en deux pôles, regroupant chacun plusieurs groupes de travail :
+Le GDR SDL est structuré en deux pôles, regroupant chacun plusieurs groupes de travail :
 
   * Un pôle "Langages et Vérification" s'intéressant aux problématiques liées aux langages de programmation, aux objets, au parallélisme, à la compilation et à la vérification.
   * Un pôle "Développement de Logiciel" s'intéressant aux méthodes, techniques et outils de développement logiciel, depuis l'ingénierie des besoins, jusqu'à la validation.
@@ -47,7 +47,7 @@ A cela s'ajoutent deux référents :
 
 
 
-**Le comité scientifique** a pour mission principale de donner son avis sur les actions du GDR, en particulier lors d’appels à actions spécifiques ou d’actions prospectives pour participer à l’évaluation des propositions. Il se réunira une fois par an lors des journées nationales avec le bureau du GDR GPL et les responsables des groupes de travail et actions transverses pour faire le bilan de l’année, mais également pour proposer de nouvelles actions.
+**Le comité scientifique** a pour mission principale de donner son avis sur les actions du GDR, en particulier lors d’appels à actions spécifiques ou d’actions prospectives pour participer à l’évaluation des propositions. Il se réunira une fois par an lors des journées nationales avec le bureau du GDR SDL et les responsables des groupes de travail et actions transverses pour faire le bilan de l’année, mais également pour proposer de nouvelles actions.
 
 Les missions du Comité Scientifique sont détaillées dans [ce document](https://gdr-gpl-2013-2024.imag.fr/sites/default/files/documentsGPL/DocumentsDuGDR/Mission_Comite_Scientifique_GDR_GPL_28_Avril_2021.pdf).
 

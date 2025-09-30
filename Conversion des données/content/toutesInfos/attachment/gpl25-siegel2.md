@@ -1,5 +1,5 @@
 ---
-title: GPL25-Siegel2
+title: SDL25-Siegel2
 slug: gpl25-siegel2
 date: '2025-07-14 14:19:42'
 date_gmt: '2025-07-14 12:19:42'

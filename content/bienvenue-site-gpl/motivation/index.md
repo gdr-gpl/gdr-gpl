@@ -5,9 +5,9 @@ date: "2024-06-23T10:07:58Z"
 draft: false
 ---
 
-Le GDR Génie de la Programmation et du Logiciel (GPL) a été renouvelé par le CNRS pour une nouvelle période de 5 ans allant de janvier  2021 à décembre 2025. L’objectif du GDR GPL est d’animer  la communauté scientifique  dans le domaine du Génie Logiciel et de la Programmation, et également d’être un outil de prospective scientifique  dans ce domaine par les retours de notre communauté et ses collaborations avec d’autres communautés.
+Le GDR Sciences du Logiciel (SDL) a été renouvelé par le CNRS pour une nouvelle période de 5 ans allant de janvier  2021 à décembre 2025. L’objectif du GDR SDL est d’animer  la communauté scientifique  dans le domaine du Génie Logiciel et de la Programmation, et également d’être un outil de prospective scientifique  dans ce domaine par les retours de notre communauté et ses collaborations avec d’autres communautés.
 
-Le Génie de la Programmation et du Logiciel est au cœur de l’activité informatique. Les concepts, méthodes et les outils de conception et de validation de logiciels constituent les éléments manipulés par les informaticiens pour maîtriser et automatiser les problèmes qui leur sont soumis. Plusieurs grandes familles thématiques ont été définies lors des actions de prospective que nous avons menées en 2010 et 2014, et qui avaient conduit à plusieurs Groupes de Travail (GT). Fin 2019, nous avons lancé [une nouvelle action dans ce sens](https://gdr-gpl-2013-2024.imag.fr/node/384.html).
+Le Sciences du Logiciel est au cœur de l’activité informatique. Les concepts, méthodes et les outils de conception et de validation de logiciels constituent les éléments manipulés par les informaticiens pour maîtriser et automatiser les problèmes qui leur sont soumis. Plusieurs grandes familles thématiques ont été définies lors des actions de prospective que nous avons menées en 2010 et 2014, et qui avaient conduit à plusieurs Groupes de Travail (GT). Fin 2019, nous avons lancé [une nouvelle action dans ce sens](https://gdr-gpl-2013-2024.imag.fr/node/384.html).
 
 Les grandes thématiques du domaine sur lesquelles les chercheurs du domaine travaillent  sont, au regard des 21 défis reçus en décembre 2019 :
 

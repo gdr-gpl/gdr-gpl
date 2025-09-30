@@ -1,5 +1,5 @@
 ---
-title: "Actes des journ\xE9es GPL 2025"
+title: "Actes des journ\xE9es SDL 2025"
 type: news
 date: Fri, 01 Aug 2025 09:36:44 +0000
 draft: false

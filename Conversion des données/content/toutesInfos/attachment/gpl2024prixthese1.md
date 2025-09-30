@@ -1,5 +1,5 @@
 ---
-title: GPL2024PrixThese1
+title: SDL2024PrixThese1
 slug: gpl2024prixthese1
 date: '2024-08-20 17:31:08'
 date_gmt: '2024-08-20 15:31:08'

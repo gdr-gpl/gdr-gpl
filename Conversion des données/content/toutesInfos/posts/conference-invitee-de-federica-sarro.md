@@ -17,7 +17,7 @@ comment_status: closed
 ping_status: open
 categories:
 - An2025
-- GPL2025
+- SDL2025
 tags: null
 summary: ''
 ---

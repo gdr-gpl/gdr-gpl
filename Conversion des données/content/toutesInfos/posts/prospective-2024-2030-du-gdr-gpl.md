@@ -1,5 +1,5 @@
 ---
-title: Prospective 2024-2030 du GDR GPL
+title: Prospective 2024-2030 du GDR SDL
 slug: prospective-2024-2030-du-gdr-gpl
 date: '2024-06-23 12:32:20'
 date_gmt: '2024-06-23 12:32:20'
@@ -21,6 +21,6 @@ tags: null
 summary: ''
 ---
 
-A la demande du CNRS, le Conseil Scientifique et le Bureau du GDR GPL ont préparé un document synthétique de prospective qui identifie les évolutions significatives de notre discipline, les thématiques émergentes, les enjeux sociétaux et les relations du GDR avec les autres disciplines (de l'INS2I et au-delà).
+A la demande du CNRS, le Conseil Scientifique et le Bureau du GDR SDL ont préparé un document synthétique de prospective qui identifie les évolutions significatives de notre discipline, les thématiques émergentes, les enjeux sociétaux et les relations du GDR avec les autres disciplines (de l'INS2I et au-delà).
 
 [Ce document est disponible ici.](https://lig-gdr-gpl.imag.fr/wp-content/uploads/2024/06/GDRGPL_Prospective_2024-2030.pdf)

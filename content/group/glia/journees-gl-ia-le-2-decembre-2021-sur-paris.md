@@ -10,4 +10,4 @@ categories:
 archives: ["2021-11"]
 ---
 
-Le groupe de travail Génie Logiciel et Intelligence Artificielle (GLIA) du GDR GPL organisera une journée de travail le jeudi 02 décembre 2021, en présentiel cette année, au LIP6, Jussieu, à Paris.
+Le groupe de travail Génie Logiciel et Intelligence Artificielle (GLIA) du GDR SDL organisera une journée de travail le jeudi 02 décembre 2021, en présentiel cette année, au LIP6, Jussieu, à Paris.

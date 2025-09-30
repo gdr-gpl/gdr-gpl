@@ -19,7 +19,7 @@ ping_status: open
 categories:
 - An2025
 - Eco-Resp
-- Soutien GPL
+- Soutien SDL
 - Uncategorized
 tags: null
 summary: ''
@@ -29,7 +29,7 @@ La problématique d'un numérique écoresponsable recouvre plusieurs facettes qu
 
 ## 
 
-Ces journées thématiques francophones sont organisées en collaboration avec les GDRs GPL, IASIS, MADICS, RSD, ROD, SOC2 et le GDRS EcoInfo et avec le soutien des PEPR Cloud et Réseaux du futur.
+Ces journées thématiques francophones sont organisées en collaboration avec les GDRs SDL, IASIS, MADICS, RSD, ROD, SOC2 et le GDRS EcoInfo et avec le soutien des PEPR Cloud et Réseaux du futur.
 
 L'**inscription** est gratuite mais obligatoire avant le **11 mars 2025** (en fonction des places disponibles, pour des raisons de logistique).   
 Pour s'inscrire : <https://greendays.sciencesconf.org/>

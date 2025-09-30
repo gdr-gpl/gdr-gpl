@@ -17,13 +17,13 @@ comment_status: closed
 ping_status: open
 categories:
 - An2025
-- GPL2025
+- SDL2025
 tags: null
 summary: ''
 ---
 
 Nous avons accueilli Anne Siegel, Directrice Scientifique Adjointe au CNRS Sciences Informatiques, en charge du suivi des GDRs.
 
-Elle nous a présenté sa vision du positionnement du GDR GPL dans l'écosystème des Sciences Informatiques et plus généralement du CNRS.
+Elle nous a présenté sa vision du positionnement du GDR SDL dans l'écosystème des Sciences Informatiques et plus généralement du CNRS.
 
 ![](https://gdr-gpl.cnrs.fr/wp-content/uploads/2025/07/GPL25-Siegel1.jpg) ![](https://gdr-gpl.cnrs.fr/wp-content/uploads/2025/07/GPL25-Siegel2.jpg)

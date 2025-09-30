@@ -1,5 +1,5 @@
 ---
-title: GPL25-Sarro1
+title: SDL25-Sarro1
 slug: gpl25-sarro1
 date: '2025-07-14 15:05:19'
 date_gmt: '2025-07-14 13:05:19'

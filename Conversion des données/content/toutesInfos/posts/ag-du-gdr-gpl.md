@@ -1,5 +1,5 @@
 ---
-title: AG du GDR GPL
+title: AG du GDR SDL
 slug: ag-du-gdr-gpl
 date: '2025-07-14 14:53:07'
 date_gmt: '2025-07-14 12:53:07'
@@ -17,13 +17,13 @@ comment_status: closed
 ping_status: open
 categories:
 - An2025
-- GPL2025
-- GPL2026
+- SDL2025
+- SDL2026
 tags: null
 summary: ''
 ---
 
-Mireille Blay et Catherine Dubois, directrices du GDR, ont fait le point sur les actions réalisées par le GDR GPL, ...
+Mireille Blay et Catherine Dubois, directrices du GDR, ont fait le point sur les actions réalisées par le GDR SDL, ...
 
 ![](https://gdr-gpl.cnrs.fr/wp-content/uploads/2025/07/GPL25_AG1.jpg)
 

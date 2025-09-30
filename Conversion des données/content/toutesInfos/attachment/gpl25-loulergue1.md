@@ -1,5 +1,5 @@
 ---
-title: GPL25-Loulergue1
+title: SDL25-Loulergue1
 slug: gpl25-loulergue1
 date: '2025-06-24 22:00:34'
 date_gmt: '2025-06-24 20:00:34'

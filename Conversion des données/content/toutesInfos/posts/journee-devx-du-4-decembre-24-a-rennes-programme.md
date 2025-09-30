@@ -57,6 +57,6 @@ Valentin, Benoit, Steven.
 \---  
 **15:30-16:00** : coffee break  
 \---  
-**16:00-17:00** : Consolidation and structure of the document (_défis GDR GPL_)  
+**16:00-17:00** : Consolidation and structure of the document (_défis GDR SDL_)  
 \---  
 

@@ -1,5 +1,5 @@
 ---
-title: GPL25_AG1
+title: SDL25_AG1
 slug: gpl25_ag1
 date: '2025-07-14 14:48:44'
 date_gmt: '2025-07-14 12:48:44'

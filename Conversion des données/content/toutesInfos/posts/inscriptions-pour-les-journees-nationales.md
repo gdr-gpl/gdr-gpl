@@ -17,14 +17,14 @@ comment_status: closed
 ping_status: open
 categories:
 - An2025
-- GPL2025
+- SDL2025
 - Journees Nationales
 tags: null
 summary: ''
 ---
 
   
-Les prochaines journées nationales du GDR Génie de la Programmation et du Logiciel (GPL) se dérouleront du **16 au 19 juin** 2025 à Pau.
+Les prochaines journées nationales du GDR Sciences du Logiciel (GPL) se dérouleront du **16 au 19 juin** 2025 à Pau.
 
 **Les inscriptions sont désormais ouvertes** sur : <https://gdrgpl2025.sciencesconf.org/>
 

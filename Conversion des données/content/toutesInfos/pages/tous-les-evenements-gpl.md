@@ -1,5 +1,5 @@
 ---
-title: "Tous les \xE9v\xE9nements GPL"
+title: "Tous les \xE9v\xE9nements SDL"
 slug: tous-les-evenements-gpl
 date: '2024-08-19 16:21:33'
 date_gmt: '2024-08-19 14:21:33'

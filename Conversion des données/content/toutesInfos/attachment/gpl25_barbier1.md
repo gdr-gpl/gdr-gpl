@@ -1,5 +1,5 @@
 ---
-title: GPL25_Barbier1
+title: SDL25_Barbier1
 slug: gpl25_barbier1
 date: '2025-06-17 12:55:38'
 date_gmt: '2025-06-17 10:55:38'

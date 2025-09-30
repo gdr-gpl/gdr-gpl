@@ -1,5 +1,5 @@
 ---
-title: GPL25_AppelDefis1
+title: SDL25_AppelDefis1
 slug: gpl25_appeldefis1
 date: '2025-06-16 22:53:29'
 date_gmt: '2025-06-16 20:53:29'

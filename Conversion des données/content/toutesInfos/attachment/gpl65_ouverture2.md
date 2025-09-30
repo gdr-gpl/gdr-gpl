@@ -1,5 +1,5 @@
 ---
-title: GPL65_Ouverture2
+title: SDL65_Ouverture2
 slug: gpl65_ouverture2
 date: '2025-06-16 22:53:38'
 date_gmt: '2025-06-16 20:53:38'

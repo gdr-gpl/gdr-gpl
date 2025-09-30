@@ -1,5 +1,5 @@
 ---
-title: GPL25_Defis2
+title: SDL25_Defis2
 slug: gpl25_defis2
 date: '2025-07-14 16:01:49'
 date_gmt: '2025-07-14 14:01:49'

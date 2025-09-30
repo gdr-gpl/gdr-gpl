@@ -1,6 +1,6 @@
 ---
-title: "Journ\xE9es Nationales GPL 2025"
-slug: journees-nationales-gpl-2025
+title: "Journ\xE9es Nationales SDL 2025"
+slug: journees-nationales-sdl-2025
 date: '2025-02-26 11:41:27'
 date_gmt: '2025-02-26 09:41:27'
 lastmod: '2025-02-26 11:49:30'
@@ -17,15 +17,15 @@ comment_status: closed
 ping_status: open
 categories:
 - An2025
-- GPL2025
+- SDL2025
 tags: null
 summary: ''
 ---
 
-Les prochaines journées nationales du GDR GPL auront lieu à Pau du 16 au 19 juin 2025. Réservez ces dates dès maintenant dans vos agendas!
+Les prochaines journées nationales du GDR SDL auront lieu à Pau du 16 au 19 juin 2025. Réservez ces dates dès maintenant dans vos agendas!
 
 Le site web de ces journées est ouvert à l’adresse suivante :
 
 <https://gdrgpl2025.sciencesconf.org>
 
-Le site web du GDR GPL publie également des articles sur les journées GPL 2025. En voici la liste:
+Le site web du GDR SDL publie également des articles sur les journées SDL 2025. En voici la liste:

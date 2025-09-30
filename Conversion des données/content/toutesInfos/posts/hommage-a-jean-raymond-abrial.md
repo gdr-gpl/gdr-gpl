@@ -17,12 +17,12 @@ comment_status: closed
 ping_status: open
 categories:
 - An2025
-- GPL2025
+- SDL2025
 - Uncategorized
 tags: null
 summary: ''
 ---
 
-Le GDR GPL a rendu hommage à Jean-Raymond Abrial, décédé il y a quelques semaines. Régine Laleau a rappelé les principales contributions de ce chercheur exceptionnel.
+Le GDR SDL a rendu hommage à Jean-Raymond Abrial, décédé il y a quelques semaines. Régine Laleau a rappelé les principales contributions de ce chercheur exceptionnel.
 
 [Présentation-HommageJRA](https://gdr-gpl.cnrs.fr/wp-content/uploads/2025/06/Presentation-HommageJRA.pdf)[Download](https://gdr-gpl.cnrs.fr/wp-content/uploads/2025/06/Presentation-HommageJRA.pdf)

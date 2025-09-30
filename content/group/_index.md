@@ -9,7 +9,7 @@ menu:
 draft: false
 ---
 
-Les communautés scientifiques du GDR GPL sont organisées en groupes de travail et actions transverses. Les groupes de travail sont internes au GDR GPL, alors que les actions transverses réunissent une communauté associée à plusieurs GDR.
+Les communautés scientifiques du GDR SDL sont organisées en groupes de travail et actions transverses. Les groupes de travail sont internes au GDR SDL, alors que les actions transverses réunissent une communauté associée à plusieurs GDR.
 
 Les groupes de travail sont les suivants :
 

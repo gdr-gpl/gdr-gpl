@@ -1,5 +1,5 @@
 ---
-title: GPL25_Posters1
+title: SDL25_Posters1
 slug: gpl25_posters1
 date: '2025-07-14 15:35:19'
 date_gmt: '2025-07-14 13:35:19'

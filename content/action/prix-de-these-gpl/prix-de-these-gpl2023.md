@@ -1,5 +1,5 @@
 ---
-title: "Prix de th\xE8se GPL2024"
+title: "Prix de th\xE8se SDL2024"
 type: news
 date: "2024-06-24T08:29:13Z"
 draft: false
@@ -8,9 +8,9 @@ categories:
 archives: ["2024-06"]
 ---
 
-Le jury du prix de thèse du GDR GPL, présidé par Pascal Poizat, a attribué un prix de thèse et deux accessits.
+Le jury du prix de thèse du GDR SDL, présidé par Pascal Poizat, a attribué un prix de thèse et deux accessits.
 
-Le prix de thèse GPL 2024 est attribué à Xavier Denis pour sa thèse intitulée _"Deductive Verification for Rust Programs"._
+Le prix de thèse SDL 2024 est attribué à Xavier Denis pour sa thèse intitulée _"Deductive Verification for Rust Programs"._
 
 Ses transparents sont [disponibles ici](https://gdr-gpl.cnrs.fr/sites/default/files/documentsGPL/JourneesNationales/GPL2024/DenisGDRGPL.pdf).
 

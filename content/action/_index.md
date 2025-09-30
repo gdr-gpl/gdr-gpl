@@ -12,12 +12,12 @@ draft: false
 Plusieurs actions sont actuellement en cours
 
   * [Appel à mobilité](/action/appel-mobilite/)
-  * [Prix de thèse GPL](/action/prix-de-these-gpl)
+  * [Prix de thèse SDL](/action/prix-de-these-gpl)
   * Ateliers CONCOURS
 
 
 
-Dans le passé le GDR GPL a également fait les actions suivantes
+Dans le passé le GDR SDL a également fait les actions suivantes
 
   * Appel à actions émergentes 2013
   * Initiative COS-Tools

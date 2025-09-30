@@ -18,7 +18,7 @@ ping_status: open
 categories:
 - ActionGPL
 - An2025
-- GPL2025
+- SDL2025
 - Uncategorized
 tags: null
 summary: ''

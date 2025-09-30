@@ -20,11 +20,11 @@ tags: null
 summary: ''
 ---
 
-Le GDR GPL soutient la formation des jeunes chercheurs. Des écoles jeunes chercheurs bénéficient du soutien du GDR ou de ses groupes de travail.
+Le GDR SDL soutient la formation des jeunes chercheurs. Des écoles jeunes chercheurs bénéficient du soutien du GDR ou de ses groupes de travail.
 
-L'[Ecole des Jeunes Chercheurs en Programmation](https://gdr-gpl.cnrs.fr/?page_id=32) est intégrée au GDR GPL. Son directeur est l'un des membres du bureau et l'école bénéficie d'un soutien financier significatif de la part du GDR GPL.
+L'[Ecole des Jeunes Chercheurs en Programmation](https://gdr-gpl.cnrs.fr/?page_id=32) est intégrée au GDR SDL. Son directeur est l'un des membres du bureau et l'école bénéficie d'un soutien financier significatif de la part du GDR SDL.
 
-D'autres écoles bénéficient ponctuellement d'une aide du GDR GPL, à l'initiative des groupes de travail.
+D'autres écoles bénéficient ponctuellement d'une aide du GDR SDL, à l'initiative des groupes de travail.
 
   * École d’été [Green IT - Numérique Responsable](https://formation.univ-pau.fr/fr/catalogue/summer-schools-ecoles-d-ete/green-it-numerique-responsable-28-juin-2-juil-21.html), soutenue par le groupe de travail Logiciel Eco-Responsable, à Anglet du 28 juin au 2 juillet 2021.
   * L'école [TAROT 2016](https://tarot2016.wp.telecom-sudparis.eu/), soutenue par le groupe MTV2, à Paris du 4 au 8 juillet 2016.

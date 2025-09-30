@@ -18,12 +18,12 @@ ping_status: open
 categories:
 - An2025
 - "D\xE9fis2025"
-- GPL2025
+- SDL2025
 tags: null
 summary: ''
 ---
 
-En ouverture des journées GPL2025, Pascal Poizat et Jean-Michel Bruel ont fait le point sur l'avancement de l'appel à défis 2025. Voir les transparents ci-dessous...
+En ouverture des journées SDL2025, Pascal Poizat et Jean-Michel Bruel ont fait le point sur l'avancement de l'appel à défis 2025. Voir les transparents ci-dessous...
 
 ![](https://gdr-gpl.cnrs.fr/wp-content/uploads/2025/06/GPL25_AppelDefis1.jpg)
 

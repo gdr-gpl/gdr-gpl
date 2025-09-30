@@ -1,5 +1,5 @@
 ---
-title: Anciens sites web du GDR-GPL
+title: Anciens sites web du GDR-SDL
 type: page
 date: Thu, 21 Nov 2024 13:39:27 +0000
 draft: false

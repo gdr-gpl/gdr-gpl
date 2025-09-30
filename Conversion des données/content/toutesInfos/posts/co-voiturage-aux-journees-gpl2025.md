@@ -1,5 +1,5 @@
 ---
-title: "Co-voiturage aux journ\xE9es GPL2025"
+title: "Co-voiturage aux journ\xE9es SDL2025"
 slug: co-voiturage-aux-journees-gpl2025
 date: '2025-05-22 14:14:58'
 date_gmt: '2025-05-22 12:14:58'
@@ -17,13 +17,13 @@ comment_status: closed
 ping_status: open
 categories:
 - An2025
-- GPL2025
+- SDL2025
 - Journees Nationales
 tags: null
 summary: ''
 ---
 
-Nous sommes sûrement toutes et tous en train de préparer nos missions pour les [journées GdR GPL du 16 au 19 juin](https://gdrgpl2025.sciencesconf.org/) (pensez à vous [inscrire](https://gdrgpl2025.sciencesconf.org/page/informations_inscription)).
+Nous sommes sûrement toutes et tous en train de préparer nos missions pour les [journées GdR SDL du 16 au 19 juin](https://gdrgpl2025.sciencesconf.org/) (pensez à vous [inscrire](https://gdrgpl2025.sciencesconf.org/page/informations_inscription)).
 
 Une possibilité est d’arriver sur Toulouse (ou Bordeaux) pour rejoindre Pau en 2h de voiture, à condition de la remplir ;-)
 

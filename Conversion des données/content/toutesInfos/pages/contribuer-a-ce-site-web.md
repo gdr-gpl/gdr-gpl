@@ -20,7 +20,7 @@ tags: null
 summary: ''
 ---
 
-Cette page est destinée à tous les contributeurs du site GDR GPL. Les contributeurs du site sont des membres du GDR GPL. Ce statut leur est accordé à leur demande par l'administrateur du site.
+Cette page est destinée à tous les contributeurs du site GDR SDL. Les contributeurs du site sont des membres du GDR SDL. Ce statut leur est accordé à leur demande par l'administrateur du site.
 
 Cette page explique comment créer une page, le type de pages que les contributeurs peuvent créer, et les principes de la modération.
 
