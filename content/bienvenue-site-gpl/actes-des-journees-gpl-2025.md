@@ -12,6 +12,8 @@ La version finale des actes des journées nationales est disponible à l'url sui
 
 Pour rappel, les actes d'AFADL2025 sont disponibles dans HAL : <https://hal.science/hal-05106227>
 
-<object data="https://gdr-gpl.cnrs.fr/wp-content/uploads/2025/08/Actes_GDR_GPL_2025.pdf" type="application/pdf" width="500px" height="700px"></object>
+<!--more-->
+
+<object data="https://gdr-gpl.cnrs.fr/wp-content/uploads/2025/08/Actes_GDR_GPL_2025.pdf" type="application/pdf" class="content" height="600px" width="100%"></object>
 
 [Download](https://gdr-gpl.cnrs.fr/wp-content/uploads/2025/08/Actes_GDR_GPL_2025.pdf)
