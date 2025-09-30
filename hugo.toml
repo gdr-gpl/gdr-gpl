@@ -12,6 +12,8 @@ canonifyURLs = true
     [markup.goldmark.renderer]
       unsafe = true
 
-
 [outputs]
   home = ["HTML", "RSS", "JSON"]
+
+[params]
+  basePath = "gdr-gpl"
