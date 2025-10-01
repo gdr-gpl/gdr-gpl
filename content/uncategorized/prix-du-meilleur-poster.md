@@ -19,5 +19,5 @@ Outre la présentation des posters, chacun des auteurs a bénéficié de quelque
 
 Finalement, le prix du meilleur poster a été décerné à Meriem Smati pour son poster intitulé _"The use of Digital Twins to Bolster the Resilience of IoT System-of-Systems"_
 
-<img src="/assets/jpg/GPL25-Posters3.jpg" alt="GPL25-Posters3"/ >
+<img src="/assets/jpg/GPL25-Posters3.jpg" alt="GPL25-Posters3"/>
 <img src="/assets/jpg/GPL25-Posters4.jpg" alt="GPL25-Posters4"/>
