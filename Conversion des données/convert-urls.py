@@ -6,35 +6,7 @@ import re
 import glob
 from pathlib import Path
 
-def convert_date_format(old_date_string):
-    """
-    Convertit les dates du format ancien au nouveau format
-    Format ancien: Thu, 05 Dec 2024 17:10:56 +0000
-    Format nouveau: "2024-12-05T17:10:56Z"
-    """
-    
-    # Mapping des mois en anglais vers numéros
-    month_map = {
-        'Jan': '01', 'Feb': '02', 'Mar': '03', 'Apr': '04',
-        'May': '05', 'Jun': '06', 'Jul': '07', 'Aug': '08',
-        'Sep': '09', 'Oct': '10', 'Nov': '11', 'Dec': '12'
-    }
-    
-    # Pattern regex pour parser la date
-    pattern = r'([A-Z][a-z]{2}), (\d{2}) ([A-Z][a-z]{2}) (\d{4}) (\d{2}):(\d{2}):(\d{2}) \+0000'
-    
-    match = re.match(pattern, old_date_string)
-    if match:
-        day = match.group(2)
-        month = month_map.get(match.group(3), '01')
-        year = match.group(4)
-        hour = match.group(5)
-        minute = match.group(6)
-        second = match.group(7)
-        
-        return f'"{year}-{month}-{day}T{hour}:{minute}:{second}Z"'
-    
-    return old_date_string
+
 
 def convertUrlToRelative(url):
     """
@@ -44,9 +16,9 @@ def convertUrlToRelative(url):
     folderName = mediaName.split('.')[-1]
     alt = mediaName.split('.')[0]
     # Créer le dossier s'il n'existe pas
-    os.makedirs(f"static/images/{folderName}", exist_ok=True)
-    relativeUrl = f"static/images/{folderName}/{mediaName}"
-    imgTag = f'<img src="{relativeUrl}" alt="{alt}"/>'
+    # os.makedirs(f"/assets/{folderName}", exist_ok=True)
+    relativeUrl = f"/assets/{folderName}/{mediaName}"
+    imgTag = f'img src="{relativeUrl}" alt="{alt}"/'
     return imgTag
 
 def main():

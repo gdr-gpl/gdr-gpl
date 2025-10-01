@@ -9,7 +9,7 @@ draft: false
 
 _Le GDR SDL (Groupement de Recherche Sciences du Logiciel) est une unité du [CNRS Sciences informatiques](http://www.cnrs.fr/ins2i/) qui regroupe la communauté scientifique française intéressée par le Génie Logiciel et la Programmation._
 
-<img src="/images/logo-cnrs.png" alt="Logo CNRS" width="150" />
+<img src="/assets/logo-cnrs.png" alt="Logo CNRS" width="150" />
 
 Vous trouverez sur ce site les dernières actualités relatives au GDR SDL :
 

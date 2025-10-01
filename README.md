@@ -2,14 +2,14 @@
   <table border="0" cellpadding="20" cellspacing="0">
     <tr>
       <td align="center">
-        <img src="./static/images/logo-cnrs.png" alt="CNRS" height="80"  />
+        <img src="./static/assets/logo-cnrs.png" alt="CNRS" height="80"  />
       </td>
       <td align="center" style="font-size: 24px; font-weight: bold; color: #2c3e50;">
         GDR SDL<br>
         <span style="font-size: 16px; color: #7f8c8d;">Site Web Moderne et Collaboratif</span>
       </td>
       <td align="center">
-        <img src="./static/images/logo-iut.png" alt="IUT Blagnac" height="80"/>
+        <img src="./static/assets/logo-iut.png" alt="IUT Blagnac" height="80"/>
       </td>
     </tr>
   </table>
