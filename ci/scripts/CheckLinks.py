@@ -39,7 +39,7 @@ def GetLinks(fichierPath):
         fichierPath : le path du fichier à analyser
 
     Returns :
-        list : la liste des tuples url, texte_affichage
+        list : la liste des tuples (url, texte_affichage, fichier_source)
     """
     
     liens = []
@@ -61,13 +61,13 @@ def GetLinks(fichierPath):
         # Type : https://...
         urlLinks = re.findall(r'<(https?://[^>]+)>', contenu)
 
-        # On ajoute chaque lien à la liste
+        # On ajoute chaque lien à la liste avec le fichier source
         for texte, url in markdownLinks:
-            liens.append((url, f"[{texte}]({url})"))
+            liens.append((url, f"[{texte}]({url})", fichierPath))
         for url in htmlLinks:
-            liens.append((url, f'href="{url}"'))
+            liens.append((url, f'href="{url}"', fichierPath))
         for url in urlLinks:
-            liens.append((url, f"<{url}>"))
+            liens.append((url, f"<{url}>", fichierPath))
 
     except Exception as error:
         print(f"Error : problème de lecture dans {fichierPath} : {error}")
@@ -77,18 +77,36 @@ def GetLinks(fichierPath):
 # ========================================= #
 # ==== Vérification des liens internes ==== #
 # ========================================= #
-def InternalVerification(lien):
+def InternalVerification(lien, fichier_source):
     """
     Permet de vérifier si un lien vers un fichier interne existe bien
 
     Args :
         lien : le chemin relatif à vérifier
+        fichier_source : le fichier markdown qui contient ce lien
 
     Returns :
         bool : True si le fichier existe sinon False
     """
+    
+    # Si le lien est un anchor link ou address mail il est automatiquement validé
+    if lien.startswith('#') or '@' in lien:
+        return True
+    
+    # Si le lien commence par /
+    # il est relatif à la racine du projet
+    if lien.startswith('/'):
+        cheminAbsolu = lien[1:]
+    else:
 
-    return os.path.exists(lien)
+        # Sinon il est relatif au dossier du fichier source
+        dossierSource = os.path.dirname(fichier_source)
+        cheminAbsolu = os.path.join(dossierSource, lien)
+    
+    # On normalise le chemin pour résoudre les ../ et ./
+    cheminAbsolu = os.path.normpath(cheminAbsolu)
+    
+    return os.path.exists(cheminAbsolu)
 
 # ========================================= #
 # ==== Vérification des liens externes ==== #
@@ -113,7 +131,7 @@ def ExternalVerification(url):
     except Exception:
         try:
             # Sinon requête GET
-            with request.urlopen(url, timeout=5) as response:
+            with request.urlopen(url, timeout=15) as response:
                 return response.status < 400
         except Exception:
             return False
@@ -134,11 +152,13 @@ if __name__ == "__main__":
     nbLiensTraites = 0
 
     # On vérifie chaque lien
-    for url, _ in allLiens:
+    for url, display_text, source_file in allLiens:
         nbLiensTraites += 1
 
-        # Affiche 1 si le lien fonctionne sinon 0
+        # Affiche ✓ si le lien fonctionne sinon 0
         if url.startswith("http"):
-            print(f"{1 if ExternalVerification(url) else 0} {url} [{nbLiensTraites}/{nbLiensTotal}]")
+            result = ExternalVerification(url)
+            print(f"{'✓' if result else 'X'} [{nbLiensTraites}/{nbLiensTotal}] {url}")
         else:
-            print(f"{1 if InternalVerification(url) else 0} {url} [{nbLiensTraites}/{nbLiensTotal}]")
+            result = InternalVerification(url, source_file)
+            print(f"{'✓' if result else 'X'} [{nbLiensTraites}/{nbLiensTotal}] {url}")
