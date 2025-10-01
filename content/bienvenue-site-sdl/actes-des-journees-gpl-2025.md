@@ -14,7 +14,7 @@ Pour rappel, les actes d'AFADL2025 sont disponibles dans HAL : <https://hal.scie
 
 <!--more-->
 
-<object data="https://gdr-gpl.cnrs.fr/wp-content/uploads/2025/08/Actes_GDR_GPL_2025.pdf" type="application/pdf" class="content" height="600px" width="100%"></object>
+<object data="/assets/pdf/Actes_GDR_GPL_2025.pdf" type="application/pdf" class="content" height="600px" width="100%"></object>
 
 <a href="/assets/pdf/Actes_GDR_GPL_2025.pdf" download>Download</a>
 
