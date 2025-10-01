@@ -32,7 +32,7 @@ function Convert-DateFormat {
 }
 
 # Obtenir tous les fichiers .md dans le dossier content et ses sous-dossiers
-$Files = Get-ChildItem -Path "c:\Users\Etudiant\Downloads\content" -Filter "*.md" -Recurse
+$Files = Get-ChildItem -Path "..\content\jsp" -Filter "*.md" -Recurse
 
 $TotalFiles = 0
 $ConvertedFiles = 0
