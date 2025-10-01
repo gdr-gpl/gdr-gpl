@@ -12,8 +12,10 @@ archives: ["2025-07"]
 
 Mireille Blay et Catherine Dubois, directrices du GDR, ont fait le point sur les actions réalisées par le GDR SDL, ...
 
-![](https://gdr-gpl.cnrs.fr/wp-content/uploads/2025/07/GPL25_AG1.jpg)
+<img src="/assets/jpg/GPL25_AG1.jpg" alt="GPL25_AG1"/>
 
 et ont présenté la ville qui accueillera les journées nationales 2026. (la réponse est dans les transparents ci-dessous)
 
-[Journee-GPL-2025-AG-V1.pptx (1)](https://gdr-gpl.cnrs.fr/wp-content/uploads/2025/07/Journee-GPL-2025-AG-V1.pptx-1.pdf)[Download](https://gdr-gpl.cnrs.fr/wp-content/uploads/2025/07/Journee-GPL-2025-AG-V1.pptx-1.pdf)
+<object data="/assets/pdf/Journee-GPL-2025-AG-V1.pptx-1.pdf" type="application/pdf" class="content" height="600px" width="100%"></object>
+
+<a href="/assets/pdf/Journee-GPL-2025-AG-V1.pptx-1.pdf" download>Download</a>

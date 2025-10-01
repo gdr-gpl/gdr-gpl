@@ -11,8 +11,12 @@ archives: ["2025-06"]
 
 La deuxième journée a commencé par la conférence invitée de Franck Barbier, Professeur à l'Université de Pau. 
 
-![](https://gdr-gpl.cnrs.fr/wp-content/uploads/2025/06/GPL25_Barbier1.jpg)
+<img src="/assets/jpg/GPL25_Barbier1.jpg" alt="GPL25_Barbier1"/>
 
 Sa conférence était intitulée **« Économie de la Programmation et du Logiciel »**. Ses transparents sont disponibles ci-dessous :
 
-[Economie_du_logiciel_Barbier](https://gdr-gpl.cnrs.fr/wp-content/uploads/2025/06/Economie_du_logiciel_Barbier.pdf)[Download](https://gdr-gpl.cnrs.fr/wp-content/uploads/2025/06/Economie_du_logiciel_Barbier.pdf)
+[Economie_du_logiciel_Barbier](img src="/assets/pdf/Economie_du_logiciel_Barbier.pdf" alt="Economie_du_logiciel_Barbier"/)[Download](img src="/assets/pdf/Economie_du_logiciel_Barbier.pdf" alt="Economie_du_logiciel_Barbier"/)
+
+<object data="/assets/pdf/Economie_du_logiciel_Barbier.pdf" type="application/pdf" class="content" height="600px" width="100%"></object>
+
+<a href="/assets/pdf/Economie_du_logiciel_Barbier.pdf" download>Download</a>

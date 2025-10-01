@@ -13,4 +13,5 @@ Les Journées nationales 2025 du GDR SDL ont été ouvertes en ce 16 juin 2025 p
 
 A ce jour il y a 107 inscrits.
 
-![](https://gdr-gpl.cnrs.fr/wp-content/uploads/2025/06/GPL25_ouverture1.jpg) ![](https://gdr-gpl.cnrs.fr/wp-content/uploads/2025/06/GPL65_Ouverture2.jpg)
+<img src="/assets/jpg/GPL25_ouverture1.jpg" alt="GPL25_ouverture1"/>
+<img src="/assets/jpg/GPL65_Ouverture2.jpg" alt="GPL65_Ouverture2"/>

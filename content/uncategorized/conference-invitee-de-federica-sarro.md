@@ -11,6 +11,5 @@ archives: ["2025-07"]
 
 La troisième conférence invitée était donnée par Federica Sarro, University College, London et était intitulée _"Search-Based Software Engineering for Greener and Fairer Artificial Intelligence Systems"_.
 
-![](https://gdr-gpl.cnrs.fr/wp-content/uploads/2025/07/GPL25-Sarro1.jpg)
-
+<img src="/assets/jpg/GPL25-Sarro1.jpg" alt="GPL25-Sarro1"/>
 Ses transparents seront disponibles ici :

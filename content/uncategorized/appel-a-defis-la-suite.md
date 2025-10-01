@@ -12,10 +12,12 @@ archives: ["2025-06"]
 
 En ouverture des journées SDL2025, Pascal Poizat et Jean-Michel Bruel ont fait le point sur l'avancement de l'appel à défis 2025. Voir les transparents ci-dessous...
 
-![](https://gdr-gpl.cnrs.fr/wp-content/uploads/2025/06/GPL25_AppelDefis1.jpg)
+<img src="/assets/jpg/GPL25_AppelDefis1.jpg" alt="GPL25_AppelDefis1"/>
 
-<https://gdr-gpl.cnrs.fr/wp-content/uploads/2025/06/GdRGPL2025-defis-1.pdf>
+<object data="/assets/pdf/GdRGPL2025-defis-1.pdf" type="application/pdf" class="content" height="600px" width="100%"></object>
+
 
 Tout au long des journées, les responsables des défis ont travaillé à l'évolution et à la publicité de leurs défis.
 
-![](https://gdr-gpl.cnrs.fr/wp-content/uploads/2025/06/GPL25_Defis3.jpg) ![](https://gdr-gpl.cnrs.fr/wp-content/uploads/2025/06/GPL25_Defis2.jpg)
+<img src="/assets/jpg/GPL25_Defis3.jpg" alt="GPL25_Defis3"/> 
+<img src="/assets/jpg/GPL25_Defis2.jpg" alt="GPL25_Defis2"/>

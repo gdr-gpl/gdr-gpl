@@ -13,4 +13,5 @@ Nous avons accueilli Anne Siegel, Directrice Scientifique Adjointe au CNRS Scien
 
 Elle nous a présenté sa vision du positionnement du GDR SDL dans l'écosystème des Sciences Informatiques et plus généralement du CNRS.
 
-![](https://gdr-gpl.cnrs.fr/wp-content/uploads/2025/07/GPL25-Siegel1.jpg) ![](https://gdr-gpl.cnrs.fr/wp-content/uploads/2025/07/GPL25-Siegel2.jpg)
+<img src="/assets/jpg/GPL25-Siegel1.jpg" alt="GPL25-Siegel1"/> 
+<img src="/assets/jpg/GPL25-Siegel2.jpg" alt="GPL25-Siegel2"/>

@@ -14,7 +14,8 @@ Le prix de thèse SDL 2024 est attribué à Xavier Denis pour sa thèse intitul�
 
 Ses transparents sont [disponibles ici](https://gdr-gpl.cnrs.fr/sites/default/files/documentsGPL/JourneesNationales/GPL2024/DenisGDRGPL.pdf).
 
-![](https://lig-gdr-gpl.imag.fr/wp-content/uploads/2024/08/GPL2024PrixThese1.jpg) ![](https://lig-gdr-gpl.imag.fr/wp-content/uploads/2024/08/GPL2024PrixDeThese2.jpg)
+<img src="/assets/jpg/GPL2024PrixThese1.jpg" alt="GPL2024PrixThese1"/> 
+<img src="/assets/jpg/GPL2024PrixDeThese2.jpg" alt="GPL2024PrixDeThese2"/>
 
 Les accessits sont attribués à
 

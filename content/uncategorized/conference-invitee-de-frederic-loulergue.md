@@ -11,8 +11,11 @@ archives: ["2025-06"]
 
 La deuxième conférence invitée de ces journées SDL2025 était donnée par Frédéric Loulergue (Professeur à l'Université d'Orléans).
 
-![](https://gdr-gpl.cnrs.fr/wp-content/uploads/2025/06/GPL25-Loulergue1.jpg)
+<img src="/assets/jpg/GPL25-Loulergue1.jpg" alt="GPL25-Loulergue1"/>
 
 Elle était intitulée _"Approches formelles pour les composants et outils système"_. Ses transparents sont disponibles ici:
 
-[loulergue_afadl2025](https://gdr-gpl.cnrs.fr/wp-content/uploads/2025/06/loulergue_afadl2025.pdf)[Download](https://gdr-gpl.cnrs.fr/wp-content/uploads/2025/06/loulergue_afadl2025.pdf)
+<object data="/assets/pdf/loulergue_afadl2025.pdf" type="application/pdf" class="content" height="600px" width="100%"></object>
+
+<a href="/assets/pdf/loulergue_afadl2025.pdf" download>Download</a>
+
