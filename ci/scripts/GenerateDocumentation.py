@@ -255,7 +255,7 @@ def GenerateContentDoc(contentDir, docsDir):
     print(f"Documentation du contenu du dossier content générée dans {fichierDoc}")
 
 
-def Run():
+def run():
 
     dossierArchetypes = os.path.join("archetypes")
     dossierScripts = os.path.join("ci", "scripts") 
@@ -268,4 +268,4 @@ def Run():
 
 if __name__ == "__main__":
 
-    Run()
+    run()

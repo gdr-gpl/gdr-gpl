@@ -1,7 +1,9 @@
 import os
 import re
 from datetime import datetime
-from CheckLinks import FindAllMarkdown
+
+# Title : Ficher permettant de verifier si toutes les dates sont au bon format
+
 
 def getDate(dossierPath):
     fichier_md = FindAllMarkdown(dossierPath)
@@ -47,6 +49,38 @@ def getDate(dossierPath):
 
     return 1 if erreur_trouvee else 0
 
-if __name__ == "__main__":
+
+# ================================ #
+# ==== Recherche des fichiers ==== #
+# ================================ #
+def FindAllMarkdown(dossierPath):
+    """
+    Permet de parcourir le dossier donné de manière recursive pour trouver tous les fichiers markdown
+
+    Args :
+        dossier/ :  le chemin du dossier à parcourir
+
+    Returns :
+        list : la liste des chemins complets des fichiers Markdown trouvés
+    """
+    markdowns = []
+
+
+    # On parcourt tous les directory et fichiers enfants
+    for racine, dirs, fichiers in os.walk(dossierPath):
+        for fichier in fichiers:
+
+            # Si le fichier se termine par un .md alors on l'ajoute à la liste
+            if fichier.endswith('.md'):
+                markdowns.append(os.path.join(racine, fichier))
+    return markdowns
+
+
+def run():
     result = getDate("content/")
     print("Code de retour :", result)
+    return result
+
+
+if __name__ == "__main__":
+    run()

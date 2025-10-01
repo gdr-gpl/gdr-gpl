@@ -2,6 +2,9 @@ import subprocess
 import os
 import sys
 
+# Title : Ficher permettant de verifier si des pages sont vides
+
+
 def get_modified_files():
     try:
         # Récupère les fichiers modifiés ou ajoutés entre la base de la PR et le HEAD

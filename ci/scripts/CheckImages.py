@@ -92,7 +92,8 @@ def ConvertToWebP(imagePath, deleteOldFile=False):
         print(f"Error : probl-me de conversion avec {imagePath} : {error}")
         return None
 
-if __name__ == "__main__":
+
+def run():
 
     # On vérifie si le dossier static existe
     if not os.path.exists(STATIC_LOCATION):
@@ -132,3 +133,6 @@ if __name__ == "__main__":
             print(f"[{nbImagesTraitees}/{nbImagesTotal}] OK : '{imagePath}' ({tailleMb:.2f} MB)")
 
     print("Analyse terminée.")
+
+if __name__ == "__main__":
+    run()
