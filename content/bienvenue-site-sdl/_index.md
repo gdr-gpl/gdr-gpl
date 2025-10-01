@@ -9,11 +9,11 @@ menu:
 draft: false
 ---
 
-<meta http-equiv="refresh" content="0; url=/gdr-sdl/">
+<meta http-equiv="refresh" content="0; url={{ .Site.BaseUrl}}">
 <script>
-window.location.href = '/gdr-sdl/';
+window.location.href = '{{ .Site.BaseUrl}}';
 </script>
 <noscript>
-<p> Si vous n'êtes pas redirigé automatiquement, <a href="/gdr-sdl/">cliquez ici</a>.</p>
+<p> Si vous n'êtes pas redirigé automatiquement, <a href="{{ .Site.BaseUrl}}">cliquez ici</a>.</p>
 </noscript>
 s
