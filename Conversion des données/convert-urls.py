@@ -15,8 +15,6 @@ def convertUrlToRelative(url):
     mediaName = url.split('/')[-1]
     folderName = mediaName.split('.')[-1]
     alt = mediaName.split('.')[0]
-    # Créer le dossier s'il n'existe pas
-    # os.makedirs(f"/assets/{folderName}", exist_ok=True)
     relativeUrl = f"/assets/{folderName}/{mediaName}"
     imgTag = f'img src="{relativeUrl}" alt="{alt}"/'
     return imgTag
@@ -44,10 +42,7 @@ def main():
     
     # Pattern pour détecter les URLs
     url_pattern = r'https?://[^\s\)]+\.(jpe?g|png|gif|pdf|pptx|docx|doc|zip|JPE?G|PNG|GIF|PDF)'
-    
-    # Pattern pour détecter les dates à convertir
-    date_pattern = r'date: ([A-Z][a-z]{2}, \d{2} [A-Z][a-z]{2} \d{4} \d{2}:\d{2}:\d{2} \+0000)'
-    
+        
     print(f"Début du traitement des fichiers markdown...")
     print(f"Nombre de fichiers trouvés: {len(md_files)}")
     
@@ -58,9 +53,6 @@ def main():
                 content = f.read()
             
             original_content = content
-
-            if(file_path.startswith("content/attachments") or file_path.startswith("content/toutesInfos")):
-                continue
             
             # Vérifier si le fichier contient des urls à convertir
             if re.search(url_pattern, content): 
@@ -80,27 +72,6 @@ def main():
                     converted_files += 1
                     print(f"Converti: {file_path}")
                 
-                
-            #     # Fonction de remplacement pour les dates
-            #     def replace_date(match):
-            #         old_date = match.group(1)
-            #         new_date = convert_date_format(old_date)
-            #         return f"date: {new_date}"
-                
-            #     # Remplacer toutes les occurrences de dates dans ce fichier
-            #     content = re.sub(date_pattern, replace_date, content)
-                
-            #     if content != original_content:
-            #         with open(file_path, 'w', encoding='utf-8') as f:
-            #             f.write(content)
-            #         converted_files += 1
-            #         print(f"Converti: {file_path}")
-            
-            # # Optionnel: Vérifier et traiter les URLs si nécessaire
-            # if re.search(url_pattern, content):
-            #     # Exemple de remplacement d'URLs absolues par relatives
-            #     # content = re.sub(r'https://gdr-gpl\.cnrs\.fr/wp-content/uploads/', '/uploads/', content)
-            #     pass
                 
         except Exception as e:
             print(f"Erreur lors du traitement de {file_path}: {e}")
