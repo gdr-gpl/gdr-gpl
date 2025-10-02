@@ -1,7 +1,15 @@
 import os
 import re
 from urllib import request
+from urllib.parse import urlparse
 
+
+# Variables globales
+# Si True on vérifie seulement les domaines des URLs externes
+FAST_CHECK = False
+
+# Cache des domaines déjà testés en mode FAST_CHECK
+domain_cache = {}
 
 # ================================ #
 # ==== Recherche des fichiers ==== #
@@ -88,9 +96,9 @@ def InternalVerification(lien, fichier_source):
     Returns :
         bool : True si le fichier existe sinon False
     """
-    
-    # Si le lien est un anchor link ou address mail il est automatiquement validé
-    if lien.startswith('#') or '@' in lien:
+
+    # Si le lien est un anchor link, lien relatif ou address mail il est automatiquement validé
+    if lien.startswith('#') or '@' in lien or '?' in lien:
         return True
     
     # Si le lien commence par /
@@ -114,7 +122,6 @@ def InternalVerification(lien, fichier_source):
 def ExternalVerification(url):
     """
     Permet de vérifier si un lien externe est accessible
-    Dans ce contexte la un lien est un URL
 
     Args :
         url : l'URL à tester
@@ -122,7 +129,77 @@ def ExternalVerification(url):
     Returns :
         bool : True si l'URL répond sinon False
     """
+    
+    global domain_cache
+    
+    # Si FAST_CHECK est activé
+    if FAST_CHECK:
+        try:
+
+            # On extrait le domaine principal de l'URL par exemple https://github.com
+            pathlessURL = urlparse(url)
+            
+            # partie https
+            scheme = pathlessURL.scheme
+
+            # partie github.com
+            netloc = pathlessURL.netloc
+            domain = f"{scheme}://{netloc}"
+            
+            # Si le domaine est déjà dans le cache on retourne le résultat mis en cache
+            if domain in domain_cache:
+                return domain_cache[domain]
+            
+            # Sinon on teste le domaine et on le met en cache
+            result = TestDomain(domain)
+            domain_cache[domain] = result
+            return result
+            
+        except Exception:
+            pass
+    else:
+        # Sinon on teste l'URL complète
+        return TestFullUrl(url)
+
+def TestDomain(domain):
+    """
+    Test si un domaine est accessible (sans le path, par exemple https://google.com et pas https://google.com/search etc)
+
+    Args :
+        domain : l'URL du domaine à tester
+
+    Returns :
+        bool : True si le domaine répond sinon False
+    """
     try:
+        # On essaye d'abord une requête HEAD pour économe du temps et du bandwidth
+        req = request.Request(domain, method="HEAD")
+        with request.urlopen(req, timeout=5) as response:
+            if response.status < 400:
+                return True
+            
+    except Exception:
+        try:
+
+            # Sinon requête GET
+            with request.urlopen(domain, timeout=5) as response:
+                return response.status < 400
+        except Exception:
+            return False
+    return False
+
+def TestFullUrl(url):
+    """
+    Test si un URL full est accessible
+
+    Args :
+        url : l'URL full à tester
+
+    Returns :
+        bool : True si l'URL répond sinon False
+    """
+    try:
+
         # On essaye d'abord une requête HEAD pour économe du temps et du bandwidth
         req = request.Request(url, method="HEAD")
         with request.urlopen(req, timeout=5) as response:
@@ -131,7 +208,7 @@ def ExternalVerification(url):
     except Exception:
         try:
             # Sinon requête GET
-            with request.urlopen(url, timeout=15) as response:
+            with request.urlopen(url, timeout=5) as response:
                 return response.status < 400
         except Exception:
             return False
@@ -151,14 +228,28 @@ if __name__ == "__main__":
     nbLiensTotal = len(allLiens)
     nbLiensTraites = 0
 
+    print(f"Mode de vérification : {'FAST_CHECK (domaines seulement)' if FAST_CHECK else 'COMPLET (chaque URL)'}")
+
     # On vérifie chaque lien
     for url, display_text, source_file in allLiens:
         nbLiensTraites += 1
 
-        # Affiche ✓ si le lien fonctionne sinon 0
+        # Affiche ✓ si le lien fonctionne sinon X
         if url.startswith("http"):
             result = ExternalVerification(url)
-            print(f"{'✓' if result else 'X'} [{nbLiensTraites}/{nbLiensTotal}] {url}")
+            cacheInfo = ""
+            if FAST_CHECK:
+                try:
+                    pathlessURL = urlparse(url)
+                    scheme = pathlessURL.scheme
+                    netloc = pathlessURL.netloc
+                    domain = f"{scheme}://{netloc}"
+
+                    cacheInfo = " (cached)" if domain in domain_cache and nbLiensTraites > 1 else " (nouveau domaine)"
+                except:
+                    pass
+            print(f"{'✓' if result else 'X'} [{nbLiensTraites}/{nbLiensTotal}] {url}{cacheInfo}")
+
         else:
             result = InternalVerification(url, source_file)
             print(f"{'✓' if result else 'X'} [{nbLiensTraites}/{nbLiensTotal}] {url}")
