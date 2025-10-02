@@ -9,4 +9,6 @@ menu:
 draft: false
 ---
 
+
 {{< redirect "/" >}}
+
