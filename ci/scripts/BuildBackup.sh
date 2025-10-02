@@ -1,5 +1,7 @@
 #!/bin/bash
 
+# Title : Script de création de backup du projet
+
 # ============================== #
 # ==== Création de backup   ==== #
 # ============================== #
