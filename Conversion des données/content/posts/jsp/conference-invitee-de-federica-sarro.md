@@ -5,7 +5,7 @@ date: Mon, 14 Jul 2025 13:17:37 +0000
 draft: false
 categories:
 - An2025
-- GPL2025
+- SDL2025
 ---
 
 La troisième conférence invitée était donnée par Federica Sarro, University College, London et était intitulée _"Search-Based Software Engineering for Greener and Fairer Artificial Intelligence Systems"_.

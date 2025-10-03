@@ -3,6 +3,7 @@ import re
 from urllib import request
 from urllib.parse import urlparse
 
+# Title : Fichier permettant de vérifier les liens dans les fichiers markdown
 
 # Variables globales
 # Si True on vérifie seulement les domaines des URLs externes
@@ -25,6 +26,7 @@ def FindAllMarkdown(dossierPath):
         list : la liste des chemins complets des fichiers Markdown trouvés
     """
     markdowns = []
+
 
     # On parcourt tous les directory et fichiers enfants
     for racine, dirs, fichiers in os.walk(dossierPath):
@@ -214,10 +216,15 @@ def TestFullUrl(url):
             return False
     return False
     
-if __name__ == "__main__":
+
+def run():
+
 
     # On récupère tous les fichiers markdown
     allMd = FindAllMarkdown(".")
+
+
+    erreurs = False;
 
     # On récupère tous les liens
     allLiens = []

@@ -9,9 +9,9 @@ menu:
 draft: false
 ---
 
-Le GDR GPL organise chaque année des journées nationales qui réunissent tous les acteurs du GDR.
+Le GDR SDL organise chaque année des journées nationales qui réunissent tous les acteurs du GDR.
 
-Les prochaines journées nationales du GDR GPL auront lieu à Pau du 16 au 19 juin 2025. Réservez ces dates dès maintenant dans vos agendas!
+Les prochaines journées nationales du GDR SDL auront lieu à Pau du 16 au 19 juin 2025. Réservez ces dates dès maintenant dans vos agendas!
 
 Le **site web** de ces journées est ouvert à l'adresse suivante :
 

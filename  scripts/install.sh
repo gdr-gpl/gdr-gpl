@@ -12,4 +12,9 @@ if ! command -v hugo &> /dev/null; then
   rm hugo_extended_0.148.0_Linux-64bit.deb
 fi
 
+echo "Installation des requirements pour les scripts Python"
+python -m venv .venv
+source .venv/bin/activate
+pip install -r ../requirements.txt
+
 echo "Installation terminée."

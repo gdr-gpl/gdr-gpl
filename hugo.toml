@@ -1,8 +1,9 @@
-baseURL = "/"
+baseURL = "https://silver-spork-r4ggg5wwwr47cxg45-1313.app.github.dev/"
 languageCode = 'fr-fr'
-title = 'GdR GPL'
+title = 'GdR SDL'
 theme = "mon-theme"
 canonifyURLs = true
+enableRobotsTXT = true
 
 [taxonomies]
   archive = "archives"
@@ -12,4 +13,5 @@ canonifyURLs = true
     [markup.goldmark.renderer]
       unsafe = true
 
-
+[outputs]
+  home = ["HTML", "RSS", "JSON"]
