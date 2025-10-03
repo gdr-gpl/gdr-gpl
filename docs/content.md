@@ -17,7 +17,81 @@ Organisation des contenus du site GDR-GPL.
   - Type: news
   - Date: "2024-06-23T09:46:44Z"
 
-**Sous-dossiers (5) :** national day, ecole, bienvenue-site-sdl, group, action
+**Sous-dossiers (6) :** uncategorized, national day, ecole, bienvenue-site-sdl, group, action
+
+### uncategorized/
+
+**Fichiers Markdown (14) :**
+
+- `notes-des-ateliers-de-preparation-aux-concours.md`
+  - Titre: Notes des ateliers de pr\xE9paration aux concours
+  - Type: news
+  - Date: "2024-11-04T17:29:41Z"
+
+- `ag-du-gdr-gpl.md`
+  - Titre: AG du GDR SDL
+  - Type: news
+  - Date: "2025-07-14T12:53:07Z"
+
+- `conference-invitee-de-franck-barbier.md`
+  - Titre: Conf\xE9rence invit\xE9e de Franck Barbier
+  - Type: news
+  - Date: "2025-06-17T10:57:03Z"
+
+- `prix-du-meilleur-poster.md`
+  - Titre: Prix du meilleur poster
+  - Type: news
+  - Date: "2025-07-14T13:36:33Z"
+
+- `ouverture-des-journees-nationales-2025.md`
+  - Titre: Ouverture des journ\xE9es nationales 2025
+  - Type: news
+  - Date: "2025-06-16T14:07:05Z"
+
+- `actes-de-afadl25.md`
+  - Titre: Actes de AFADL
+  - Type: news
+  - Date: "2025-06-13T21:01:39Z"
+
+- `programme-detaille-des-journees-gpl2026.md`
+  - Titre: Programme d\xE9taill\xE9 des journ\xE9esSDL2026
+  - Type: news
+  - Date: "2025-07-14T20:26:08Z"
+
+- `appel-a-defis-la-suite.md`
+  - Titre: Appel \xE0 d\xE9fis (la suite...)
+  - Type: news
+  - Date: "2025-06-16T14:13:57Z"
+
+- `journees-nationales-gpl-2025.md`
+  - Titre: Journ\xE9es Nationales SDL 2025
+  - Type: news
+  - Date: "2025-02-26T09:41:27Z"
+
+- `contributeurs-au-site.md`
+  - Titre: Contributeurs du site
+  - Type: news
+  - Date: "2025-01-09T15:37:52Z"
+
+- `conference-invitee-de-frederic-loulergue.md`
+  - Titre: Conf\xE9rence invit\xE9e de Fr\xE9d\xE9ric Loulergue
+  - Type: news
+  - Date: "2025-06-24T13:31:22Z"
+
+- `hommage-a-jean-raymond-abrial.md`
+  - Titre: Hommage \xE0 Jean-Raymond Abrial
+  - Type: news
+  - Date: "2025-06-29T19:46:43Z"
+
+- `nouvelles-du-cnrs.md`
+  - Titre: Nouvelles du CNRS
+  - Type: news
+  - Date: "2025-07-14T12:20:24Z"
+
+- `conference-invitee-de-federica-sarro.md`
+  - Titre: Conf\xE9rence invit\xE9e de Federica Sarro
+  - Type: news
+  - Date: "2025-07-14T13:17:37Z"
 
 ### national day/
 

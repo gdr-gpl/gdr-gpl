@@ -12,6 +12,12 @@ Liste des scripts Python présents dans le projet et leur description.
 
 **Dépendances :** PIL, os
 
+## installRequirementsStandalone.sh
+
+**Fichier :** `ci/scripts/installRequirementsStandalone.sh`
+
+**Description :** Fichier permettant d'installer les requirements pour les scripts Python en standalone
+
 ## CheckEmptyFiles.py
 
 **Fichier :** `ci/scripts/CheckEmptyFiles.py`
@@ -43,4 +49,10 @@ Liste des scripts Python présents dans le projet et leur description.
 **Description :** Fichier permettant de vérifier les liens dans les fichiers markdown
 
 **Dépendances :** os, re, urllib
+
+## BuildBackup.sh
+
+**Fichier :** `ci/scripts/BuildBackup.sh`
+
+**Description :** Script de création de backup du projet
 
