@@ -104,7 +104,7 @@ def GenerateScriptsDoc(scriptsDir, docsDir):
     for nomFichier in os.listdir(scriptsDir):
 
         # Si le fichier est un .py alors on récupère le contenu
-        if nomFichier.endswith(".py"):
+        if nomFichier.endswith(".py") or nomFichier.endswith(".sh"):
 
             cheminComplet = os.path.join(scriptsDir, nomFichier)
             contenu += f"## {nomFichier}\n\n"
