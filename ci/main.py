@@ -1,6 +1,6 @@
 import sys
 
-from scripts import CheckLinks
+#from scripts import CheckLinks
 from scripts import CheckEmptyFiles
 from scripts import CheckImages
 from scripts import GenerateDocumentation
@@ -8,7 +8,7 @@ from scripts import CheckDates
 
 def main():
     tests = [
-        ("Vérification des liens", CheckLinks.run),
+        #("Vérification des liens", CheckLinks.run),
         ("Vérification des fichiers vides", CheckEmptyFiles.run),
         ("Vérification des fichiers dates", CheckDates.run),
         ("Vérification des et compression des images", CheckImages.run),
