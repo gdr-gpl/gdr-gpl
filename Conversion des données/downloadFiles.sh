@@ -1,13 +1,9 @@
 #!/bin/bash
 
-# Script pour extraire les URLs d'attachement des fichiers .md
-echo "Début de l'extraction des URLs d'attachement..."
-
 # Initialiser le fichier de sortie
 output_file="attachment_urls.txt"
 > "$output_file"
 
-# Compter les fichiers trouvés
 file_count=$(find "content/toutesInfos/attachment" -name "*.md" | wc -l)
 echo "Nombre de fichiers trouvés: $file_count"
 

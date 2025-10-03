@@ -35,11 +35,10 @@ function convert_date() {
     fi
 }
 
-# Trouver tous les fichiers .md dans le dossier ../content/jsp et ses sous-dossiers
 total_files=0
 converted_files=0
 
-echo "Recherche des fichiers à convertir dans ../content/jsp..."
+
 
 # Utiliser find pour obtenir tous les fichiers .md
 while IFS= read -r -d '' file; do

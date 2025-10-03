@@ -6,7 +6,7 @@ import os, re
 import xml.etree.ElementTree as ET
 
 import html2text  # Pour convertir HTML vers Markdown
-import yaml       # Pour générer le front matter YAML
+import yaml      
 
 # Charger le fichier XML d'export WordPress
 XML_FILE = "gdrgpl.WordPress.2025-09-03.xml"
@@ -16,17 +16,16 @@ root = tree.getroot()
 # Définition des espaces de noms XML utilisés dans l'export WordPress
 # Ces préfixes permettent d'accéder aux éléments spécifiques à WordPress
 ns = {
-    "wp": "http://wordpress.org/export/1.2/",           # Éléments WordPress
-    "content": "http://purl.org/rss/1.0/modules/content/", # Contenu des articles
-    "dc": "http://purl.org/dc/elements/1.1/",            # Dublin Core (métadonnées)
-    "excerpt": "http://wordpress.org/export/1.2/excerpt/", # Extraits d'articles
+    "wp": "http://wordpress.org/export/1.2/",           
+    "content": "http://purl.org/rss/1.0/modules/content/", 
+    "dc": "http://purl.org/dc/elements/1.1/",            
+    "excerpt": "http://wordpress.org/export/1.2/excerpt/", 
 }
 
 os.makedirs("content/posts", exist_ok=True)
 os.makedirs("content/pages", exist_ok=True)
 os.makedirs("content/categ", exist_ok=True)
 
-# Configuration du convertisseur HTML vers Markdown
 h = html2text.HTML2Text()
 h.ignore_links = False  # Conserver les liens dans la conversion
 h.body_width = 0        # Pas de coupure de ligne automatique (largeur infinie)
@@ -38,21 +37,11 @@ def tx(el):
     """
     return el.text if el is not None and el.text is not None else ""
 
-def safe_slug(s, fallback):
-    """
-    Génère un slug sécurisé pour les noms de fichiers à partir d'une chaîne.
-    
-    Args:
-        s: La chaîne à convertir en slug
-        fallback: Valeur de fallback si s est vide ou invalide
-        
-    Returns:
-        Un slug sécurisé contenant uniquement des caractères alphanumériques, 
-        tirets, points et underscores
-    """
+def safe_slug(s):
+
     s = (s or "").strip().lower().replace(" ", "-")
     s = re.sub(r"[^a-z0-9\-._]", "", s)  # Supprimer tous les caractères non autorisés
-    return s or fallback
+    return s
 
 def find_items(xPaths):
     """
@@ -72,7 +61,6 @@ def find_items(xPaths):
             description = tx(item.find("wp:category_description", ns)) or tx(item.find("wp:term_description", ns))
             taxonomy = tx(item.find("wp:term_taxonomy", ns))  # Type de taxonomie (category, tag, etc.)
             
-            # Création du front matter pour les métadonnées
             fm = {
                 "term_id": term_id or None,
                 "name": name or None,
@@ -107,24 +95,21 @@ def find_items(xPaths):
             #     f.write("---\n\n")
                 
 
-# TRAITEMENT PRINCIPAL : Conversion des articles, pages et autres contenus WordPress
 for item in root.findall("./channel/item"):
-    # Filtrage par type de contenu - ne traiter que les types supportés
+    
     ptype = tx(item.find("wp:post_type", ns))
     if ptype not in ["post"]: #""page", ", , "attachment", "nav_menu_item"
         print(f"⚠️ Ignored item of type '{ptype}'")
         continue
     
-        # === EXTRACTION DES MÉTADONNÉES DE BASE ===
+    # Extraction des données
     title = tx(item.find("title"))           # Titre de l'article/page
     
     pubDate = tx(item.find("pubDate"))       # Date de publication RSS
 
-    # === GÉNÉRATION DU SLUG (nom de fichier) ===
+    # (nom de fichier) 
     slug_in = tx(item.find("wp:post_name", ns))  # Slug WordPress original
-    # Fallback : générer un slug à partir du titre si le slug WordPress est vide
-    fallback_slug = re.sub(r"[^a-z0-9]+", "-", title.lower()).strip("-")
-    slug = safe_slug(slug_in, fallback_slug)
+    slug = safe_slug(slug_in)
 
     # === MÉTADONNÉES SUPPLÉMENTAIRES ===
     post_id = tx(item.find("wp:post_id", ns))               # ID unique WordPress
@@ -140,25 +125,16 @@ for item in root.findall("./channel/item"):
     status = tx(item.find("wp:status", ns))                  # publish/draft/private
     
 
-
-    # === TRAITEMENT DES CATÉGORIES ET TAGS ===
-    # Séparation entre catégories et tags selon le domaine WordPress
-    cats, tags = [], []
+    # Catégories associées à l'article
+    cats = []
     for c in item.findall("category"):
         label = tx(c)
         if not label:
             continue
-        dom = c.get("domain")  # "post_tag" pour les tags, "category" pour les catégories
-        if dom == "post_tag":
-            tags.append(label)
-        else:
-            cats.append(label)
+        cats.append(label)
             
-    if post_parent == "27":
-        parent = "groupes"
     
-        # === ÉCRITURE DES FICHIERS MARKDOWN ===
-    # Détermination du dossier de sortie selon le type de contenu
+    # Dans quel dossier enregistrer le fichier 
     match ptype:
         case "post":
             outdir = "content/posts"
@@ -167,36 +143,32 @@ for item in root.findall("./channel/item"):
             outdir = "content/pages/"  
             menu = "hero"
         case "attachment":
-            outdir = "content/attachment"      # Fichiers joints
+            outdir = "content/attachment"      
         case "nav_menu_item":
-            outdir = "content/nav_menu_item"   # Éléments de menu
+            outdir = "content/nav_menu_item"   
         case _:
-            continue  # Ignorer les autres types
+            continue 
     
 
-    # === CRÉATION DU FRONT MATTER HUGO ===
-    # Dictionnaire contenant toutes les métadonnées pour Hugo
     fm = {
         "title": title,
-        "type": post_type,                       # Type de contenu (post, page, etc.)
+        "type": post_type,                      
         "pubDate": pubDate or None,
         "draft": (status != "publish"), 
         "categories": cats or None,
-        # "summary": tx(excerpt) if excerpt is not None else None,  # Résumé de l'article
     }
 
             
     # # Création du fichier Markdown avec front matter YAML + contenu
     filename = os.path.join(outdir, f"{slug}.md")
     with open(filename, "w", encoding="utf-8") as f:
-        f.write("---\n")                           # Début du front matter YAML
-        f.write(yaml.dump(fm, sort_keys=False))    # Métadonnées en YAML
-        f.write("---\n\n")                         # Fin du front matter
-        f.write(content_md)                        # Contenu en Markdown
+        f.write("---\n")                           
+        f.write(yaml.dump(fm, sort_keys=False))
+        f.write("---\n\n")                         
+        f.write(content_md)                        
     
 
             
-# === TRAITEMENT DES CATÉGORIES ET TERMES WORDPRESS ===
 # Création des dossiers pour les taxonomies WordPress            
 # os.makedirs("content/categories", exist_ok=True)
 # os.makedirs("content/terms", exist_ok=True)
@@ -204,4 +176,4 @@ for item in root.findall("./channel/item"):
 # Appel de la fonction pour traiter les catégories et termes
 # find_items([".//wp:category", ".//wp:term"])
 
-print("✅ Conversion en Markdown terminée.")
+print("Conversion en Markdown terminée.")
