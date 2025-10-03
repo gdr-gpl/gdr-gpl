@@ -7,7 +7,7 @@ from urllib.parse import urlparse
 
 # Variables globales
 # Si True on vérifie seulement les domaines des URLs externes
-FAST_CHECK = False
+FAST_CHECK = True
 
 # Cache des domaines déjà testés en mode FAST_CHECK
 domain_cache = {}
