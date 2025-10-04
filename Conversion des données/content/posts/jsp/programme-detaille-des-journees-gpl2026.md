@@ -1,5 +1,5 @@
 ---
-title: "Programme d\xE9taill\xE9 des journ\xE9esGDR SciLog2026"
+title: "Programme d\xE9taill\xE9 des journ\xE9esGDR SciLog 2025"
 type: news
 date: Mon, 14 Jul 2025 20:26:08 +0000
 draft: false

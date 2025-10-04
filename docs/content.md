@@ -53,8 +53,8 @@ Organisation des contenus du site GDR-GPL.
   - Type: news
   - Date: "2025-06-13T21:01:39Z"
 
-- `programme-detaille-des-journees-gpl2026.md`
-  - Titre: Programme d\xE9taill\xE9 des journ\xE9esGDR SciLog2026
+- `programme-detaille-des-journees-gpl2025.md`
+  - Titre: Programme d\xE9taill\xE9 des journ\xE9esGDR SciLog 2025
   - Type: news
   - Date: "2025-07-14T20:26:08Z"
 
