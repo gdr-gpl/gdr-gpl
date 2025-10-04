@@ -17,9 +17,9 @@ Ces bourses d’un montant maximum de 1000€ sont destinées à couvrir des fra
   
 Ce séjour doit favoriser un projet de collaboration entre les deux équipes, ou de mobilité future du chercheur concerné (CRCT, délégation ou détachement, mutation ou recrutement).  
   
-La personne candidate doit être membre d’une des équipes du GDR SDL, c'est-à-dire que l’équipe doit participer à un des groupes de travail du GDR SDL. Le laboratoire du candidat ou le laboratoire d’accueil doit participer au GDR SDL.  
+La personne candidate doit être membre d’une des équipes du {{% scilog %}}, c'est-à-dire que l’équipe doit participer à un des groupes de travail du {{% scilog %}}. Le laboratoire du candidat ou le laboratoire d’accueil doit participer au {{% scilog %}}.  
   
-A l’issue de sa mobilité, le candidat enverra un bref rapport (environ une page) sur l’action réalisée. Ce rapport pourra être publié sur le site web du GDR SDL.  
+A l’issue de sa mobilité, le candidat enverra un bref rapport (environ une page) sur l’action réalisée. Ce rapport pourra être publié sur le site web du {{% scilog %}}.  
   
 Le montant de la bourse sera viré soit au laboratoire du candidat ou au laboratoire d’accueil si l’un des deux est une unité CNRS. Si aucun des 2 laboratoires n’est une unité CNRS, nous essayerons de trouver une solution.  
   
@@ -42,7 +42,7 @@ Le dossier de candidature doit se présenter en UN SEUL fichier au format pdf.
   
 Le dossier doit être envoyé à Mireille Blay-Fornarino et Catherine Dubois par courrier électronique. Envoyez un lien de téléchargement si besoin avec le message de candidature.  
   
-Les candidatures seront examinées par le bureau du GDR SDL, assisté le cas échéant par les responsables des groupes de travail et les membres du comité scientifique. Si besoin, la préférence sera donnée aux nouvelles collaborations.  
+Les candidatures seront examinées par le bureau du {{% scilog %}}, assisté le cas échéant par les responsables des groupes de travail et les membres du comité scientifique. Si besoin, la préférence sera donnée aux nouvelles collaborations.  
   
   
 **Calendrier :**  

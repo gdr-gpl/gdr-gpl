@@ -5,11 +5,11 @@ date: "2024-06-23T11:20:58Z"
 menu: 
   hero:
     weight: 1
-    name: "Groupe"
+    name: "Groupes"
 draft: false
 ---
 
-Les communautés scientifiques du GDR SDL sont organisées en groupes de travail et actions transverses. Les groupes de travail sont internes au GDR SDL, alors que les actions transverses réunissent une communauté associée à plusieurs GDR.
+Les communautés scientifiques du {{% scilog %}} sont organisées en groupes de travail et actions transverses. Les groupes de travail sont internes au {{% scilog %}}, alors que les actions transverses réunissent une communauté associée à plusieurs GDR.
 
 Les groupes de travail sont les suivants :
 

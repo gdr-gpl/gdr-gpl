@@ -17,7 +17,7 @@ Plusieurs actions sont actuellement en cours
 
 
 
-Dans le passé le GDR SDL a également fait les actions suivantes
+Dans le passé le {{% scilog %}} a également fait les actions suivantes
 
   * Appel à actions émergentes 2013
   * Initiative COS-Tools

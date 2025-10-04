@@ -8,4 +8,4 @@ categories:
 - SDL2025
 ---
 
-[Programme_Journées Nationales du GDR SDL 2025 - Sciencesconf](https://gdr-gpl.cnrs.fr/wp-content/uploads/2025/07/Programme_Journees-Nationales-du-GDR-GPL-2025-Sciencesconf.pdf)[Download](https://gdr-gpl.cnrs.fr/wp-content/uploads/2025/07/Programme_Journees-Nationales-du-GDR-GPL-2025-Sciencesconf.pdf)
+[Programme_Journées Nationales du {{% scilog %}} 2025 - Sciencesconf](https://gdr-gpl.cnrs.fr/wp-content/uploads/2025/07/Programme_Journees-Nationales-du-GDR-GPL-2025-Sciencesconf.pdf)[Download](https://gdr-gpl.cnrs.fr/wp-content/uploads/2025/07/Programme_Journees-Nationales-du-GDR-GPL-2025-Sciencesconf.pdf)

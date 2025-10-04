@@ -1,5 +1,5 @@
 ---
-title: AG du GDR SDL
+title: AG du {{% scilog %}}
 type: news
 date: "2025-07-14T12:53:07Z"
 draft: false
@@ -10,7 +10,7 @@ categories:
 archives: ["2025-07"]
 ---
 
-Mireille Blay et Catherine Dubois, directrices du GDR, ont fait le point sur les actions réalisées par le GDR SDL, ...
+Mireille Blay et Catherine Dubois, directrices du GDR, ont fait le point sur les actions réalisées par le {{% scilog %}}, ...
 
 <img src="/assets/jpg/GPL25_AG1.jpg" alt="GPL25_AG1"/>
 

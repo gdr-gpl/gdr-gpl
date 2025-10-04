@@ -5,7 +5,7 @@ date: "2025-01-27T12:36:10Z"
 draft: false
 ---
 
-Cette page est destinée à tous les contributeurs du site GDR SDL. Les contributeurs du site sont des membres du GDR SDL. Ce statut leur est accordé à leur demande par l'administrateur du site.
+Cette page est destinée à tous les contributeurs du site {{% scilog %}}. Les contributeurs du site sont des membres du {{% scilog %}}. Ce statut leur est accordé à leur demande par l'administrateur du site.
 
 Cette page explique comment créer une page, le type de pages que les contributeurs peuvent créer, et les principes de la modération.
 

@@ -10,7 +10,7 @@ categories:
 archives: ["2025-06"]
 ---
 
-Le GDR SDL a rendu hommage à Jean-Raymond Abrial, décédé il y a quelques semaines. Régine Laleau a rappelé les principales contributions de ce chercheur exceptionnel.
+Le {{% scilog %}} a rendu hommage à Jean-Raymond Abrial, décédé il y a quelques semaines. Régine Laleau a rappelé les principales contributions de ce chercheur exceptionnel.
 
 <object data="/assets/pdf/Presentation-HommageJRA.pdf" type="application/pdf" class="content" height="600px" width="100%"></object>
 

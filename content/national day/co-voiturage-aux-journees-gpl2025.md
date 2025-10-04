@@ -10,7 +10,7 @@ categories:
 archives: ["2025-05"]
 ---
 
-Nous sommes sûrement toutes et tous en train de préparer nos missions pour les [journées GdR SDL du 16 au 19 juin](https://gdrgpl2025.sciencesconf.org/) (pensez à vous [inscrire](https://gdrgpl2025.sciencesconf.org/page/informations_inscription)).
+Nous sommes sûrement toutes et tous en train de préparer nos missions pour les [journées {{% scilog %}} du 16 au 19 juin](https://gdrgpl2025.sciencesconf.org/) (pensez à vous [inscrire](https://gdrgpl2025.sciencesconf.org/page/informations_inscription)).
 
 Une possibilité est d’arriver sur Toulouse (ou Bordeaux) pour rejoindre Pau en 2h de voiture, à condition de la remplir ;-)
 

@@ -13,7 +13,7 @@ Organisation des contenus du site GDR-GPL.
   - Date: "2024-06-23T09:46:44Z"
 
 - `_index.md`
-  - Titre: Bienvenue sur le site du GDR SDL
+  - Titre: Bienvenue sur le site du GDR SciLog
   - Type: news
   - Date: "2024-06-23T09:46:44Z"
 
@@ -29,7 +29,7 @@ Organisation des contenus du site GDR-GPL.
   - Date: "2024-11-04T17:29:41Z"
 
 - `ag-du-gdr-gpl.md`
-  - Titre: AG du GDR SDL
+  - Titre: AG du {{% scilog %}}
   - Type: news
   - Date: "2025-07-14T12:53:07Z"
 
@@ -152,7 +152,7 @@ Organisation des contenus du site GDR-GPL.
   - Date: "2024-06-23T09:46:44Z"
 
 - `_index.md`
-  - Titre: Bienvenue sur le site du GDR SDL
+  - Titre: Bienvenue sur le site du GDR SciLog
   - Type: page
   - Date: "2024-06-23T09:46:44Z"
 
@@ -252,7 +252,7 @@ Organisation des contenus du site GDR-GPL.
   - Date: "2022-02-02T16:23:00Z"
 
 - `planning-de-la-journee-commune-du-gdr-radia-et-du-gt-ie-du-gdr-gpl-21-novembre-2024.md`
-  - Titre: Planning de la Journ\xE9e commune du GDR RADIA et du GT IE du GDR SDL \u2013\
+  - Titre: Planning de la Journ\xE9e commune du GDR RADIA et du GT IE du {{% scilog %}} \u2013\
   - Type: news
   - Date: "2024-11-09T20:27:54Z"
 
@@ -539,7 +539,7 @@ Organisation des contenus du site GDR-GPL.
   - Date: "2025-06-19T10:20:53Z"
 
 - `prospective-2024-2030-du-gdr-gpl.md`
-  - Titre: Prospective 2024-2030 du GDR SDL
+  - Titre: Prospective 2024-2030 du {{% scilog %}}
   - Type: news
   - Date: "2024-06-23T12:32:20Z"
 

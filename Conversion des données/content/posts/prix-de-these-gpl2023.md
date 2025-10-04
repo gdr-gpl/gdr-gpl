@@ -7,7 +7,7 @@ categories:
 - PrixTheseGPL
 ---
 
-Le jury du prix de thèse du GDR SDL, présidé par Pascal Poizat, a attribué un prix de thèse et deux accessits.
+Le jury du prix de thèse du {{% scilog %}}, présidé par Pascal Poizat, a attribué un prix de thèse et deux accessits.
 
 Le prix de thèse SDL 2024 est attribué à Xavier Denis pour sa thèse intitulée _"Deductive Verification for Rust Programs"._
 

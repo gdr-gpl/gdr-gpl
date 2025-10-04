@@ -1,6 +1,6 @@
 baseURL = "https://silver-spork-r4ggg5wwwr47cxg45-1313.app.github.dev/"
 languageCode = 'fr-fr'
-title = 'GdR SDL'
+title = 'GdR SciLog'
 theme = "mon-theme"
 canonifyURLs = true
 enableRobotsTXT = true
