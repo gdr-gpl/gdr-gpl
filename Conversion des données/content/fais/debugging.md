@@ -7,7 +7,7 @@ draft: false
 
 **GT Debugging**
 
-  * [Description du groupe Debugging : disponible ici](http://gdr-gpl.cnrs.fr/?page_id=165)
+  * [Description du groupe Debugging : disponible ici](/group/debugging)
   * **Actualités du groupe Debugging**
 
 

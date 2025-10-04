@@ -7,8 +7,8 @@ draft: false
 
 Plusieurs actions sont actuellement en cours
 
-  * [Appel à mobilité](https://gdr-gpl.cnrs.fr/?page_id=415)
-  * [Prix de thèse GDR SciLog](https://gdr-gpl.cnrs.fr/?page_id=376)
+  * [Appel à mobilité](/action/appel-mobilite)
+  * [Prix de thèse GDR SciLog](/action/prix-de-these-gpl)
   * Ateliers CONCOURS
 
 
