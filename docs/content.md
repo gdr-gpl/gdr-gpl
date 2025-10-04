@@ -29,7 +29,7 @@ Organisation des contenus du site GDR-GPL.
   - Date: "2024-11-04T17:29:41Z"
 
 - `ag-du-gdr-gpl.md`
-  - Titre: AG du {{% scilog %}}
+  - Titre: AG du GDR SciLog
   - Type: news
   - Date: "2025-07-14T12:53:07Z"
 

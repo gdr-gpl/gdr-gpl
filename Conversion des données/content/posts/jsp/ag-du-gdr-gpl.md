@@ -1,5 +1,5 @@
 ---
-title: AG du {{% scilog %}}
+title: AG du GDR SciLog
 type: news
 date: Mon, 14 Jul 2025 12:53:07 +0000
 draft: false

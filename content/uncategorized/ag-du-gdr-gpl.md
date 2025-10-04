@@ -1,5 +1,5 @@
 ---
-title: AG du {{% scilog %}}
+title: AG du GDR SciLog
 type: news
 date: "2025-07-14T12:53:07Z"
 draft: false
