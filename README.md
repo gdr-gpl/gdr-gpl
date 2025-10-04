@@ -5,7 +5,7 @@
         <img src="./static/assets/logo-cnrs.png" alt="CNRS" height="80"  />
       </td>
       <td align="center" style="font-size: 24px; font-weight: bold; color: #2c3e50;">
-        GDR SDL<br>
+        GDR SciLog<br>
         <span style="font-size: 16px; color: #7f8c8d;">Site Web Moderne et Collaboratif</span>
       </td>
       <td align="center">
@@ -17,11 +17,11 @@
   <hr style="width: 50%; margin: 20px auto; border: 2px solid #3498db;">
 </div>
 
-# GDR SDL - Site Web
+# GDR SciLog - Site Web
 
 ![Version](https://img.shields.io/github/v/release/gdr-gpl/gdr-gpl)
 
-Site web moderne et collaboratif pour le GDR SDL (Groupement de Recherche Sciences du Logiciel) - unité CNRS Sciences informatiques de la communauté scientifique française du génie logiciel et de la programmation.
+Site web moderne et collaboratif pour le GDR SciLog (Groupement de Recherche Sciences du Logiciel) - unité CNRS Sciences informatiques de la communauté scientifique française du génie logiciel et de la programmation.
 
 ## Sommaire
 
@@ -125,7 +125,7 @@ L'emploi de GitHub Actions garantira un déploiement automatisé, tout en inclua
 
 Également le site respectera la charte graphique existante et toutes les contraintes imposées.
 
-#### Site GdR SDL 
+#### Site GDR SciLog 
 [Site actuel](https://gdr-gpl.cnrs.fr/) 
 [Site du CNRS](https://mygdr.hosted.lip6.fr/accueilGDR/7/10)
 

@@ -1,5 +1,5 @@
 ---
-title: "Co-voiturage aux journ\xE9es SDL2025"
+title: "Co-voiturage aux journ\xE9es GDR SciLog2025"
 type: news
 date: Thu, 22 May 2025 12:14:58 +0000
 draft: false

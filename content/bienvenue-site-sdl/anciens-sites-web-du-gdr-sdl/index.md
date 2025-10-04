@@ -1,5 +1,5 @@
 ---
-title: Anciens sites web du GDR-SDL
+title: Anciens sites web du GDR SciLog
 type: page
 date: "2024-11-21T13:39:27Z"
 draft: false

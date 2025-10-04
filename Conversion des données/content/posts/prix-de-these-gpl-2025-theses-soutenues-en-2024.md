@@ -1,5 +1,5 @@
 ---
-title: "Prix de th\xE8se SDL 2025 (Th\xE8ses soutenues en 2024)"
+title: "Prix de th\xE8se GDR SciLog 2025 (Th\xE8ses soutenues en 2024)"
 type: news
 date: Fri, 31 Jan 2025 22:30:56 +0000
 draft: false

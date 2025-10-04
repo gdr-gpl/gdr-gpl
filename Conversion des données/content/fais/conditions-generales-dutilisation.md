@@ -12,7 +12,7 @@ draft: false
 
 [https://gdr-gpl.cnrs.fr/](https://gdr-gpl-2013-2024.imag.fr/index.html)
 
-GDR 3168 – GDR Sciences du Logiciel (SDL) – CNRS – Nice  
+GDR 3168 – GDR Sciences du Logiciel (GDR SciLog) – CNRS – Nice  
 CENTRE NATIONAL DE LA RECHERCHE SCIENTIFIQUE  
 I3S - Univ. Côte d'Azur  
 2000 route des lucioles, Bât Euclide B  

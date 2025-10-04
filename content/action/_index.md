@@ -12,7 +12,7 @@ draft: false
 Plusieurs actions sont actuellement en cours
 
   * [Appel à mobilité](/action/appel-mobilite/)
-  * [Prix de thèse SDL](/action/prix-de-these-gpl)
+  * [Prix de thèse GDR SciLog](/action/prix-de-these-gpl)
   * Ateliers CONCOURS
 
 

@@ -11,7 +11,7 @@ archives: ["2025-05"]
 ---
 
   
-Les prochaines journées nationales du GDR Sciences du Logiciel (SDL) se dérouleront du **16 au 19 juin** 2025 à Pau.
+Les prochaines journées nationales du GDR Sciences du Logiciel (GDR SciLog) se dérouleront du **16 au 19 juin** 2025 à Pau.
 
 **Les inscriptions sont désormais ouvertes** sur : <https://gdrgpl2025.sciencesconf.org/>
 

@@ -1,5 +1,5 @@
 ---
-title: "Prix de th\xE8se SDL"
+title: "Prix de th\xE8se GDR SciLog"
 type: page
 date: Fri, 31 Jan 2025 21:59:49 +0000
 draft: false

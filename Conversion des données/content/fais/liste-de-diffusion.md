@@ -5,7 +5,7 @@ date: Wed, 18 Dec 2024 22:26:08 +0000
 draft: false
 ---
 
-## Une liste de diffusion a été créée : gdr.sdl@imag.fr
+## Une liste de diffusion a été créée : gdr.gpl@imag.fr
 
 Cette liste a vocation de regrouper tous les membres du GDR Sciences du Logiciel.  
 L'abonnement est ouvert à tous. Son contenu est modéré mais devrait accepter tout message lié aux thématiques scientifiques du GDR et à son organisation. Typiquement il s'agit de :

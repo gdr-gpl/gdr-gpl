@@ -28,7 +28,7 @@ Le montant de la bourse sera viré soit au laboratoire du candidat ou au laborat
   
 Le dossier de candidature comprend  
   
-\- une fiche « Demande de bourse de mobilité SDL » signée par le candidat et son directeur de laboratoire, fiche dont le modèle se trouve à l'adresse ci-dessous  
+\- une fiche « Demande de bourse de mobilité GDR SciLog » signée par le candidat et son directeur de laboratoire, fiche dont le modèle se trouve à l'adresse ci-dessous  
   
 <https://gdrgpl.myxwiki.org/xwiki/bin/download/Main/DocumentsCompterendus%20de%20r%C3%A9unions/WebHome/MobiliteGPL-mode%CC%80le.doc>  
   

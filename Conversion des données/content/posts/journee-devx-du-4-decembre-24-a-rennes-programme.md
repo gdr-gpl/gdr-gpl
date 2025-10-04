@@ -11,7 +11,7 @@ categories:
 
 La matinée sera réservée aux présentations (merci pour les propositions !) sur un format de 10 minutes pour présenter et 5 minutes de questions.  
 L'après midi sera dédiée à des discussions et projections dans le but d'écrire un - ou des défis pour la création du GT DevX.  
-Merci également au gdr-sdl pour le financement de la journée !
+Merci également au GDR SciLog pour le financement de la journée !
 
 Valentin, Benoit, Steven.  
   

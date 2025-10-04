@@ -8,7 +8,7 @@ categories:
 - SDL2025
 ---
 
-La deuxième conférence invitée de ces journées SDL2025 était donnée par Frédéric Loulergue (Professeur à l'Université d'Orléans).
+La deuxième conférence invitée de ces journées GDR SciLog2025 était donnée par Frédéric Loulergue (Professeur à l'Université d'Orléans).
 
 ![](https://gdr-gpl.cnrs.fr/wp-content/uploads/2025/06/GPL25-Loulergue1.jpg)
 

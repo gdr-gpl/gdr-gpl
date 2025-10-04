@@ -17,7 +17,7 @@ Organisation des contenus du site GDR-GPL.
   - Type: news
   - Date: "2024-06-23T09:46:44Z"
 
-**Sous-dossiers (6) :** uncategorized, national day, ecole, bienvenue-site-sdl, group, action
+**Sous-dossiers (6) :** uncategorized, national day, ecole, bienvenue-site-GDR SciLog, group, action
 
 ### uncategorized/
 
@@ -54,7 +54,7 @@ Organisation des contenus du site GDR-GPL.
   - Date: "2025-06-13T21:01:39Z"
 
 - `programme-detaille-des-journees-gpl2026.md`
-  - Titre: Programme d\xE9taill\xE9 des journ\xE9esSDL2026
+  - Titre: Programme d\xE9taill\xE9 des journ\xE9esGDR SciLog2026
   - Type: news
   - Date: "2025-07-14T20:26:08Z"
 
@@ -64,7 +64,7 @@ Organisation des contenus du site GDR-GPL.
   - Date: "2025-06-16T14:13:57Z"
 
 - `journees-nationales-gpl-2025.md`
-  - Titre: Journ\xE9es Nationales SDL 2025
+  - Titre: Journ\xE9es Nationales GDR SciLog 2025
   - Type: news
   - Date: "2025-02-26T09:41:27Z"
 
@@ -103,17 +103,17 @@ Organisation des contenus du site GDR-GPL.
   - Date: "2025-05-19T09:23:35Z"
 
 - `co-voiturage-aux-journees-gpl2025.md`
-  - Titre: Co-voiturage aux journ\xE9es SDL2025
+  - Titre: Co-voiturage aux journ\xE9es GDR SciLog2025
   - Type: news
   - Date: "2025-05-22T12:14:58Z"
 
 - `journees-nationales-gpl-2025.md`
-  - Titre: Journ\xE9es Nationales SDL 2025
+  - Titre: Journ\xE9es Nationales GDR SciLog 2025
   - Type: news
   - Date: "2025-02-26T09:41:27Z"
 
 - `ouverture-des-journees-nationales-gpl-2024-et-programme.md`
-  - Titre: Ouverture des Journ\xE9es Nationales SDL 2024 et programme
+  - Titre: Ouverture des Journ\xE9es Nationales GDR SciLog 2024 et programme
   - Type: "news"
   - Date: "2024-06-03T08:22:24Z"
 
@@ -147,7 +147,7 @@ Organisation des contenus du site GDR-GPL.
 **Fichiers Markdown (2) :**
 
 - `actes-des-journees-gpl-2025.md`
-  - Titre: Actes des journ\xE9es SDL 2025
+  - Titre: Actes des journ\xE9es GDR SciLog 2025
   - Type: news
   - Date: "2024-06-23T09:46:44Z"
 
@@ -167,12 +167,12 @@ Organisation des contenus du site GDR-GPL.
   - Type: page
   - Date: "2024-12-18T22:26:08Z"
 
-#### anciens-sites-web-du-gdr-sdl/
+#### anciens-sites-web-du-gdr-GDR SciLog/
 
 **Fichiers Markdown (1) :**
 
 - `index.md`
-  - Titre: Anciens sites web du GDR-SDL
+  - Titre: Anciens sites web du GDR SciLog
   - Type: page
   - Date: "2024-11-21T13:39:27Z"
 
@@ -231,7 +231,7 @@ Organisation des contenus du site GDR-GPL.
 **Fichiers Markdown (2) :**
 
 - `prix-de-these-gpl-2025-theses-soutenues-en-2024.md`
-  - Titre: Prix de th\xE8se SDL 2025 (Th\xE8ses soutenues en 2024)
+  - Titre: Prix de th\xE8se GDR SciLog 2025 (Th\xE8ses soutenues en 2024)
   - Type: news
   - Date: "2025-01-31T22:30:56Z"
 
@@ -529,7 +529,7 @@ Organisation des contenus du site GDR-GPL.
 **Fichiers Markdown (5) :**
 
 - `prix-de-these-gpl-2025-theses-soutenues-en-2024.md`
-  - Titre: Prix de th\xE8se SDL 2025 (Th\xE8ses soutenues en 2024)
+  - Titre: Prix de th\xE8se GDR SciLog 2025 (Th\xE8ses soutenues en 2024)
   - Type: news
   - Date: "2025-01-31T22:30:56Z"
 
@@ -579,22 +579,22 @@ Organisation des contenus du site GDR-GPL.
 **Fichiers Markdown (4) :**
 
 - `index.md`
-  - Titre: Prix de th\xE8se SDL
+  - Titre: Prix de th\xE8se GDR SciLog
   - Type: page
   - Date: "2025-01-31T21:59:49Z"
 
 - `prix-de-these-gpl-2025-theses-soutenues-en-2024.md`
-  - Titre: Prix de th\xE8se SDL 2025 (Th\xE8ses soutenues en 2024)
+  - Titre: Prix de th\xE8se GDR SciLog 2025 (Th\xE8ses soutenues en 2024)
   - Type: news
   - Date: "2025-01-31T22:30:56Z"
 
 - `prix-de-these-gpl2023.md`
-  - Titre: Prix de th\xE8se SDL2024
+  - Titre: Prix de th\xE8se GDR SciLog2024
   - Type: news
   - Date: "2024-06-24T08:29:13Z"
 
 - `prix-de-gpl-these-2025.md`
-  - Titre: Prix de SDL Th\xE8se 2025
+  - Titre: Prix de GDR SciLog Th\xE8se 2025
   - Type: news
   - Date: "2025-06-19T10:06:57Z"
 

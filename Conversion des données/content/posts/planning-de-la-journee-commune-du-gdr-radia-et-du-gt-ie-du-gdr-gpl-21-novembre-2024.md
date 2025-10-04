@@ -7,7 +7,7 @@ draft: false
 categories:
 - An2024
 - IE
-- Soutien SDL
+- Soutien GDR SciLog
 ---
 
 Le GDR RADIA et le groupe de travail Ingénierie des Exigences (IE) du {{% scilog %}} s’associent pour proposer une journée d’étude commune le 21 novembre 2024 au LIP6 à Paris.

@@ -1,5 +1,5 @@
 ---
-title: "Journ\xE9es Nationales SDL 2025"
+title: "Journ\xE9es Nationales GDR SciLog 2025"
 type: news
 date: Wed, 26 Feb 2025 09:41:27 +0000
 draft: false
@@ -14,4 +14,4 @@ Le site web de ces journées est ouvert à l’adresse suivante :
 
 <https://gdrgpl2025.sciencesconf.org>
 
-Le site web du {{% scilog %}} publie également des articles sur les journées SDL 2025. En voici la liste:
+Le site web du {{% scilog %}} publie également des articles sur les journées GDR SciLog 2025. En voici la liste:
