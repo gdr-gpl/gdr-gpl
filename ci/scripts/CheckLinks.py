@@ -307,5 +307,3 @@ def run():
             result = InternalVerification(url, source_file)
             print(f"{'✓' if result else 'X'} [{nbLiensTraites}/{nbLiensTotal}] {url}")
 
-if __name__ == "__main__":
-    run()
