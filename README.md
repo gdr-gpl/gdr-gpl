@@ -88,6 +88,15 @@ Liste des ODJs et leurs CRs :
 
 ### Product Backlog
 
+Notre backlog est organisé avec GitHub Projects avec une vue par sprint.
+**[Tableau de bord du Product Backlog](https://github.com/orgs/gdr-sdl/projects/1/views/1)**
+
+**User Stories principales :**
+
+- [**[US] Site web du CNRS**](https://github.com/gdr-sdl/gdr-sdl/issues/83) - En tant que visiteur du site CNRS, je veux accéder rapidement aux actualités afin de me tenir informé des découvertes récentes.
+- [**[US] Créer le thème**](https://github.com/gdr-sdl/gdr-sdl/issues/84) - En tant que développeur web, je veux créer un thème Hugo pour le site CNRS afin d’assurer une cohérence visuelle et une maintenance simplifiée.
+- [**[US] Vérification du site**](https://github.com/gdr-sdl/gdr-sdl/issues/85) - En tant qu’administrateur du site, je veux utiliser un script Python qui effectue plusieurs vérifications afin de m’assurer que le site est complet et cohérent avant sa mise en ligne.
+
 Voici les principales fonctionnalités développées et prévues :
 
 **Fonctionnalités réalisées :**
