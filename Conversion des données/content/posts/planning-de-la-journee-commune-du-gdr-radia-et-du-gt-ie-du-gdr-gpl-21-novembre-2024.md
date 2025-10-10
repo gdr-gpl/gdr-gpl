@@ -1,5 +1,5 @@
 ---
-title: "Planning de la Journ\xE9e commune du GDR RADIA et du GT IE du GDR GPL \u2013\
+title: "Planning de la Journ\xE9e commune du GDR RADIA et du GT IE du {{% scilog %}} \u2013\
   \ 21 Novembre 2024"
 type: news
 date: Sat, 09 Nov 2024 20:27:54 +0000
@@ -7,10 +7,10 @@ draft: false
 categories:
 - An2024
 - IE
-- Soutien GPL
+- Soutien GDR SciLog
 ---
 
-Le GDR RADIA et le groupe de travail Ingénierie des Exigences (IE) du GDR GPL s’associent pour proposer une journée d’étude commune le 21 novembre 2024 au LIP6 à Paris.
+Le GDR RADIA et le groupe de travail Ingénierie des Exigences (IE) du {{% scilog %}} s’associent pour proposer une journée d’étude commune le 21 novembre 2024 au LIP6 à Paris.
 
 Les exposés seront centrés sur des travaux relevant à la fois des thématiques IA et IE, comme par exemple l’IE pour l’IA (l’IE pour une IA de confiance, comment définir le quoi, pour qui, comment lors de la conception d’un système IA, …), l’IA pour l’IE (comment l’IA peut aider à exprimer, analyser, vérifier des exigences, … )
 

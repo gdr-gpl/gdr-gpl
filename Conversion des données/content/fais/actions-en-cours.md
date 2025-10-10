@@ -7,13 +7,13 @@ draft: false
 
 Plusieurs actions sont actuellement en cours
 
-  * [Appel à mobilité](https://gdr-gpl.cnrs.fr/?page_id=415)
-  * [Prix de thèse GPL](https://gdr-gpl.cnrs.fr/?page_id=376)
+  * [Appel à mobilité](/action/appel-mobilite)
+  * [Prix de thèse GDR SciLog](/action/prix-de-these-gpl)
   * Ateliers CONCOURS
 
 
 
-Dans le passé le GDR GPL a également fait les actions suivantes
+Dans le passé le {{% scilog %}} a également fait les actions suivantes
 
   * Appel à actions émergentes 2013
   * Initiative COS-Tools

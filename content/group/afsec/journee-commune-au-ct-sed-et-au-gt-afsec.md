@@ -11,7 +11,7 @@ archives: ["2025-01"]
 ---
 
   
-Le CT SED (GDR MACS) et le GT AFSEC (GDR GPL) s’associent pour organiser une journée d’étude commune le 30 janvier 2025 au CNAM à Paris. Cette journée, gratuite et ouverte à tous, sera l’occasion de partager et de discuter des enjeux autour de la sécurité et des méthodes formelles, dans le but de mieux comprendre les problématiques de chacun et, pourquoi pas, de favoriser de nouvelles collaborations.  
+Le CT SED (GDR MACS) et le GT AFSEC ({{% scilog %}}) s’associent pour organiser une journée d’étude commune le 30 janvier 2025 au CNAM à Paris. Cette journée, gratuite et ouverte à tous, sera l’occasion de partager et de discuter des enjeux autour de la sécurité et des méthodes formelles, dans le but de mieux comprendre les problématiques de chacun et, pourquoi pas, de favoriser de nouvelles collaborations.  
   
 Le programme de la journée :  
 \- Yan Monier : _Identification adaptative de système à un automate hybride dans le contexte des jumeaux numériques Cyber-Physiques_  

@@ -10,7 +10,7 @@ categories:
 archives: ["2023-12"]
 ---
 
-Le groupe de travail IDM du GDR GPL, a organisé un International MDENet workshop à Paris le 15 décembre 2023.
+Le groupe de travail IDM du {{% scilog %}}, a organisé un International MDENet workshop à Paris le 15 décembre 2023.
 
 <https://international.mde-network.org/paris23>
 

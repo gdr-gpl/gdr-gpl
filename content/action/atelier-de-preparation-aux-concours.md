@@ -15,4 +15,5 @@ Paul Temple et Catherine Dubois ont organisé un atelier à l'attention des jeun
 
 Leurs transparents sont disponibles à l'url suivant:
 
-<https://gdr-gpl.cnrs.fr/wp-content/uploads/2025/06/soiree_concours_GDR-GPL_2025.pdf>
+
+<a href="/assets/pdf/soiree_concours_GDR-GPL_2025.pdf" target="_blank">lien</a>

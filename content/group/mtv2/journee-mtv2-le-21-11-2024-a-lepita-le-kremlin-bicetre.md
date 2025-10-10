@@ -11,7 +11,7 @@ categories:
 archives: ["2024-11"]
 ---
 
-La prochaine journée du groupe de travail MTV2 (Méthodes de test pour la validation et la vérification) du GDR GPL aura lieu le 21 novembre 2024, à l'EPITA sur le campus de Paris – Kremlin-Bicêtre   
+La prochaine journée du groupe de travail MTV2 (Méthodes de test pour la validation et la vérification) du {{% scilog %}} aura lieu le 21 novembre 2024, à l'EPITA sur le campus de Paris – Kremlin-Bicêtre   
 adresse : 14-16 Rue Voltaire, 94270 Le Kremlin-Bicêtre
 
 **Nous avons le plaisir de vous annoncer l'exposé invité qui sera donné lors de cette journée :**

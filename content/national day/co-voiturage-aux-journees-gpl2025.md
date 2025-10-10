@@ -1,5 +1,5 @@
 ---
-title: "Co-voiturage aux journ\xE9es GPL2025"
+title: "Co-voiturage aux journ\xE9es GDR SciLog2025"
 type: news
 date: "2025-05-22T12:14:58Z"
 draft: false
@@ -10,7 +10,7 @@ categories:
 archives: ["2025-05"]
 ---
 
-Nous sommes sûrement toutes et tous en train de préparer nos missions pour les [journées GdR GPL du 16 au 19 juin](https://gdrgpl2025.sciencesconf.org/) (pensez à vous [inscrire](https://gdrgpl2025.sciencesconf.org/page/informations_inscription)).
+Nous sommes sûrement toutes et tous en train de préparer nos missions pour les [journées {{% scilog %}} du 16 au 19 juin](https://gdrgpl2025.sciencesconf.org/) (pensez à vous [inscrire](https://gdrgpl2025.sciencesconf.org/page/informations_inscription)).
 
 Une possibilité est d’arriver sur Toulouse (ou Bordeaux) pour rejoindre Pau en 2h de voiture, à condition de la remplir ;-)
 

@@ -7,10 +7,10 @@ draft: false
 
 ## Une liste de diffusion a été créée : gdr.gpl@imag.fr
 
-Cette liste a vocation de regrouper tous les membres du GDR Génie de la Programmation et du Logiciel.  
+Cette liste a vocation de regrouper tous les membres du GDR Sciences du Logiciel.  
 L'abonnement est ouvert à tous. Son contenu est modéré mais devrait accepter tout message lié aux thématiques scientifiques du GDR et à son organisation. Typiquement il s'agit de :
 
-  * Annonce d'événements dans la thématique du GDR GPL
+  * Annonce d'événements dans la thématique du {{% scilog %}}
   * Annonce d'emplois disponibles
 
 

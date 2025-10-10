@@ -5,10 +5,10 @@ date: Mon, 16 Jun 2025 14:07:05 +0000
 draft: false
 categories:
 - An2025
-- GPL2025
+-SDL2025
 ---
 
-Les Journées nationales 2025 du GDR GPL ont été ouvertes en ce 16 juin 2025 par les co-directrices du GDR, Mireille Blay et Catherine Dubois, ainsi que les organisateurs locaux : Adel Noureddine et Olivier Le Goaër.
+Les Journées nationales 2025 du {{% scilog %}} ont été ouvertes en ce 16 juin 2025 par les co-directrices du GDR, Mireille Blay et Catherine Dubois, ainsi que les organisateurs locaux : Adel Noureddine et Olivier Le Goaër.
 
 A ce jour il y a 107 inscrits.
 

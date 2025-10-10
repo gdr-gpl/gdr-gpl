@@ -1,5 +1,5 @@
 ---
-title: "Prix de th\xE8se GPL 2025 (Th\xE8ses soutenues en 2024)"
+title: "Prix de th\xE8se GDR SciLog 2025 (Th\xE8ses soutenues en 2024)"
 type: news
 date: "2025-01-31T22:30:56Z"
 draft: false
@@ -12,17 +12,17 @@ archives: ["2025-01"]
 
 <https://gdrgpl-prixthese2025.hotcrp.com>
 
-décerné par le GDR GPL
+décerné par le {{% scilog %}}
 
 date limite de candidature : vendredi 17 mars 2025
 
-Créé en 2013 pour récompenser chaque année une excellente thèse préparée au sein du Groupement de Recherche Génie de la Programmation et du Logiciel (GDR GPL),  
-ce prix a pour objectif de promouvoir les travaux du GDR GPL auprès de la communauté informatique, qu'ils soient fondamentaux ou appliqués.  
+Créé en 2013 pour récompenser chaque année une excellente thèse préparée au sein du Groupement de Recherche Sciences du Logiciel ({{% scilog %}}),  
+ce prix a pour objectif de promouvoir les travaux du {{% scilog %}} auprès de la communauté informatique, qu'ils soient fondamentaux ou appliqués.  
 La sélection du prix sera faite par un jury d'universitaires et de chercheurs(cheuses).  
-La remise oﬃcielle du prix aura lieu lors des prochaines journées nationales du GDR GPL qui se dérouleront en juin 2025.  
+La remise oﬃcielle du prix aura lieu lors des prochaines journées nationales du {{% scilog %}} qui se dérouleront en juin 2025.  
 À cette occasion, le ou la lauréat(e) se verra remettre un prix.
 
-Les thèmes scientifiques du GDR GPL sont présentés dans les motivations et enjeux du GDR (<https://gdr-gpl.cnrs.fr/?page_id=18>) et développés dans le cadre des groupes de travail qui le composent (<https://gdr-gpl.cnrs.fr/?page_id=27>). Plus généralement il s’agit des enjeux associés aux sciences du logiciel.
+Les thèmes scientifiques du {{% scilog %}} sont présentés dans les [motivations et enjeux du GDR](/bienvenue-site-sdl/motivation/) et développés dans le cadre des [groupes de travail](/group/)qui le composent. Plus généralement il s’agit des enjeux associés aux sciences du logiciel.
 
 Les critères pris en compte par le jury pour sélectionner le ou la lauréat(e) sont notamment l'originalité, l'importance et l'impact des résultats obtenus, ce qui inclut le ou les éventuels logiciels, preuves ou jeux de données développés pour la thèse, et la qualité de la rédaction.
 
@@ -36,7 +36,7 @@ DOSSIER DE CANDIDATURE
 
 Peut déposer sa candidature toute personne ayant soutenu son doctorat d'informatique dans une école ou université française entre le 1er janvier 2024 et le 31 décembre 2024.  
 Toute candidature devra être explicitement soutenue par les encadrants de thèse. Il n'est pas permis à un(e) même encadrant(e) de soutenir plus d'une candidature.  
-L’association avec le GDR GPL doit être si possible précisée (par exemple candidat(e) ou encadrant(e) inscrit dans l’un des GT ou y ayant fait une présentation, lien à un enjeu).
+L’association avec le {{% scilog %}} doit être si possible précisée (par exemple candidat(e) ou encadrant(e) inscrit dans l’un des GT ou y ayant fait une présentation, lien à un enjeu).
 
 La candidature consiste en un fichier PDF (dossier) à transmettre sur un site en ligne.
 
