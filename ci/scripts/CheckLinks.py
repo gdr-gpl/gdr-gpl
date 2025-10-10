@@ -1,5 +1,6 @@
 import os
 import re
+import json
 from urllib import request
 from urllib.parse import urlparse
 
@@ -11,6 +12,24 @@ FAST_CHECK = True
 
 # Cache des domaines déjà testés en mode FAST_CHECK
 domain_cache = {}
+
+# ======================================== #
+# ==== Récupération des liens ignorés ==== #
+# ======================================== #
+def GetIgnoredLinks():
+    """
+    Récupère la liste des liens à ignorer dans le fichier ignoredlinks.json
+    
+    Returns :
+        list : la liste des liens à ignorer
+    """
+    try:
+        with open('.\\ci\\scripts\\ignoredlinks.json', 'r', encoding='utf-8') as f:
+            return json.load(f)
+    except FileNotFoundError:
+        return []
+
+ignored_links = GetIgnoredLinks()
 
 # ================================ #
 # ==== Recherche des fichiers ==== #
@@ -100,7 +119,7 @@ def InternalVerification(lien, fichier_source):
     """
 
     # Si le lien est un anchor link, lien relatif ou address mail il est automatiquement validé
-    if lien.startswith('#') or '@' in lien or '?' in lien:
+    if lien.startswith('#') or '@' in lien or '?' in lien or lien in ignored_links:
         return True
     
     # Si le lien commence par /
@@ -118,6 +137,34 @@ def InternalVerification(lien, fichier_source):
     
     return os.path.exists(cheminAbsolu)
 
+# ================================= #
+# ==== Récupération du domaine ==== #
+# ================================= #
+def GetDomainOnly(url):
+    """
+    Récupère le domaine d'un URL (par exemple https://github.com)
+
+    Args :
+        url : l'URL complète
+
+    Returns :
+        str : le domaine principal
+    """
+    try:
+
+        pathlessURL = urlparse(url)
+        
+        # partie https
+        scheme = pathlessURL.scheme
+
+        # partie github.com
+        netloc = pathlessURL.netloc
+        
+        return f"{scheme}://{netloc}"
+
+    except Exception:
+        return url
+
 # ========================================= #
 # ==== Vérification des liens externes ==== #
 # ========================================= #
@@ -133,20 +180,18 @@ def ExternalVerification(url):
     """
     
     global domain_cache
+
+    # Si ignore link n'est pas vide ou Fast Check est activé alors on récupère le domaine
+    if ignored_links or FAST_CHECK:
+        domain = GetDomainOnly(url)
+
+    #### Si le domaine est dans la liste des liens ignorés il est automatiquement validé ####
+    if ignored_links and (domain in ignored_links):
+        return True
     
     # Si FAST_CHECK est activé
     if FAST_CHECK:
         try:
-
-            # On extrait le domaine principal de l'URL par exemple https://github.com
-            pathlessURL = urlparse(url)
-            
-            # partie https
-            scheme = pathlessURL.scheme
-
-            # partie github.com
-            netloc = pathlessURL.netloc
-            domain = f"{scheme}://{netloc}"
             
             # Si le domaine est déjà dans le cache on retourne le résultat mis en cache
             if domain in domain_cache:
@@ -176,6 +221,7 @@ def TestDomain(domain):
     try:
         # On essaye d'abord une requête HEAD pour économe du temps et du bandwidth
         req = request.Request(domain, method="HEAD")
+
         with request.urlopen(req, timeout=5) as response:
             if response.status < 400:
                 return True
@@ -260,3 +306,4 @@ def run():
         else:
             result = InternalVerification(url, source_file)
             print(f"{'✓' if result else 'X'} [{nbLiensTraites}/{nbLiensTotal}] {url}")
+
